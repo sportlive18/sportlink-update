@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (9 channels) =====
+#===== Fancode | Sportlink (10 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 17 October 2026 at 8:07:11 pm
+#DATE:- Saturday, 17 October 2026 at 9:28:14 pm
 
 #EXTINF:-1 tvg-id="4249694" tvg-name="Zimbabwe Vs Bangladesh @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249694_53089_BAN_ZIM_FC-WEB_1792056447852.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Zimbabwe Vs Bangladesh
 https://dai-fancode.pages.dev/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -27,6 +27,9 @@ https://dai-fancode.pages.dev/mumbai/4249995_english_hls_d29c6a2bb331564_1ta-di_
 
 #EXTINF:-1 tvg-id="4250147" tvg-name="Semi Final @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Semi Final
 https://dai-fancode.pages.dev/mumbai/4250147_english_hls_a708396dcf6135_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247656" tvg-name="Real Betis Vs Fc Barcelona @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247656_53004_RB_BAR_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Real Betis Vs Fc Barcelona
+https://dai-fancode.pages.dev/mumbai/4247656_english_hls_79ab3598bc32108_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #===== SonyLIV | Sportlink (6 channels) =====
 #EXTINF:-1 tvg-name="Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [ENG] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 [ENG] - MG Indian Super League 2026-27
@@ -5912,11 +5915,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566,135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792248385~exp=1792251985~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=c67c6104638e4f3fb0edba0e45036fb2248d8cc9580936b0d2bb1d94a36b8ba9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792252064~exp=1792255664~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=ce0990f97998484d14f0dc771749b5a719273c577ca23781933279b084d5f210
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792248385~exp=1792251985~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=c67c6104638e4f3fb0edba0e45036fb2248d8cc9580936b0d2bb1d94a36b8ba9
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792248385~exp=1792251985~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=c67c6104638e4f3fb0edba0e45036fb2248d8cc9580936b0d2bb1d94a36b8ba9"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792252064~exp=1792255664~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=ce0990f97998484d14f0dc771749b5a719273c577ca23781933279b084d5f210
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792252064~exp=1792255664~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=ce0990f97998484d14f0dc771749b5a719273c577ca23781933279b084d5f210"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" group-title="Sportlink I Entertainment | Sportlink",Big Magic
