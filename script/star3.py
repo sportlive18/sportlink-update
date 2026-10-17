@@ -8,7 +8,7 @@ JSON_URL   = "https://sportlink-jtv.pages.dev/hstar.json"
 OUTPUT     = "tstar.m3u"
 
 
-COOKIE     = "hdntl=exp=1792221660~acl=%2f*~id=4943e67c18e469e966698a8d8f94af66~data=hdntl~hmac=bbb8c74b583d5bf97f6a1779c8195f088f3e1054fcbf301e501bf6dfbd718024"
+COOKIE     = "hdntl=exp=1792302291~acl=%2f*~id=110bb69d0ca3ce0f28ce0d89885bf651~data=hdntl~hmac=5fcdb357489f1e9901d024e6ae7bf2f74ff5c9f9c1d04daba4e95993cb3902b1"
 
 USER_AGENT = "Virat"
 REFERER    = "https://www.hotstar.com/"
