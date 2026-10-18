@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (3 channels) =====
+#===== Fancode | Sportlink (4 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 18 October 2026 at 9:49:13 am
+#DATE:- Sunday, 18 October 2026 at 11:21:10 am
 
 #EXTINF:-1 tvg-id="4249799" tvg-name="Adelaide Strikers Women Vs Brisbane Heat Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249799_53097_BH-W_AS-W_FC-Web_1791883788852.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Adelaide Strikers Women Vs Brisbane Heat Women
 https://dai-fancode.pages.dev/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -10,12 +10,15 @@ https://dai-fancode.pages.dev/mumbai/4249799_english_hls_a81c86e68253685_1ta-di_
 #EXTINF:-1 tvg-id="4249800" tvg-name="Perth Scorchers Women Vs Sydney Thunder Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249800_53097_ST-W_PS-W_FC-Web_1791883788884.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Perth Scorchers Women Vs Sydney Thunder Women
 https://dai-fancode.pages.dev/mumbai/4249800_english_hls_010d0bc66290556_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4248855" tvg-name="Double's Final @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Double's Final
+https://dai-fancode.pages.dev/mumbai/4248855_english_hls_71ed00e54749010_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="DP World India Championship - Day 4 - 18 Oct 2026 [ENG] - DP World Tour @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", DP World India Championship - Day 4 - 18 Oct 2026 [ENG] - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345748~acl=/*~id=96818669648156662171734885220656~hmac=37016dc30579936572bdc69aa89faa61d5943a5324989294d7235393c95d4c16
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792346355~acl=/*~id=51705928232389340155344488999058~hmac=a03e4ad22e8117ebc28508347ea0206b2e4b22d90499b2e8232b90e994680a26
 
 #EXTINF:-1 tvg-name="SJM Macao Open - Day 4 - 18 Oct 2026 [ENG] - Asian Tour 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", SJM Macao Open - Day 4 - 18 Oct 2026 [ENG] - Asian Tour 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345748~acl=/*~id=96818669648156662171734885220656~hmac=37016dc30579936572bdc69aa89faa61d5943a5324989294d7235393c95d4c16
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792346355~acl=/*~id=51705928232389340155344488999058~hmac=a03e4ad22e8117ebc28508347ea0206b2e4b22d90499b2e8232b90e994680a26
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -5798,11 +5801,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566,135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792298856~exp=1792302456~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=e9f4098d7e52c4ea2e18295670e3d5f62f6b952c25f1c07d3f067670b418f45c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792302495~exp=1792306095~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=86f96114a41126ed1840efaaf30e7be75392f6da3e2b0833ba52e72672fb220a
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792298856~exp=1792302456~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=e9f4098d7e52c4ea2e18295670e3d5f62f6b952c25f1c07d3f067670b418f45c
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792298856~exp=1792302456~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=e9f4098d7e52c4ea2e18295670e3d5f62f6b952c25f1c07d3f067670b418f45c"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792302495~exp=1792306095~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=86f96114a41126ed1840efaaf30e7be75392f6da3e2b0833ba52e72672fb220a
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792302495~exp=1792306095~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=86f96114a41126ed1840efaaf30e7be75392f6da3e2b0833ba52e72672fb220a"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" group-title="Sportlink I Entertainment | Sportlink",Big Magic
@@ -8047,11 +8050,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6,0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792298978~exp=1792302578~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=7ee33676a781e184ac917becef02c5e20ba057857de49cd636ba322c4a6b8b9d
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792302494~exp=1792306094~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=1b87d3d6bcfc24f3db7caa9e4d3f911d0eeb92faa1786dc5fa16ecdd34f2b4f4
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792298978~exp=1792302578~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=7ee33676a781e184ac917becef02c5e20ba057857de49cd636ba322c4a6b8b9d
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792298978~exp=1792302578~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=7ee33676a781e184ac917becef02c5e20ba057857de49cd636ba322c4a6b8b9d"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792302494~exp=1792306094~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=1b87d3d6bcfc24f3db7caa9e4d3f911d0eeb92faa1786dc5fa16ecdd34f2b4f4
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792302494~exp=1792306094~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=1b87d3d6bcfc24f3db7caa9e4d3f911d0eeb92faa1786dc5fa16ecdd34f2b4f4"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathiHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1394" tvg-name="Jai Maharashtra @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" group-title="Sportlink I Marathi | Sportlink",Jai Maharashtra
