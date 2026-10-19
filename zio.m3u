@@ -89,11 +89,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f,d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792373006~exp=1792376606~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=b7a3a91c9cf8325e3b73f29fd22435ce872fa860e8934bfdef486a84938e4822
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792376606~exp=1792380206~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=7881b5e9793230aad9dce362b74d333f626c80a9a02ac92d2687fe72c746919f
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792373006~exp=1792376606~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=b7a3a91c9cf8325e3b73f29fd22435ce872fa860e8934bfdef486a84938e4822
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792373006~exp=1792376606~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=b7a3a91c9cf8325e3b73f29fd22435ce872fa860e8934bfdef486a84938e4822"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792376606~exp=1792380206~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=7881b5e9793230aad9dce362b74d333f626c80a9a02ac92d2687fe72c746919f
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792376606~exp=1792380206~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=7881b5e9793230aad9dce362b74d333f626c80a9a02ac92d2687fe72c746919f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTelugu.png" group-title="Sportlink I Telugu",Cartoon Network Telugu
