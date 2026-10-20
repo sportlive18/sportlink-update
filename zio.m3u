@@ -29,11 +29,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6,0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792521722~exp=1792525322~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=8c824b8599169c7d56891e2db849c84ad153aba39153f169dae9404295a2e3e7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792525388~exp=1792528988~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=3fd0d8d13f5bed77d9d069258d593c8d5f14c6c7eb20e5135404cf99b73c7220
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792521722~exp=1792525322~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=8c824b8599169c7d56891e2db849c84ad153aba39153f169dae9404295a2e3e7
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792521722~exp=1792525322~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=8c824b8599169c7d56891e2db849c84ad153aba39153f169dae9404295a2e3e7"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792525388~exp=1792528988~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=3fd0d8d13f5bed77d9d069258d593c8d5f14c6c7eb20e5135404cf99b73c7220
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792525388~exp=1792528988~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=3fd0d8d13f5bed77d9d069258d593c8d5f14c6c7eb20e5135404cf99b73c7220"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="Sportlink I English",Movies Now HD
