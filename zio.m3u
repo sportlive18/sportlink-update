@@ -1009,11 +1009,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX2_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90d8713ba5e85d779d005b1f14a5bc8d:33650314fe1e945017640ba9878c5de9,90d8713ba5e85d779d005b1f14a5bc8d:33650314fe1e945017640ba9878c5de9
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792509840~exp=1792513440~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=dd6537ea3001dddca456f0453b8cc531dbb510be3453ab1bfe229a7859b0bbec
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792513392~exp=1792516992~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=2759a64da9a6cfe388a3a230448b2177f69511065c8a87adaf8270f5549d5aa6
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792509840~exp=1792513440~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=dd6537ea3001dddca456f0453b8cc531dbb510be3453ab1bfe229a7859b0bbec
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792509840~exp=1792513440~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=dd6537ea3001dddca456f0453b8cc531dbb510be3453ab1bfe229a7859b0bbec"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792513392~exp=1792516992~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=2759a64da9a6cfe388a3a230448b2177f69511065c8a87adaf8270f5549d5aa6
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792513392~exp=1792516992~acl=/bpk-tv/ZeeCinema_BTS/WDVLive/*~hmac=2759a64da9a6cfe388a3a230448b2177f69511065c8a87adaf8270f5549d5aa6"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinema_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBollywood.png" group-title="Sportlink I Movies",Zee Bollywood
