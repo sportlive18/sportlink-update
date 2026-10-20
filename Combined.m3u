@@ -3110,11 +3110,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNBCTV18Prime_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6,0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792485192~exp=1792488792~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=c1a2877950c9394e637b53c81f4e57309366ea9f037dfffed888fd62524145dc
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792488716~exp=1792492316~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=bdc1598cf7820ba512d187733afed38e5677f15314c7ce6719b30598ff2882fd
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792485192~exp=1792488792~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=c1a2877950c9394e637b53c81f4e57309366ea9f037dfffed888fd62524145dc
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792485192~exp=1792488792~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=c1a2877950c9394e637b53c81f4e57309366ea9f037dfffed888fd62524145dc"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792488716~exp=1792492316~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=bdc1598cf7820ba512d187733afed38e5677f15314c7ce6719b30598ff2882fd
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792488716~exp=1792492316~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=bdc1598cf7820ba512d187733afed38e5677f15314c7ce6719b30598ff2882fd"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="151" tvg-name="Movies Now HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="Sportlink I English | Sportlink",Movies Now HD
