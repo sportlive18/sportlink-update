@@ -1,14 +1,20 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (6 channels) =====
+#===== Fancode | Sportlink (8 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Tuesday, 20 October 2026 at 5:49:21 pm
+#DATE:- Tuesday, 20 October 2026 at 6:07:22 pm
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa Vs Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | South Africa Vs Australia
 https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f10890_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250476" tvg-name="Emirates Blues Vs Ajman @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250476_53130_AJM_EMB_fc-web_1792412929325.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Emirates Blues Vs Ajman
 https://dai-fancode.pages.dev/mumbai/4250476_english_hls_550b3930e750705_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249755" tvg-name="Lesotho Vs Mozambique @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249755_53093_LES_MOZ_FC-Web_1792493252639.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Lesotho Vs Mozambique
+https://dai-fancode.pages.dev/mumbai/4249755_english_hls_b7141fe3ec9908_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249756" tvg-name="Nigeria Vs Gambia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249756_53093_NGR_GAM_FC-Web_1792493253295.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Nigeria Vs Gambia
+https://dai-fancode.pages.dev/mumbai/4249756_english_hls_e0a59c015f99540_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4249608" tvg-name="Day 2   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 2   World Feed
 https://dai-fancode.pages.dev/mumbai/4249608_english_hls_a2345ca73095655_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -21,11 +27,11 @@ https://dai-fancode.pages.dev/mumbai/4249615_english_hls_d47039c54e87886_1ta-di_
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="PSG vs Barcelona - 20 Oct 2026 [ENG] - UEFA Youth League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", PSG vs Barcelona - 20 Oct 2026 [ENG] - UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540743~acl=/*~id=04978022549068605114743549672026~hmac=ba45d48a83b4942fa92ba9888fbf5302c47ed55d93d5ca71d2e38f3ea5f41f14
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792543168~acl=/*~id=61022469941853822027793799240381~hmac=8c225ac3a3c3d1c78ec4f1b0103a5d8a53c03c6c91f7a3fe7bb8eba808d448d7
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:02 PM 20-10-2026
+#LAST_UPDATE:06:32 PM 20-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -36,21 +42,21 @@ https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0GLKK9LBV" tvg-name="Pakistan ODI Tri-Series 2026 - 2nd Match - Pakistan vs England @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf1e0e9-9f21-4e46-a441-e074eaf2d220/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Pakistan ODI Tri-Series 2026 - 2nd Match - Pakistan vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd
 
-#===== Prime Video | Sportlink (7 channels) =====
+#===== Prime Video | Sportlink (6 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:06:02 PM 20-10-2026
+#LAST_UPDATE:06:32 PM 20-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:7
+#LIVE_COUNT:6
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0H37FB27F" tvg-name="Predator European Championships: Spain @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.447494d8-1dc7-4b08-89c7-f04ce02111ea/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Predator European Championships: Spain
@@ -65,14 +71,14 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ec
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFWWJWH6" tvg-name="Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.df9be69a-7bd6-4883-a021-b7e4801a1573/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Australia tour of South Africa 2026 - 2nd Test - South Africa vs Australia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/out/v1/dfdb7db2bdf5432aacc28e53343360aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0GLKK9LBV" tvg-name="Pakistan ODI Tri-Series 2026 - 2nd Match - Pakistan vs England @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.abf1e0e9-9f21-4e46-a441-e074eaf2d220/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/s-z/willowtv/logos/channels-logo-white-stacked.png%7C0,0,1920,1080+0,0,1920,1080+1724,885,117,117_kvebed36e78eaa0330f200bb6045a52aca_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Pakistan ODI Tri-Series 2026 - 2nd Match - Pakistan vs England
 #KODIPROP:inputstream=inputstream.adaptive
@@ -81,19 +87,12 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chnnxqauwu/
 #KODIPROP:inputstream.adaptive.license_key=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6rrgqdnxb/out/v1/10b57d26728f4bf482f1eef2aa9e9058/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HM61FZ7Q" tvg-name="Cricket Review-Australia Women vs New Zealand Women: 2nd T20I @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.692c83d6-02c8-4df2-a587-9678f053805f/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Cricket Review-Australia Women vs New Zealand Women: 2nd T20I
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HL3N2LR9" tvg-name="Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP & Ningbo-WTA Early Rounds @virat10" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.40336969-dfb4-49d3-8871-70058f1a9a4c/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video | Sportlink",Tennis Today Live-Brussels-ATP, Lyon-ATP, Almaty-ATP & Ningbo-WTA Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (127 channels) =====
 #DATE:- 07-10-2026 23:25
@@ -8226,11 +8225,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f,d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792495396~exp=1792498996~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=81eaea826840e2a62ad60bea731ee47a27a67daa1c11989181ec17191fb1d606
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792498912~exp=1792502512~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=1af96c45a3a700aa3b9fed44ee3553a8585c43d27cf0d1d19d8d46faa5113a63
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792495396~exp=1792498996~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=81eaea826840e2a62ad60bea731ee47a27a67daa1c11989181ec17191fb1d606
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792495396~exp=1792498996~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=81eaea826840e2a62ad60bea731ee47a27a67daa1c11989181ec17191fb1d606"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792498912~exp=1792502512~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=1af96c45a3a700aa3b9fed44ee3553a8585c43d27cf0d1d19d8d46faa5113a63
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792498912~exp=1792502512~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=1af96c45a3a700aa3b9fed44ee3553a8585c43d27cf0d1d19d8d46faa5113a63"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Sportlink I Movies | Sportlink",B4U Movies
@@ -8881,11 +8880,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/IBC24_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58,ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792495394~exp=1792498994~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=f1ed7449ba328928149036eec00fd271ed14bd08f6e4a083953ec788a21182e3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792498915~exp=1792502515~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=c832225e509e44275ab7272b3bbcedac704aaced45bb65cc627ecd916a2b764f
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792495394~exp=1792498994~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=f1ed7449ba328928149036eec00fd271ed14bd08f6e4a083953ec788a21182e3
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792495394~exp=1792498994~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=f1ed7449ba328928149036eec00fd271ed14bd08f6e4a083953ec788a21182e3"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792498915~exp=1792502515~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=c832225e509e44275ab7272b3bbcedac704aaced45bb65cc627ecd916a2b764f
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792498915~exp=1792502515~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=c832225e509e44275ab7272b3bbcedac704aaced45bb65cc627ecd916a2b764f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_News_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="510" tvg-name="VIP News @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png" group-title="Sportlink I News | Sportlink",VIP News
