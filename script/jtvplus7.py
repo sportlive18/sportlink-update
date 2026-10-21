@@ -127,9 +127,8 @@ def create_channel_entry(channel: Dict[str, Any],
     name = channel.get("name", "")
     logo = channel.get("logo", "")
 
-    # Prefix the group-title with "Sportlink I "
     raw_group = channel.get("group") or channel.get("category") or "Other"
-    group = f"Sportlink I {raw_group}"
+    group = raw_group
 
     url = channel.get("url", "")
     channel_id = str(channel.get("id", ""))
