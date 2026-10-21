@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (8 channels) =====
+#===== Fancode | Sportlink (9 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Wednesday, 21 October 2026 at 5:07:17 pm
+#DATE:- Wednesday, 21 October 2026 at 5:21:19 pm
 
 #EXTINF:-1 tvg-id="4249782" tvg-name="South Africa Vs Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | South Africa Vs Australia
 https://dai-fancode.pages.dev/mumbai/4249782_english_hls_bf21f9fa2f28565_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -25,12 +25,15 @@ https://dai-fancode.pages.dev/mumbai/4250153_english_hls_0f4905838a44655_1ta-di_
 #EXTINF:-1 tvg-id="4249623" tvg-name="Day 3   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 3   World Feed
 https://dai-fancode.pages.dev/mumbai/4249623_english_hls_6c8130a2c479550_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4249616" tvg-name="Day 3   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 3   World Feed
+https://dai-fancode.pages.dev/mumbai/4249616_english_hls_1cfc6b5feb21323_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENG] - Salute Tiranga Cricket League (STCL) 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENG] - Salute Tiranga Cricket League (STCL) 2026
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792626220~acl=/*~id=06814861042374587811961741887133~hmac=269aec73f0af4237b31bef7a0b5d2656560fe3fbd467e8e403ec7ec17b527572
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792626826~acl=/*~id=47729070831251751368349688832152~hmac=cbf625ea3c531d82cbc94cad7dac062800a9f55b608ee6d0b9896a892b82c68a
 
 #EXTINF:-1 tvg-name="LOSC Lille vs Galatasaray - MD3 - 21 Oct 2026 [ENG] - UEFA Youth League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025834/1791099270661478_UYL26_LOSC_Lille_vs_Galatasaray_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", LOSC Lille vs Galatasaray - MD3 - 21 Oct 2026 [ENG] - UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792626220~acl=/*~id=06814861042374587811961741887133~hmac=269aec73f0af4237b31bef7a0b5d2656560fe3fbd467e8e403ec7ec17b527572
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792626826~acl=/*~id=47729070831251751368349688832152~hmac=cbf625ea3c531d82cbc94cad7dac062800a9f55b608ee6d0b9896a892b82c68a
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -5658,11 +5661,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88295124db295a6b9f5027dc6049e294:641c40230a95cb76d1949125f9552fda,88295124db295a6b9f5027dc6049e294:641c40230a95cb76d1949125f9552fda
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792579090~exp=1792582690~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=e6627d8c32d7f653a859b453581e9aaa2b9f30b450290bd39036838f7840ceb7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792582690~exp=1792586290~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=241c349abdab57d67cec76cbd325093b5de247573142a5acaa4259b6ca781330
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792579090~exp=1792582690~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=e6627d8c32d7f653a859b453581e9aaa2b9f30b450290bd39036838f7840ceb7
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792579090~exp=1792582690~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=e6627d8c32d7f653a859b453581e9aaa2b9f30b450290bd39036838f7840ceb7"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792582690~exp=1792586290~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=241c349abdab57d67cec76cbd325093b5de247573142a5acaa4259b6ca781330
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792582690~exp=1792586290~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=241c349abdab57d67cec76cbd325093b5de247573142a5acaa4259b6ca781330"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="473" tvg-name="Anmol TV @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmol.png" group-title="Sportlink I Entertainment | Sportlink",Anmol TV
@@ -8332,11 +8335,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBollywood_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a881e2bda4785fecbd13e50e6e3ba530:3e27c8b04a620f1094bcbfdf0472c744,a881e2bda4785fecbd13e50e6e3ba530:3e27c8b04a620f1094bcbfdf0472c744
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792579091~exp=1792582691~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=c3b94311d7bb64168e9ed52e530bd9432e3aa2704c4885648c8257d196f399e9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792582690~exp=1792586290~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=493ccbe7ad289946faca30be6e759e8c63c841d9492bc3aadac1d9f1459c001d
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792579091~exp=1792582691~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=c3b94311d7bb64168e9ed52e530bd9432e3aa2704c4885648c8257d196f399e9
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792579091~exp=1792582691~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=c3b94311d7bb64168e9ed52e530bd9432e3aa2704c4885648c8257d196f399e9"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792582690~exp=1792586290~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=493ccbe7ad289946faca30be6e759e8c63c841d9492bc3aadac1d9f1459c001d
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792582690~exp=1792586290~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=493ccbe7ad289946faca30be6e759e8c63c841d9492bc3aadac1d9f1459c001d"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAction_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="809" tvg-name="Maha Movies @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Sportlink I Movies | Sportlink",Maha Movies
