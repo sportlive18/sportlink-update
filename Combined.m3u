@@ -1,8 +1,11 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (4 channels) =====
+#===== Fancode | Sportlink (5 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 24 October 2026 at 4:07:14 am
+#DATE:- Saturday, 24 October 2026 at 4:49:13 am
+
+#EXTINF:-1 tvg-id="4249285" tvg-name="Victoria Vs Tasmania @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Victoria Vs Tasmania
+https://dai-fancode.pages.dev/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4249618" tvg-name="Day 5   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 5   World Feed
 https://dai-fancode.pages.dev/mumbai/4249618_english_hls_bd306a0e4442012_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -15,7 +18,7 @@ https://dai-fancode.pages.dev/mumbai/4250507_english_hls_44cd9f0fb737145_1ta-di_
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG] - India A Tour of New Zealand @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792840497~acl=/*~id=67125541670595054727470314169009~hmac=fcb340b800446598621f2b83371205a7e4f69babb3c37bfbdefa80d058b6ac78
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792841102~acl=/*~id=15015106611986597661418791832316~hmac=8db06307dd6af0282bd451dfa756ef079ef743985c8c4554e67cac6c3f12f908
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
