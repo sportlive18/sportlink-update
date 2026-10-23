@@ -1,8 +1,14 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (4 channels) =====
+#===== Fancode | Sportlink (6 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 23 October 2026 at 12:49:16 pm
+#DATE:- Friday, 23 October 2026 at 1:49:18 pm
+
+#EXTINF:-1 tvg-id="4249760" tvg-name="Mozambique Vs Nigeria @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249760_53093_NGR_MOZ_FC-Web_1792493253330.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Mozambique Vs Nigeria
+https://dai-fancode.pages.dev/mumbai/4249760_english_hls_bae1223fe532144_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249761" tvg-name="Lesotho Vs Zambia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249761_53093_ZAM_LES_FC-Web_1792493252664.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Lesotho Vs Zambia
+https://dai-fancode.pages.dev/mumbai/4249761_english_hls_245a2df94d82412_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4249611" tvg-name="Day 5   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 5   World Feed
 https://dai-fancode.pages.dev/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -15,10 +21,10 @@ https://dai-fancode.pages.dev/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792418899640732_STCL_Punjab-Falcons-vs-UP-Dhurandhar_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
-https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792786511~acl=/*~id=57282472773695493323588357498473~hmac=567c4b8dba8a05c359ce88ba422797e5eaab93303183ccd95e0df301d6a0016f
+https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792787117~acl=/*~id=78933518544443180305479657563456~hmac=e7d867cd76ebf57d4e20fb93a1c0a1a2b2482988385918f532d005f6d00de173
 
 #EXTINF:-1 tvg-name="LINK Hong Kong Open - Day 2 - 23 Oct 2026 [ENG] - Asian Tour 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055341445141_Asian-Tour_LINK-Hong-Kong-Open_D2_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", LINK Hong Kong Open - Day 2 - 23 Oct 2026 [ENG] - Asian Tour 2026
-https://sonydaime.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792786511~acl=/*~id=57282472773695493323588357498473~hmac=567c4b8dba8a05c359ce88ba422797e5eaab93303183ccd95e0df301d6a0016f
+https://sonydaime.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792787117~acl=/*~id=78933518544443180305479657563456~hmac=e7d867cd76ebf57d4e20fb93a1c0a1a2b2482988385918f532d005f6d00de173
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
