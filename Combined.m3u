@@ -1,14 +1,11 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (7 channels) =====
+#===== Fancode | Sportlink (6 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 23 October 2026 at 2:21:15 pm
+#DATE:- Friday, 23 October 2026 at 4:14:15 pm
 
 #EXTINF:-1 tvg-id="4249760" tvg-name="Mozambique Vs Nigeria @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249760_53093_NGR_MOZ_FC-Web_1792493253330.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Mozambique Vs Nigeria
 https://dai-fancode.pages.dev/mumbai/4249760_english_hls_bae1223fe532144_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4249761" tvg-name="Lesotho Vs Zambia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249761_53093_ZAM_LES_FC-Web_1792493252664.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Lesotho Vs Zambia
-https://dai-fancode.pages.dev/mumbai/4249761_english_hls_245a2df94d82412_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4249611" tvg-name="Day 5   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 5   World Feed
 https://dai-fancode.pages.dev/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -22,9 +19,18 @@ https://dai-fancode.pages.dev/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h
 #EXTINF:-1 tvg-id="4249840" tvg-name="Brisbane Roar Vs Perth Glory @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249840_53101_BRB_PG_fc-Web_1792223292186.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Brisbane Roar Vs Perth Glory
 https://dai-fancode.pages.dev/mumbai/4249840_english_hls_a5f9d1422359282_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (1 channels) =====
+#===== SonyLIV | Sportlink (4 channels) =====
+#EXTINF:-1 tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [ENG] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Inter Kashi vs East Bengal FC - 23 Oct 2026 [ENG] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792795613~acl=/*~id=72030424046822527362103255299471~hmac=feb01ee4617f160a1bf6475060094ea43af21665dafe4e9fd97398b8853e3a2d
+
+#EXTINF:-1 tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [HIN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Inter Kashi vs East Bengal FC - 23 Oct 2026 [HIN] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792795613~acl=/*~id=72030424046822527362103255299471~hmac=feb01ee4617f160a1bf6475060094ea43af21665dafe4e9fd97398b8853e3a2d
+
+#EXTINF:-1 tvg-name="Inter Kashi vs East Bengal FC - 23 Oct 2026 [BEN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Inter Kashi vs East Bengal FC - 23 Oct 2026 [BEN] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792795613~acl=/*~id=72030424046822527362103255299471~hmac=feb01ee4617f160a1bf6475060094ea43af21665dafe4e9fd97398b8853e3a2d
+
 #EXTINF:-1 tvg-name="Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
-https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792795005~acl=/*~id=46842177620593560648253279097259~hmac=698c5c3e1128788bd5cdb594c6faeecc076e80b1a3d685ce58a3bf7a38477877
+https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792795613~acl=/*~id=72030424046822527362103255299471~hmac=feb01ee4617f160a1bf6475060094ea43af21665dafe4e9fd97398b8853e3a2d
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
