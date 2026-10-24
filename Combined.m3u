@@ -2,7 +2,7 @@
 #===== Fancode | Sportlink (12 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 24 October 2026 at 5:49:09 pm
+#DATE:- Saturday, 24 October 2026 at 5:56:11 pm
 
 #EXTINF:-1 tvg-id="4249282" tvg-name="New South Wales Vs Western Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | New South Wales Vs Western Australia
 https://dai-fancode.pages.dev/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -36,6 +36,10 @@ https://dai-fancode.pages.dev/mumbai/4249612_english_hls_4bb5d239f294482_1ta-di_
 
 #EXTINF:-1 tvg-id="4249619" tvg-name="World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | World Feed
 https://dai-fancode.pages.dev/mumbai/4249619_english_hls_cfb645a9ef30372_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#===== SonyLIV | Sportlink (1 channels) =====
+#EXTINF:-1 tvg-name="Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
+https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792888068~acl=/*~id=55667958368801114965620818320051~hmac=c609f5b0d68eef7f2cb9c78af9c26104bc83340709e8958401bb82bddd96568d
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -1799,11 +1803,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b,a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792840680~exp=1792844280~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=81ecde057694fadef5687da4987007c340534bb676aace4377c20b4585006945
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792844292~exp=1792847892~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=641f06fe3228bfb669d32ffaff591a3900fb6fb7c3ff7b1b9c2170a0f8ac250f
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792840680~exp=1792844280~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=81ecde057694fadef5687da4987007c340534bb676aace4377c20b4585006945
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792840680~exp=1792844280~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=81ecde057694fadef5687da4987007c340534bb676aace4377c20b4585006945"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792844292~exp=1792847892~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=641f06fe3228bfb669d32ffaff591a3900fb6fb7c3ff7b1b9c2170a0f8ac250f
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792844292~exp=1792847892~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=641f06fe3228bfb669d32ffaff591a3900fb6fb7c3ff7b1b9c2170a0f8ac250f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="202" tvg-name="DD National @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment | Sportlink",DD National
