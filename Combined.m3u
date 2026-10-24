@@ -16,12 +16,24 @@ https://dai-fancode.pages.dev/mumbai/4249841_english_hls_865a5ca7c073916_1ta-di_
 #EXTINF:-1 tvg-id="4249842" tvg-name="Western Sydney Wanderers Vs Auckland @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Western Sydney Wanderers Vs Auckland
 https://dai-fancode.pages.dev/mumbai/4249842_english_hls_a1fed7bbe836144_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (2 channels) =====
+#===== SonyLIV | Sportlink (6 channels) =====
+#EXTINF:-1 tvg-name="2nd T20I - 24 Oct 2026 [ENG] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd T20I - 24 Oct 2026 [ENG] - India Tour of New Zealand 2026
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792865371~acl=/*~id=56884335777856408421859584991676~hmac=a7707d8d1f95a517e5af9224d2105f38c53a6e23a6f8b65c9d3674a11ec453dc
+
+#EXTINF:-1 tvg-name="2nd T20I - 24 Oct 2026 [TAM] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd T20I - 24 Oct 2026 [TAM] - India Tour of New Zealand 2026
+https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792865371~acl=/*~id=56884335777856408421859584991676~hmac=a7707d8d1f95a517e5af9224d2105f38c53a6e23a6f8b65c9d3674a11ec453dc
+
+#EXTINF:-1 tvg-name="2nd T20I - 24 Oct 2026 [TEL] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd T20I - 24 Oct 2026 [TEL] - India Tour of New Zealand 2026
+https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792865371~acl=/*~id=56884335777856408421859584991676~hmac=a7707d8d1f95a517e5af9224d2105f38c53a6e23a6f8b65c9d3674a11ec453dc
+
+#EXTINF:-1 tvg-name="2nd T20I - 24 Oct 2026 [KAN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd T20I - 24 Oct 2026 [KAN] - India Tour of New Zealand 2026
+https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792865371~acl=/*~id=56884335777856408421859584991676~hmac=a7707d8d1f95a517e5af9224d2105f38c53a6e23a6f8b65c9d3674a11ec453dc
+
 #EXTINF:-1 tvg-name="Genesis Championship - Day 3 - 24 Oct 2026 [ENG] - DP World Tour @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Genesis Championship - Day 3 - 24 Oct 2026 [ENG] - DP World Tour
-https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792864150~acl=/*~id=93323281892755846503553498837378~hmac=11aac06fcc3c5456f2c471b3febfd28822119ecc29e76527055f7a08ccf94a99
+https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792865371~acl=/*~id=56884335777856408421859584991676~hmac=a7707d8d1f95a517e5af9224d2105f38c53a6e23a6f8b65c9d3674a11ec453dc
 
 #EXTINF:-1 tvg-name="LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG] - Asian Tour 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG] - Asian Tour 2026
-https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792864150~acl=/*~id=93323281892755846503553498837378~hmac=11aac06fcc3c5456f2c471b3febfd28822119ecc29e76527055f7a08ccf94a99
+https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792865371~acl=/*~id=56884335777856408421859584991676~hmac=a7707d8d1f95a517e5af9224d2105f38c53a6e23a6f8b65c9d3674a11ec453dc
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
