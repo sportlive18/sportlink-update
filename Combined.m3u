@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (9 channels) =====
+#===== Fancode | Sportlink (10 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 24 October 2026 at 5:00:10 pm
+#DATE:- Saturday, 24 October 2026 at 5:14:09 pm
 
 #EXTINF:-1 tvg-id="4249282" tvg-name="New South Wales Vs Western Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | New South Wales Vs Western Australia
 https://dai-fancode.pages.dev/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -22,27 +22,14 @@ https://dai-fancode.pages.dev/mumbai/4249598_english_hls_9b604f07bf73738_1ta-di_
 #EXTINF:-1 tvg-id="4247665" tvg-name="Rayo Vallecano Vs Elche Cf @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247665_53004_RVL_ELC_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Rayo Vallecano Vs Elche Cf
 https://dai-fancode.pages.dev/mumbai/4247665_english_hls_02b14500d875914_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4249200" tvg-name="Tottenham Hotspur Women Vs Arsenal Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249200_53038_TOT-W_ARS-W_fc-app.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Tottenham Hotspur Women Vs Arsenal Women
+https://dai-fancode.pages.dev/mumbai/4249200_english_hls_d5650a431f25560_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="4250158" tvg-name="Semi Finals @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Semi Finals
 https://dai-fancode.pages.dev/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4249612" tvg-name="Day 6   World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 6   World Feed
 https://dai-fancode.pages.dev/mumbai/4249612_english_hls_4bb5d239f294482_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#===== SonyLIV | Sportlink (5 channels) =====
-#EXTINF:-1 tvg-name="2nd T20I - 24 Oct 2026 [HIN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd T20I - 24 Oct 2026 [HIN] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792885031~acl=/*~id=12072911007300816774256599340551~hmac=0db13b26cd8b96e84e5df5a3d1ff9ce92a0b07c4e90af1d4259aef04afac3896
-
-#EXTINF:-1 tvg-name="2nd T20I - 24 Oct 2026 [ENG] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd T20I - 24 Oct 2026 [ENG] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792885031~acl=/*~id=12072911007300816774256599340551~hmac=0db13b26cd8b96e84e5df5a3d1ff9ce92a0b07c4e90af1d4259aef04afac3896
-
-#EXTINF:-1 tvg-name="2nd T20I - 24 Oct 2026 [KAN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd T20I - 24 Oct 2026 [KAN] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792885031~acl=/*~id=12072911007300816774256599340551~hmac=0db13b26cd8b96e84e5df5a3d1ff9ce92a0b07c4e90af1d4259aef04afac3896
-
-#EXTINF:-1 tvg-name="2nd T20I - 24 Oct 2026 [TAM] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd T20I - 24 Oct 2026 [TAM] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792885031~acl=/*~id=12072911007300816774256599340551~hmac=0db13b26cd8b96e84e5df5a3d1ff9ce92a0b07c4e90af1d4259aef04afac3896
-
-#EXTINF:-1 tvg-name="2nd T20I - 24 Oct 2026 [TEL] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd T20I - 24 Oct 2026 [TEL] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792885031~acl=/*~id=12072911007300816774256599340551~hmac=0db13b26cd8b96e84e5df5a3d1ff9ce92a0b07c4e90af1d4259aef04afac3896
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
