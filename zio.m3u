@@ -113,11 +113,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTelugu_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b,a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792840680~exp=1792844280~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=81ecde057694fadef5687da4987007c340534bb676aace4377c20b4585006945
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792844292~exp=1792847892~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=641f06fe3228bfb669d32ffaff591a3900fb6fb7c3ff7b1b9c2170a0f8ac250f
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792840680~exp=1792844280~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=81ecde057694fadef5687da4987007c340534bb676aace4377c20b4585006945
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792840680~exp=1792844280~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=81ecde057694fadef5687da4987007c340534bb676aace4377c20b4585006945"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1792844292~exp=1792847892~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=641f06fe3228bfb669d32ffaff591a3900fb6fb7c3ff7b1b9c2170a0f8ac250f
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792844292~exp=1792847892~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=641f06fe3228bfb669d32ffaff591a3900fb6fb7c3ff7b1b9c2170a0f8ac250f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News",Aaj Tak
