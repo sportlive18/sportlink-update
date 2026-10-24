@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (5 channels) =====
+#===== Fancode | Sportlink (6 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 24 October 2026 at 12:00:11 pm
+#DATE:- Saturday, 24 October 2026 at 12:07:11 pm
 
 #EXTINF:-1 tvg-id="4249285" tvg-name="Victoria Vs Tasmania @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249285_53072_TAS_VCT_FC-Web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Victoria Vs Tasmania
 https://dai-fancode.pages.dev/mumbai/4249285_english_hls_c101cf832389375_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -10,11 +10,14 @@ https://dai-fancode.pages.dev/mumbai/4249285_english_hls_c101cf832389375_1ta-di_
 #EXTINF:-1 tvg-id="4249282" tvg-name="New South Wales Vs Western Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | New South Wales Vs Western Australia
 https://dai-fancode.pages.dev/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4249842" tvg-name="Western Sydney Wanderers Vs Auckland @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Western Sydney Wanderers Vs Auckland
-https://dai-fancode.pages.dev/mumbai/4249842_english_hls_a1fed7bbe836144_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
 #EXTINF:-1 tvg-id="4250339" tvg-name="Denmark Vs Kuwait @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Denmark Vs Kuwait
 https://dai-fancode.pages.dev/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250340" tvg-name="Qatar Vs Kenya @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Qatar Vs Kenya
+https://dai-fancode.pages.dev/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249842" tvg-name="Western Sydney Wanderers Vs Auckland @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Western Sydney Wanderers Vs Auckland
+https://dai-fancode.pages.dev/mumbai/4249842_english_hls_a1fed7bbe836144_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #===== SonyLIV | Sportlink (6 channels) =====
 #EXTINF:-1 tvg-name="2nd T20I - 24 Oct 2026 [ENG] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd T20I - 24 Oct 2026 [ENG] - India Tour of New Zealand 2026
@@ -37,7 +40,7 @@ https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:02 PM 24-10-2026
+#LAST_UPDATE:12:32 PM 24-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -52,7 +55,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyq
 
 #===== Prime Video | Sportlink (3 channels) =====
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:02 PM 24-10-2026
+#LAST_UPDATE:12:32 PM 24-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -70,7 +73,7 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c80205dcd2490ef9386a322c46aef12:0dba6b2d52b76e5dff92fac577e7ac8d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (127 channels) =====
 #DATE:- 07-10-2026 23:25
