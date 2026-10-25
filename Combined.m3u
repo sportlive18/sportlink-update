@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (3 channels) =====
+#===== Fancode | Sportlink (5 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 25 October 2026 at 11:35:12 am
+#DATE:- Sunday, 25 October 2026 at 12:00:15 pm
 
 #EXTINF:-1 tvg-id="4250516" tvg-name="United Arab Emirates Vs Netherlands @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | United Arab Emirates Vs Netherlands
 https://dai-fancode.pages.dev/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -10,19 +10,25 @@ https://dai-fancode.pages.dev/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_
 #EXTINF:-1 tvg-id="4250528" tvg-name="Race Day @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Race Day
 https://dai-fancode.pages.dev/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4250341" tvg-name="Jersey Vs Kenya @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Jersey Vs Kenya
+https://dai-fancode.pages.dev/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250342" tvg-name="Denmark Vs Papua New Guinea @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Denmark Vs Papua New Guinea
+https://dai-fancode.pages.dev/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (3 channels) =====
 #EXTINF:-1 tvg-name="Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
-https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792952887~acl=/*~id=58196987331235828098670466492990~hmac=2bd3277d82b5e72423ec4ce447daa7d74c1733fa6bae3a5a22db4b65f2634438
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792953492~acl=/*~id=23296514548469452301063516663584~hmac=dcc8d04fb9c7c1dfe0aba4c990017bb40c2dee28e18864c44b563609fc03bd3d
 
 #EXTINF:-1 tvg-name="LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG] - Asian Tour 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG] - Asian Tour 2026
-https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792952887~acl=/*~id=58196987331235828098670466492990~hmac=2bd3277d82b5e72423ec4ce447daa7d74c1733fa6bae3a5a22db4b65f2634438
+https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792953492~acl=/*~id=23296514548469452301063516663584~hmac=dcc8d04fb9c7c1dfe0aba4c990017bb40c2dee28e18864c44b563609fc03bd3d
 
 #EXTINF:-1 tvg-name="Genesis Championship - Day 4 - 25 Oct 2026 [ENG] - DP World Tour @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Genesis Championship - Day 4 - 25 Oct 2026 [ENG] - DP World Tour
-https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792952887~acl=/*~id=58196987331235828098670466492990~hmac=2bd3277d82b5e72423ec4ce447daa7d74c1733fa6bae3a5a22db4b65f2634438
+https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792953492~acl=/*~id=23296514548469452301063516663584~hmac=dcc8d04fb9c7c1dfe0aba4c990017bb40c2dee28e18864c44b563609fc03bd3d
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:02 PM 25-10-2026
+#LAST_UPDATE:12:32 PM 25-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:0
