@@ -8,8 +8,8 @@ from urllib.parse import urlparse, parse_qs, urlunparse
 
 
 CHANNELS_URL = "https://sportlink-jtv.pages.dev/ztv.json"
-COOKIE_URL = "https://vk-playlist/cookie.json"
-SPORTS_COOKIE_URL = "https://vk-playlist/sportcookie.json"
+COOKIE_URL = "https://https://vk-playlist.pages.dev/cookie.json"
+SPORTS_COOKIE_URL = "https://https://vk-playlist.pages.dev/sportcookie.json"
 
 USER_AGENT = "Virat"
 REFERER = "https://www.jiotv.com/"
