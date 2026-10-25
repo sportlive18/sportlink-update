@@ -1,6 +1,7 @@
 import os
 import json
 import base64
+import re
 import requests
 from typing import Dict, List, Set, Any, Optional
 from datetime import datetime
@@ -8,8 +9,8 @@ from urllib.parse import urlparse, parse_qs, urlunparse
 
 
 CHANNELS_URL = "https://sportlink-jtv.pages.dev/ztv.json"
-COOKIE_URL = "https://https://vk-playlist.pages.dev/cookie.json"
-SPORTS_COOKIE_URL = "https://https://vk-playlist.pages.dev/sportcookie.json"
+COOKIE_URL = "https://vk-playlist.pages.dev/cookie.json"
+SPORTS_COOKIE_URL = "https://vk-playlist.pages.dev/sportcookie.json"
 
 USER_AGENT = "Virat"
 REFERER = "https://www.jiotv.com/"
@@ -21,13 +22,63 @@ def to_base64(text: str) -> str:
     return base64.b64encode(text.encode("utf-8")).decode("ascii")
 
 
-def get_json(url: str) -> Any:
+def _try_repair_json(text: str) -> str:
+    """
+    Lightweight repair for the most common malformed-JSON cases:
+      1. Missing comma between '}' and '{'
+      2. Missing comma between ']' and '{'
+      3. Missing comma between '}' and '"'
+      4. Trailing commas before '}' or ']'
+    Does NOT fix truncation or unescaped control chars.
+    """
+    text = re.sub(r'}(\s*){', r'},\2{', text)
+    text = re.sub(r'](\s*){', r'],\2{', text)
+    text = re.sub(r'}(\s*)"', r'},\2"', text)
+    text = re.sub(r',(\s*[}\]])', r'\1', text)
+    return text
+
+
+def get_json(url: str, repair: bool = True) -> Any:
     cache_buster = f"{'&' if '?' in url else '?'}t={int(datetime.now().timestamp() * 1000)}"
     fresh_url = url + cache_buster
     headers = {"Cache-Control": "no-cache", "Pragma": "no-cache"}
     resp = requests.get(fresh_url, headers=headers, timeout=30)
     resp.raise_for_status()
-    return resp.json()
+
+    text = resp.text
+
+    # Truncation check (server cut the response short)
+    cl = resp.headers.get("Content-Length")
+    if cl is not None:
+        try:
+            expected = int(cl)
+            if expected != len(resp.content):
+                print(
+                    f"⚠️  Truncated response for {url}: "
+                    f"expected {expected} bytes, got {len(resp.content)}"
+                )
+        except ValueError:
+            pass
+
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"⚠️  JSON parse failed for {url}: {e}")
+        pos = getattr(e, "pos", 0) or 0
+        print("---- raw around error ----")
+        print(text[max(0, pos - 300):pos + 300])
+        print("--------------------------")
+        if not repair:
+            raise
+
+        repaired = _try_repair_json(text)
+        try:
+            data = json.loads(repaired)
+            print("✅ JSON repaired successfully (missing/trailing commas fixed).")
+            return data
+        except json.JSONDecodeError as e2:
+            print(f"❌ Repair failed: {e2}")
+            raise
 
 
 def split_url_query(url: str) -> tuple:
@@ -212,6 +263,9 @@ def generate_m3u() -> str:
         print(f"❌ Failed to fetch channels: {e}")
         raise
 
+    if not isinstance(channels, list):
+        raise ValueError(f"Expected list of channels, got {type(channels).__name__}")
+
     normal_cookie = get_normal_cookie()
     sports_data = get_sports_data()
 
@@ -220,6 +274,9 @@ def generate_m3u() -> str:
 
     entries = []
     for ch in channels:
+        if not isinstance(ch, dict):
+            print(f"⚠️  Skipping non-dict channel entry: {type(ch).__name__}")
+            continue
         entries.append(create_channel_entry(ch, normal_cookie, sports_data["sportsCookies"]))
 
     print(f"Channels generated: {len(entries)}")
