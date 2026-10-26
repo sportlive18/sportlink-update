@@ -2,10 +2,14 @@
 #===== Fancode | Sportlink (2 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Monday, 26 October 2026 at 9:49:13 am
+#DATE:- Monday, 26 October 2026 at 2:00:15 pm
 
-#EXTINF:-1 tvg-id="4250529" tvg-name="Delhi Dynamites Vs Haryana Hustlers @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Delhi Dynamites Vs Haryana Hustlers
-https://dai-fancode.pages.dev/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250530" tvg-name="Uttrakhand Stars Vs Chandigarh Chargers @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Uttrakhand Stars Vs Chandigarh Chargers
+https://dai-fancode.pages.dev/mumbai/4250530_english_hls_a6cfaa994270147_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#===== SonyLIV | Sportlink (1 channels) =====
+#EXTINF:-1 tvg-name="Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
+https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793046124~acl=/*~id=74177789765483061238704693611058~hmac=1c19713c7d6271862bb32a7adf42e86c7a36a52e399c44297a08fec399159e11
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -13236,11 +13240,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Studio_One_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca,817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1792998502~exp=1793002102~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=042c1b3991e186e2b7414165021ca369e176ec318b69213921b5d931d55e139b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793002095~exp=1793005695~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=c2055d85e2074c780d4c51a259c34cdd15a2a8db83b781f28b80505c16e52af1
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1792998502~exp=1793002102~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=042c1b3991e186e2b7414165021ca369e176ec318b69213921b5d931d55e139b
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1792998502~exp=1793002102~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=042c1b3991e186e2b7414165021ca369e176ec318b69213921b5d931d55e139b"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793002095~exp=1793005695~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=c2055d85e2074c780d4c51a259c34cdd15a2a8db83b781f28b80505c16e52af1
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793002095~exp=1793005695~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=c2055d85e2074c780d4c51a259c34cdd15a2a8db83b781f28b80505c16e52af1"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1363" tvg-name="Zee Cinemalu HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" group-title="Telugu | Sportlink",Zee Cinemalu HD
