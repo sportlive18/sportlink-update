@@ -13,6 +13,10 @@ https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3086860_1ta-di_
 #EXTINF:-1 tvg-id="4250535" tvg-name="Himachal Highlenders Vs Up Thunderbolts @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250535_53137_HHL_UPT_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Himachal Highlenders Vs Up Thunderbolts
 https://dai-fancode.pages.dev/mumbai/4250535_english_hls_6440259b5676713_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#===== SonyLIV | Sportlink (1 channels) =====
+#EXTINF:-1 tvg-name="Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793204494~acl=/*~id=61597732625613832735779786862672~hmac=e4b76a920ce6329ae753b8b4d018a346513a8b7a0e04c4e1d7f8a330d34af588
+
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:10:02 AM 28-10-2026
@@ -11885,11 +11889,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/News18TamilNadu_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b5583d76a465054a7d444b307a9ff21:3f8d9e2207221a0cbcaf120754e4b2e4,3b5583d76a465054a7d444b307a9ff21:3f8d9e2207221a0cbcaf120754e4b2e4
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793156895~exp=1793160495~acl=/bpk-tv/ZeeTamil_BTS/WDVLive/*~hmac=35169a5201bedc4fabfd25b901dbb0d973cc0d171615eb87de7346c28c449d97
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793160498~exp=1793164098~acl=/bpk-tv/ZeeTamil_BTS/WDVLive/*~hmac=c3c625426101851691b155a34bf44070e015006f72f9ff63606b8baa40704c5f
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793156895~exp=1793160495~acl=/bpk-tv/ZeeTamil_BTS/WDVLive/*~hmac=35169a5201bedc4fabfd25b901dbb0d973cc0d171615eb87de7346c28c449d97
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793156895~exp=1793160495~acl=/bpk-tv/ZeeTamil_BTS/WDVLive/*~hmac=35169a5201bedc4fabfd25b901dbb0d973cc0d171615eb87de7346c28c449d97"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793160498~exp=1793164098~acl=/bpk-tv/ZeeTamil_BTS/WDVLive/*~hmac=c3c625426101851691b155a34bf44070e015006f72f9ff63606b8baa40704c5f
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793160498~exp=1793164098~acl=/bpk-tv/ZeeTamil_BTS/WDVLive/*~hmac=c3c625426101851691b155a34bf44070e015006f72f9ff63606b8baa40704c5f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamil_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="636" tvg-name="Polimer News @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Tamil | Sportlink",Polimer News
