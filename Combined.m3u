@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (9 channels) =====
+#===== Fancode | Sportlink (10 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 29 October 2026 at 5:07:16 pm
+#DATE:- Thursday, 29 October 2026 at 5:21:17 pm
 
 #EXTINF:-1 tvg-id="4249783" tvg-name="South Africa Vs Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | South Africa Vs Australia
 https://dai-fancode.pages.dev/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -27,6 +27,9 @@ https://dai-fancode.pages.dev/mumbai/4249645_english_hls_4a573c125888268_1ta-di_
 
 #EXTINF:-1 tvg-id="4250607" tvg-name="Fairplay Court @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Fairplay Court
 https://dai-fancode.pages.dev/mumbai/4250607_english_hls_514010e5a214434_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249652" tvg-name="Iwb Court 1 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Iwb Court 1
+https://dai-fancode.pages.dev/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -1479,11 +1482,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/AndPicturesHD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab0674eba3f5adf96a9b65a6e82d208:476f813d8651987fc1b4074693676fd8
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793270620~exp=1793274220~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=52904de56267c352c6c3f67989527ea0eaa5cfcd25486511f27383b2375d9d26
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793274222~exp=1793277822~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=c30107020a62834525132abb3460e88c0f7ebaf7da4466d816dff8145d548d2a
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793270620~exp=1793274220~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=52904de56267c352c6c3f67989527ea0eaa5cfcd25486511f27383b2375d9d26
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793270620~exp=1793274220~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=52904de56267c352c6c3f67989527ea0eaa5cfcd25486511f27383b2375d9d26"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793274222~exp=1793277822~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=c30107020a62834525132abb3460e88c0f7ebaf7da4466d816dff8145d548d2a
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793274222~exp=1793277822~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=c30107020a62834525132abb3460e88c0f7ebaf7da4466d816dff8145d548d2a"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="Movies | Sportlink",Sony Max HD
@@ -2055,11 +2058,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566,135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793270624~exp=1793274224~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=da49d47de2e96a4a6c1b3a3636ea042c3968b79c48a71bac0c3b8392417732fc
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793274223~exp=1793277823~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=689d9c8faee6f3e5be9ff3b2f96d49326cf27693834ff7768a4af082f11ddf37
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793270624~exp=1793274224~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=da49d47de2e96a4a6c1b3a3636ea042c3968b79c48a71bac0c3b8392417732fc
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793270624~exp=1793274224~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=da49d47de2e96a4a6c1b3a3636ea042c3968b79c48a71bac0c3b8392417732fc"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793274223~exp=1793277823~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=689d9c8faee6f3e5be9ff3b2f96d49326cf27693834ff7768a4af082f11ddf37
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793274223~exp=1793277823~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=689d9c8faee6f3e5be9ff3b2f96d49326cf27693834ff7768a4af082f11ddf37"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" group-title="Entertainment | Sportlink",Big Magic
@@ -6321,11 +6324,11 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793270621~exp=1793274221~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=01503cf3e7ade1b043fc81d6e18ea1881f805d19882f7bed40c93a6de0069ae8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793274223~exp=1793277823~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=2da2d8d2fdc5e069a58fb81c35192fdcc7be9c2736fd593e0de4303622587671
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793270621~exp=1793274221~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=01503cf3e7ade1b043fc81d6e18ea1881f805d19882f7bed40c93a6de0069ae8
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793270621~exp=1793274221~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=01503cf3e7ade1b043fc81d6e18ea1881f805d19882f7bed40c93a6de0069ae8"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793274223~exp=1793277823~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=2da2d8d2fdc5e069a58fb81c35192fdcc7be9c2736fd593e0de4303622587671
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793274223~exp=1793277823~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=2da2d8d2fdc5e069a58fb81c35192fdcc7be9c2736fd593e0de4303622587671"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="193" tvg-name="CNN @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="English | Sportlink",CNN
