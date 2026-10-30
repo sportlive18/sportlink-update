@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (5 channels) =====
+#===== Fancode | Sportlink (6 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 30 October 2026 at 7:21:19 am
+#DATE:- Friday, 30 October 2026 at 7:56:16 am
 
 #EXTINF:-1 tvg-id="4249668" tvg-name="Western Australia Vs South Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Western Australia Vs South Australia
 https://dai-fancode.pages.dev/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -13,30 +13,33 @@ https://dai-fancode.pages.dev/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_
 #EXTINF:-1 tvg-id="4250308" tvg-name="Bangladesh Vs Scotland @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250308_53120_BAN_SCO_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bangladesh Vs Scotland
 https://dai-fancode.pages.dev/mumbai/4250308_english_hls_09b3ad083083744_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4250309" tvg-name="Pakistan Vs United Arab Emirates @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250309_53120_PAK_UAE_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Pakistan Vs United Arab Emirates
+https://dai-fancode.pages.dev/mumbai/4250309_english_hls_72f2079fa216468_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="139981" tvg-name="Day 1 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 1
 https://dai-fancode.pages.dev/mumbai/139981_english_hls_dc18e2235392788_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:32 AM 30-10-2026
+#LAST_UPDATE:08:32 AM 30-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
 #UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0HM4SBRL6" tvg-name="Hong Kong Sixes 2026 - 1st Match - Australia vs Hong Kong, China @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.812c8599-8c97-4a8d-8fff-9a44cafdcd21/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Hong Kong Sixes 2026 - 1st Match - Australia vs Hong Kong, China
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f724cf13d135bee75e357780d1610060:7ce9d4c6df5638bbcb18926bf2a6bb4f
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/40puk0pr1m/out/v1/2b9a98a7b2b34546ae3730e22558228b/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HHDW6R2J" tvg-name="Hong Kong Sixes 2026 - 2nd Match - Bangladesh vs Scotland @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4a3ea43d-67e2-4286-a490-85f7d461ab3d/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Hong Kong Sixes 2026 - 2nd Match - Bangladesh vs Scotland
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d81afd2cba994811b8521b0b02b26fae:d39df73c89b21af29b2224d26d46b9c0
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w7dccsq19h/out/v1/f8eb3aaa7e954a01a9d0eefe0d988650/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/w7dccsq19h/out/v1/f8eb3aaa7e954a01a9d0eefe0d988650/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HP893CZP" tvg-name="Hong Kong Sixes 2026 - 3rd Match - Pakistan vs United Arab Emirates @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.644dcd0a-3a91-4c9e-b8f7-7f837dd78d4d/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Hong Kong Sixes 2026 - 3rd Match - Pakistan vs United Arab Emirates
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbfab2ae4f4e8a1705b4cdc7802e9304:29db7aa2585fdbc1d5892db6d04fe351
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd
 
 #===== Prime Video | Sportlink (1 channels) =====
 #DATE:- 28-10-2026 00:15
@@ -1448,11 +1451,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09187bccb7ec59428352a31b4b321ce0:25b08b1c7a004e43ef92c239f93e6613
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793323091~exp=1793326691~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=365f7ac5cecfc60d40b52208089960deb629510ff12d16e0337119defb3118b0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793326691~exp=1793330291~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=0f2d75cf6c891f62f01671b50b36f0a02f0082ee1d17f4c05083f21305c58927
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793323091~exp=1793326691~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=365f7ac5cecfc60d40b52208089960deb629510ff12d16e0337119defb3118b0
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793323091~exp=1793326691~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=365f7ac5cecfc60d40b52208089960deb629510ff12d16e0337119defb3118b0"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793326691~exp=1793330291~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=0f2d75cf6c891f62f01671b50b36f0a02f0082ee1d17f4c05083f21305c58927
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793326691~exp=1793330291~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=0f2d75cf6c891f62f01671b50b36f0a02f0082ee1d17f4c05083f21305c58927"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndPicturesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png" group-title="Movies | Sportlink",Zee Anmol Cinema
