@@ -1,23 +1,20 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (7 channels) =====
+#===== Fancode | Sportlink (6 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 30 October 2026 at 8:49:16 am
+#DATE:- Friday, 30 October 2026 at 9:21:15 am
 
 #EXTINF:-1 tvg-id="4249668" tvg-name="Western Australia Vs South Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Western Australia Vs South Australia
 https://dai-fancode.pages.dev/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4250526" tvg-name="Bangladesh Vs West Indies @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bangladesh Vs West Indies
+https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3081877_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="4249669" tvg-name="Tasmania Vs New South Wales @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Tasmania Vs New South Wales
 https://dai-fancode.pages.dev/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4250309" tvg-name="Pakistan Vs United Arab Emirates @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250309_53120_PAK_UAE_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Pakistan Vs United Arab Emirates
-https://dai-fancode.pages.dev/mumbai/4250309_english_hls_72f2079fa216468_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250310" tvg-name="South Africa Vs Oman @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250310_53120_SA_OMA_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | South Africa Vs Oman
+#EXTINF:-1 tvg-id="4250310" tvg-name="Oman Vs South Africa @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250310_53120_SA_OMA_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Oman Vs South Africa
 https://dai-fancode.pages.dev/mumbai/4250310_english_hls_fa4292092b25858_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250526" tvg-name="Bangladesh Vs West Indies @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bangladesh Vs West Indies
-https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3081877_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="139981" tvg-name="Day 1 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 1
 https://dai-fancode.pages.dev/mumbai/139981_english_hls_dc18e2235392788_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -2042,11 +2039,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566,135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793327894~exp=1793331494~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=927dd07cfe3d1e4a1f3d7d7cc1bb1b43af056475fce8abe21aa6cd26fa786b10
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793331493~exp=1793335093~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=6e86e31468790a2bfafc8ab1ed2518d66f4147b0cececd53a3c2550f5b42c867
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793327894~exp=1793331494~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=927dd07cfe3d1e4a1f3d7d7cc1bb1b43af056475fce8abe21aa6cd26fa786b10
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793327894~exp=1793331494~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=927dd07cfe3d1e4a1f3d7d7cc1bb1b43af056475fce8abe21aa6cd26fa786b10"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793331493~exp=1793335093~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=6e86e31468790a2bfafc8ab1ed2518d66f4147b0cececd53a3c2550f5b42c867
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793331493~exp=1793335093~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=6e86e31468790a2bfafc8ab1ed2518d66f4147b0cececd53a3c2550f5b42c867"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1359" tvg-name="Big Magic @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BigMagic.png" group-title="Entertainment | Sportlink",Big Magic
@@ -10827,11 +10824,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a,784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793328191~exp=1793331791~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=2c617a32e2fc7f10ac7a23a6094f8f0cac939f4cec6c09738763559ff2e26137
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793331790~exp=1793335390~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=a51b5e37a5a5790cc95b43f46395b14cd6e549dcfcc12695b377bf7ef7053847
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793328191~exp=1793331791~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=2c617a32e2fc7f10ac7a23a6094f8f0cac939f4cec6c09738763559ff2e26137
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793328191~exp=1793331791~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=2c617a32e2fc7f10ac7a23a6094f8f0cac939f4cec6c09738763559ff2e26137"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793331790~exp=1793335390~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=a51b5e37a5a5790cc95b43f46395b14cd6e549dcfcc12695b377bf7ef7053847
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793331790~exp=1793335390~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=a51b5e37a5a5790cc95b43f46395b14cd6e549dcfcc12695b377bf7ef7053847"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="Marathi | Sportlink",Zee Marathi HD
