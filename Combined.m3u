@@ -31,9 +31,12 @@ https://dai-fancode.pages.dev/mumbai/4250523_english_hls_df9219e67c34239_1ta-di_
 #EXTINF:-1 tvg-id="4249632" tvg-name="Mannarino Vs Medvedev @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Daniil-Medvedev-vs-Adrian-Mannarino-web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Mannarino Vs Medvedev
 https://dai-fancode.pages.dev/mumbai/4249632_english_hls_5043c1251292601_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (1 channels) =====
+#===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG] - MG Indian Super League 2026-27
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793408869~acl=/*~id=92012910973274747783685553240498~hmac=98020fd5056e258d6cd1056d0e870261c6058a1f7faffb30807e1e1ad2bcbacf
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793409483~acl=/*~id=47071449628491984028571608591829~hmac=8b0d15708144c2d141ad817c6b870716ac6d6bc922b15fe868570b59cc3c506f
+
+#EXTINF:-1 tvg-name="NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793409483~acl=/*~id=47071449628491984028571608591829~hmac=8b0d15708144c2d141ad817c6b870716ac6d6bc922b15fe868570b59cc3c506f
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
