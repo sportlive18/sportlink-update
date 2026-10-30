@@ -913,11 +913,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_SAB_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88295124db295a6b9f5027dc6049e294:641c40230a95cb76d1949125f9552fda,88295124db295a6b9f5027dc6049e294:641c40230a95cb76d1949125f9552fda
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793387894~exp=1793391494~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=48fe96a8d06cc2347329380c33cc8c44d29ddf450082b5a3ef2aedd5972a9739
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793391493~exp=1793395093~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=8ea6700bc68016b08b9fe000e75e0f346116f370e5c6737aa0e15b018ea5a7c9
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793387894~exp=1793391494~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=48fe96a8d06cc2347329380c33cc8c44d29ddf450082b5a3ef2aedd5972a9739
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793387894~exp=1793391494~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=48fe96a8d06cc2347329380c33cc8c44d29ddf450082b5a3ef2aedd5972a9739"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793391493~exp=1793395093~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=8ea6700bc68016b08b9fe000e75e0f346116f370e5c6737aa0e15b018ea5a7c9
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793391493~exp=1793395093~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=8ea6700bc68016b08b9fe000e75e0f346116f370e5c6737aa0e15b018ea5a7c9"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="473" tvg-name="Anmol TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmol.png" group-title="Entertainment",Anmol TV
