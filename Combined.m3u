@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (5 channels) =====
+#===== Fancode | Sportlink (4 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 31 October 2026 at 4:49:22 am
+#DATE:- Saturday, 31 October 2026 at 4:56:23 am
 
 #EXTINF:-1 tvg-id="4249668" tvg-name="Western Australia Vs South Australia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Western Australia Vs South Australia
 https://dai-fancode.pages.dev/mumbai/4249668_english_hls_a2c3979ec985476_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -13,12 +13,9 @@ https://dai-fancode.pages.dev/mumbai/4249669_english_hls_0ad52e993378592_1ta-di_
 #EXTINF:-1 tvg-id="4250509" tvg-name="Day 2 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 2
 https://dai-fancode.pages.dev/mumbai/4250509_english_hls_54b929ab6080469_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="139508" tvg-name="Practice 2 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Practice 2
-https://dai-fancode.pages.dev/mumbai/139508_english_hls_99b9f21aeb43310_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG] - India A Tour of New Zealand @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793445273~acl=/*~id=89711539484140503203476978124696~hmac=a13f73240fc6b821406a47cff4fcaa828e2170665a6a1c5c78b85de57857ae3b
+https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793445878~acl=/*~id=55617153649017123513868634065230~hmac=1d7a74145f03b5e116c6a6f9043e22fa091a34d399de1dc89dadb72c1c15a2ec
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -4354,11 +4351,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/WDVLive/index.mp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c443dffefb256a5b7a1364cc4af3529:1d78f35200eb5977a95de669788cf128,25fbb2a932b25e9aacae947b2f873d3c:ac6a6a416b9d26be6819e80c2fe5d39f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793380092~exp=1793401692~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=98039266131363cc0ceb3dce530553f2f76c1e4eedd0e8c2da7ea4b6c490702f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793401962~exp=1793423562~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=cc218014fa6ea627f5066b207d80bc72ae6ade4ddaecd50950da2110ebd43a0a
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793380092~exp=1793401692~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=98039266131363cc0ceb3dce530553f2f76c1e4eedd0e8c2da7ea4b6c490702f
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793380092~exp=1793401692~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=98039266131363cc0ceb3dce530553f2f76c1e4eedd0e8c2da7ea4b6c490702f"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793401962~exp=1793423562~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=cc218014fa6ea627f5066b207d80bc72ae6ade4ddaecd50950da2110ebd43a0a
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793401962~exp=1793423562~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=cc218014fa6ea627f5066b207d80bc72ae6ade4ddaecd50950da2110ebd43a0a"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1114" tvg-name="Star Sports Select 2 @virat10" tvg-logo="https://img.media.jio.com/tvpimages/98/48/301989_1749664474734_p.jpg" group-title="Sports | Sportlink",Star Sports Select 2
@@ -4378,11 +4375,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mp
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06dd6287c4b956419d15d6c8e513aeed:a82d6b850b5c281c0054fc6d55e1c6ba,45825561f4ef516691a9e16d1d35dd1d:3951fe7fbf4b0b33e6246fc401f76797
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793379837~exp=1793401437~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=2208b0e84004dcdc5e21b746cdf93d23fe0fc7a90ceae5669b147904c4f58f3e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793401966~exp=1793423566~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=6b04c2b8583fedd0cba414d0b26fabb635103a14f22e4fae712ebac1ca4a70e9
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793379837~exp=1793401437~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=2208b0e84004dcdc5e21b746cdf93d23fe0fc7a90ceae5669b147904c4f58f3e
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793379837~exp=1793401437~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=2208b0e84004dcdc5e21b746cdf93d23fe0fc7a90ceae5669b147904c4f58f3e"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793401966~exp=1793423566~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=6b04c2b8583fedd0cba414d0b26fabb635103a14f22e4fae712ebac1ca4a70e9
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793401966~exp=1793423566~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=6b04c2b8583fedd0cba414d0b26fabb635103a14f22e4fae712ebac1ca4a70e9"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1142" tvg-name="Star Sports 1 @virat10" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1753188404703_l_medium.jpg" group-title="Sports | Sportlink",Star Sports 1
