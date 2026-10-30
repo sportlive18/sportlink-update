@@ -189,11 +189,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_music/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09187bccb7ec59428352a31b4b321ce0:25b08b1c7a004e43ef92c239f93e6613
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793323091~exp=1793326691~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=365f7ac5cecfc60d40b52208089960deb629510ff12d16e0337119defb3118b0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793326691~exp=1793330291~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=0f2d75cf6c891f62f01671b50b36f0a02f0082ee1d17f4c05083f21305c58927
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793323091~exp=1793326691~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=365f7ac5cecfc60d40b52208089960deb629510ff12d16e0337119defb3118b0
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793323091~exp=1793326691~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=365f7ac5cecfc60d40b52208089960deb629510ff12d16e0337119defb3118b0"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793326691~exp=1793330291~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=0f2d75cf6c891f62f01671b50b36f0a02f0082ee1d17f4c05083f21305c58927
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793326691~exp=1793330291~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=0f2d75cf6c891f62f01671b50b36f0a02f0082ee1d17f4c05083f21305c58927"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndPicturesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="190" tvg-name="CNBC Awaaz" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCAwaaz.png" group-title="Business News",CNBC Awaaz
