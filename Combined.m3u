@@ -24,22 +24,29 @@ https://dai-fancode.pages.dev/mumbai/139982_english_hls_db06becffb50637_1ta-di_h
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG] - India A Tour of New Zealand @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793453144~acl=/*~id=59916040632418141664349502132544~hmac=c857bddcf3ba43c52759901a58e38ae985579bf53afa18b57fa2158b5012bc4b
+https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793453749~acl=/*~id=54828498871378942773216059532952~hmac=a0121e289ac35e2bc818961ad4dbf5998d4edaf9b4e604794e8647ddc0967b51
 
-#===== Willow | Sportlink (2 channels) =====
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:02 AM 31-10-2026
+#LAST_UPDATE:07:32 AM 31-10-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HPB4WCJX" tvg-name="Hong Kong Sixes 2026 - 10th Match - Oman vs Afghanistan @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.088f3019-a61f-4ee6-b949-e3404fa06ca4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Hong Kong Sixes 2026 - 10th Match - Oman vs Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aea52971d0ad3d1e6ccd822c4659d5e1:fedb2e0e47bf973b5833b8339f8aa949
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/hkj62jerda/out/v1/ec4275b678ec49428139e26b40fa84e5/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hkj62jerda/out/v1/ec4275b678ec49428139e26b40fa84e5/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HLPHVTPB" tvg-name="Hong Kong Sixes 2026 - 11th Match - Scotland vs Sri Lanka @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d4fd29c-1738-463c-8252-d92ad764de01/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Hong Kong Sixes 2026 - 11th Match - Scotland vs Sri Lanka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a247eb23d3520f5492bdb8ff1d7ad7ef:49e80b833b1aefbad21536e2390ec9b6
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bhvsklfjf2/out/v1/cecb823f77a845a0a5d61ac33bcc627e/cenc.mpd
 
 #===== Prime Video | Sportlink (1 channels) =====
 #DATE:- 28-10-2026 00:15
