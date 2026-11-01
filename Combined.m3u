@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (6 channels) =====
+#===== Fancode | Sportlink (8 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 1 November 2026 at 9:21:11 am
+#DATE:- Sunday, 1 November 2026 at 9:49:12 am
 
 #EXTINF:-1 tvg-id="4249669" tvg-name="Tasmania Vs New South Wales @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Tasmania Vs New South Wales
 https://dai-fancode.pages.dev/mumbai/4249669_english_hls_0ad52e993333483_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -13,15 +13,21 @@ https://dai-fancode.pages.dev/mumbai/4249670_english_hls_72230a09d418743_1ta-di_
 #EXTINF:-1 tvg-id="4250327" tvg-name="Scotland Vs United Arab Emirates @virat10" tvg-logo="https://images.fancode.com/aig/match/v1793444041105/4250327_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Scotland Vs United Arab Emirates
 https://dai-fancode.pages.dev/mumbai/4250327_english_hls_718722817217539_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4250596" tvg-name="Womens @virat10"a" Vs Womens "b"" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Womens-Exhibition-Game_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Womens "a" Vs Womens "b"
+https://dai-fancode.pages.dev/mumbai/4250596_english_hls_4c84fdac6035948_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="139983" tvg-name="Race Day @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Race Day
 https://dai-fancode.pages.dev/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4249850" tvg-name="Melbourne Victory Vs Central Coast Mariners @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249850_53101_MLV_CCM_fc-Web_1792223292114.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Melbourne Victory Vs Central Coast Mariners
 https://dai-fancode.pages.dev/mumbai/4249850_english_hls_a46fd6b90643009_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4250515" tvg-name="Day 4 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 4
+https://dai-fancode.pages.dev/mumbai/4250515_english_hls_380a64861941846_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG] - India A Tour of New Zealand @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793548854~acl=/*~id=21269822567848363580886793065783~hmac=41324e830d16a206dec3c84592e313b9fbc4c07c3e0ca45ac74a794af8b4c114
+https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793549459~acl=/*~id=02014775230953807791528740049025~hmac=963abc7e6346bb9d08d0b0b9dba710674ff6e968205e29e6e3929d2a8c07bbc1
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -7593,11 +7599,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Wild_Earth_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a19c52e13a755afaa457a3c8488f4822:89dc06fb26e0fc72e9b9a1226073c8a2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793501894~exp=1793505494~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=63c5cc05efd3745301ed673dde0d1339282ae4a45a1838bde274ba91d7be1582
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793505494~exp=1793509094~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=f586139f2e0019e62d78ace746b07ce19a2a795efa05a6a64eb5d245e4944052
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793501894~exp=1793505494~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=63c5cc05efd3745301ed673dde0d1339282ae4a45a1838bde274ba91d7be1582
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793501894~exp=1793505494~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=63c5cc05efd3745301ed673dde0d1339282ae4a45a1838bde274ba91d7be1582"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793505494~exp=1793509094~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=f586139f2e0019e62d78ace746b07ce19a2a795efa05a6a64eb5d245e4944052
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793505494~exp=1793509094~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=f586139f2e0019e62d78ace746b07ce19a2a795efa05a6a64eb5d245e4944052"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2775" tvg-name="Grace TV @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Grace_TV.png" group-title="English | Sportlink",Grace TV
