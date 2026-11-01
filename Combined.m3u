@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (7 channels) =====
+#===== Fancode | Sportlink (8 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 1 November 2026 at 12:28:13 pm
+#DATE:- Sunday, 1 November 2026 at 12:35:12 pm
 
 #EXTINF:-1 tvg-id="4249670" tvg-name="Victoria Vs Queensland @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Victoria Vs Queensland
 https://dai-fancode.pages.dev/mumbai/4249670_english_hls_72230a09d418743_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -16,6 +16,9 @@ https://dai-fancode.pages.dev/mumbai/4250329_english_hls_718203879017139_1ta-di_
 #EXTINF:-1 tvg-id="4250330" tvg-name="Australia Vs Afghanistan @virat10" tvg-logo="https://images.fancode.com/aig/match/v1793444167811/4250330_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Australia Vs Afghanistan
 https://dai-fancode.pages.dev/mumbai/4250330_english_hls_081e16928371508_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4250335" tvg-name="Namibia Vs Ireland @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Namibia Vs Ireland
+https://dai-fancode.pages.dev/mumbai/4250335_english_hls_7eef3e039e34060_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #EXTINF:-1 tvg-id="139983" tvg-name="Race Day @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Race Day
 https://dai-fancode.pages.dev/mumbai/139983_english_hls_919a9f8e1987742_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
@@ -24,20 +27,20 @@ https://dai-fancode.pages.dev/mumbai/4250515_english_hls_380a64861941846_1ta-di_
 
 #===== SonyLIV | Sportlink (4 channels) =====
 #EXTINF:-1 tvg-name="5th T20I - 1 Nov 2026 [ENG] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 5th T20I - 1 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793559195~acl=/*~id=48966794197929543477609291081542~hmac=ea8e0b01f891d106163c3d3fcadc8b9e52b4b9bcb3320b470196fe87e4a8e7d5
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793559809~acl=/*~id=16899369931338145171675773459220~hmac=52a5c1856fe3ea4c9b7be51a968eacecf401177a0b9e5fca422d2900cd7baa80
 
-#EXTINF:-1 tvg-name="5th T20I - 1 Nov 2026 [HIN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 5th T20I - 1 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119921/cricodi_0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793559195~acl=/*~id=48966794197929543477609291081542~hmac=ea8e0b01f891d106163c3d3fcadc8b9e52b4b9bcb3320b470196fe87e4a8e7d5
+#EXTINF:-1 tvg-name="5th T20I - 1 Nov 2026 [TAM] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 5th T20I - 1 Nov 2026 [TAM] - India Tour of New Zealand 2026
+https://sonydaime.akamaized.net/hls/live/2119951/cricodi_0111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793559809~acl=/*~id=16899369931338145171675773459220~hmac=52a5c1856fe3ea4c9b7be51a968eacecf401177a0b9e5fca422d2900cd7baa80
 
 #EXTINF:-1 tvg-name="5th T20I - 1 Nov 2026 [TEL] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 5th T20I - 1 Nov 2026 [TEL] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119941/cricodi_0111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793559195~acl=/*~id=48966794197929543477609291081542~hmac=ea8e0b01f891d106163c3d3fcadc8b9e52b4b9bcb3320b470196fe87e4a8e7d5
+https://sonydaime.akamaized.net/hls/live/2119941/cricodi_0111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793559809~acl=/*~id=16899369931338145171675773459220~hmac=52a5c1856fe3ea4c9b7be51a968eacecf401177a0b9e5fca422d2900cd7baa80
 
 #EXTINF:-1 tvg-name="5th T20I - 1 Nov 2026 [KAN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 5th T20I - 1 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793559195~acl=/*~id=48966794197929543477609291081542~hmac=ea8e0b01f891d106163c3d3fcadc8b9e52b4b9bcb3320b470196fe87e4a8e7d5
+https://sonydaime.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793559809~acl=/*~id=16899369931338145171675773459220~hmac=52a5c1856fe3ea4c9b7be51a968eacecf401177a0b9e5fca422d2900cd7baa80
 
-#===== Willow | Sportlink (5 channels) =====
+#===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:32 PM 01-11-2026
+#LAST_UPDATE:01:02 PM 01-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -48,28 +51,21 @@ https://sonydaime.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22b486d9a7cdab18642ad31a3ac164a:554e2e626bde78f8babcb7faaf11f872
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gog1xdwuxy/out/v1/cce434bb1b314fce9867a98d8c323a56/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HM7PCY3B" tvg-name="Hong Kong Sixes 2026 - Bowl Final - South Africa vs England @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be6510ba-4d01-4cc6-b9ae-3ce2cf432774/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Hong Kong Sixes 2026 - Bowl Final - South Africa vs England
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4514f31e848acef7fd26d27fe8e77b2:e9c848142716a1ef70be1e38b1cc2cc6
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/f75yhdq23v/out/v1/598eae358be84a6190477baeee289e93/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gog1xdwuxy/out/v1/cce434bb1b314fce9867a98d8c323a56/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H6W3NWKD" tvg-name="Hong Kong Sixes 2026 - Plate Final - Oman vs Pakistan @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.51c0bf91-b33c-483f-9979-81cd852e7387/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Hong Kong Sixes 2026 - Plate Final - Oman vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82616a7d2971c54cf6fe4d98c47b1302:8f4eee25604fa1c62120971843239d72
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rsn8la3i1v/out/v1/6127bc09ddeb4cc6ac735873fa204916/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rsn8la3i1v/out/v1/6127bc09ddeb4cc6ac735873fa204916/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HNWRBDCQ" tvg-name="New Zealand vs. India @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d613298-262a-42ed-a769-e267442a7aa6/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Willow | Sportlink",New Zealand vs. India
+#EXTINF:-1 tvg-id="B0HNH1D37N" tvg-name="Hong Kong Sixes 2026 - Cup Final - Australia vs Afghanistan @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ae9a1731-d689-40a7-9a89-b48fd28622e1/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Hong Kong Sixes 2026 - Cup Final - Australia vs Afghanistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2765adbf6880195515fed136e5a989fa:f1356a68a923c31d7184dfa1b91c161f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xgpgmpfnwa/out/v1/2f20ac6134fa485492d578e3c21c09aa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=47882cfe843d91ab3032dfff9fa1b468:e249d2d8555ba8cc75431a25749e8822
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/nl173vux14/out/v1/d788485d04df4c53961e84d1901390db/cenc.mpd
 
 #===== Prime Video | Sportlink (1 channels) =====
 #DATE:- 28-10-2026 00:15
