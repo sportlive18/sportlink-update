@@ -1,17 +1,11 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (7 channels) =====
+#===== Fancode | Sportlink (5 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Wednesday, 4 November 2026 at 1:49:13 am
-
-#EXTINF:-1 tvg-id="4250503" tvg-name="Dubai Vs Ajman @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Dubai Vs Ajman
-https://dai-fancode.pages.dev/mumbai/4250503_english_hls_4296eb262d14134_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Wednesday, 4 November 2026 at 2:00:14 am
 
 #EXTINF:-1 tvg-id="4250204" tvg-name="England Lions Vs West Indies A @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | England Lions Vs West Indies A
 https://dai-fancode.pages.dev/mumbai/4250204_english_hls_db064b627223626_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4248735" tvg-name="Al Hilal Sfc Vs Shabab Al Ahli @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248735_53053_AHS_SAA_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Al Hilal Sfc Vs Shabab Al Ahli
-https://dai-fancode.pages.dev/mumbai/4248735_english_hls_2dcd97502268096_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250006" tvg-name="West Bromwich Albion F.c. Vs Southampton F.c. @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250006_52993_WBA_SOU_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | West Bromwich Albion F.c. Vs Southampton F.c.
 https://dai-fancode.pages.dev/mumbai/4250006_english_hls_fb6b33f21815004_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -22,8 +16,39 @@ https://dai-fancode.pages.dev/mumbai/4250552_english_hls_0f67fd0f6498945_1ta-di_
 #EXTINF:-1 tvg-id="4250649" tvg-name="Court Central @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Court Central
 https://dai-fancode.pages.dev/mumbai/4250649_english_hls_8afb1495eb66255_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (1 channels) =====
-{"error":"Failed to fetch data from source.","status":0}
+#===== SonyLIV | Sportlink (11 channels) =====
+#EXTINF:-1 tvg-name="Manchester United vs AS Roma - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Manchester United vs AS Roma - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
+
+#EXTINF:-1 tvg-name="Manchester United vs AS Roma - 4 Nov 2026 [HIN] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Manchester United vs AS Roma - 4 Nov 2026 [HIN] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
+
+#EXTINF:-1 tvg-name="Manchester United vs AS Roma - 4 Nov 2026 [TAM] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Manchester United vs AS Roma - 4 Nov 2026 [TAM] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/footlive0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
+
+#EXTINF:-1 tvg-name="Manchester United vs AS Roma - 4 Nov 2026 [TEL] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Manchester United vs AS Roma - 4 Nov 2026 [TEL] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
+
+#EXTINF:-1 tvg-name="Manchester United vs AS Roma - 4 Nov 2026 [KAN] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Manchester United vs AS Roma - 4 Nov 2026 [KAN] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120305/footlive0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
+
+#EXTINF:-1 tvg-name="Barcelona vs Aston Villa - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951817788378_UCL26_MD4_Barcelona_vs_Aston_Villa_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Barcelona vs Aston Villa - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
+
+#EXTINF:-1 tvg-name="Atlético de Madrid vs Bayern Munich - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952088187378_UCL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Atlético de Madrid vs Bayern Munich - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
+
+#EXTINF:-1 tvg-name="Villarreal vs PSG - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792953428976243_UCL26_MD4_Villarreal_vs_PSG_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Villarreal vs PSG - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094589/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
+
+#EXTINF:-1 tvg-name="Feyenoord vs Inter Milan - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952919459378_UCL26_MD4_Feyenoord_vs_Inter_Milan_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Feyenoord vs Inter Milan - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
+
+#EXTINF:-1 tvg-name="LASK vs Slovan Bratislava - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953756095378_UCL26_MD4_LASK_vs_Bratislava_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", LASK vs Slovan Bratislava - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094587/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
+
+#EXTINF:-1 tvg-name="Bodø/Glimt vs Lille - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953144488378_UCL26_MD4_Bodo_vs_Lille_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Bodø/Glimt vs Lille - 4 Nov 2026 [ENG] - UEFA Champions League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793780472~acl=/*~id=85496311355169865650477873842287~hmac=aa81203add98aafde11e2a303b6152f94692a5eccc7b53a4b9ae32a745a55ed8
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
