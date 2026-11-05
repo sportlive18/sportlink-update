@@ -22,12 +22,9 @@ https://dai-fancode.pages.dev/mumbai/4250603_english_hls_ef3001b64b61956_1ta-di_
 #EXTINF:-1 tvg-id="4250608" tvg-name="Day 1 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 1
 https://dai-fancode.pages.dev/mumbai/4250608_english_hls_3f30a1cfe72793_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (2 channels) =====
-#EXTINF:-1 tvg-name="AC Milan vs Ferencvárosi TC - MD 4 - 5 Nov 2026 [ENG] - UEFA Europa League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957344930155_UEL26_MD4_AC_Milan_vs_Ferencvarosi_TC_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", AC Milan vs Ferencvárosi TC - MD 4 - 5 Nov 2026 [ENG] - UEFA Europa League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793950381~acl=/*~id=68755742763548570398906568521599~hmac=3a4fbd0feeadb97cef634ff79340775082d0dd594797596757010c5b4cc49dd3
-
+#===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="Crystal Palace vs TSG 1899 Hoffenheim - 5 Nov 2026 [ENG] - UEFA Europa League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958584600155_UEL26_MD4_Crystal_Palace_vs_Hoffenheim_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Crystal Palace vs TSG 1899 Hoffenheim - 5 Nov 2026 [ENG] - UEFA Europa League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793950381~acl=/*~id=68755742763548570398906568521599~hmac=3a4fbd0feeadb97cef634ff79340775082d0dd594797596757010c5b4cc49dd3
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793950986~acl=/*~id=02670904760582472610853614248348~hmac=c4c97ad25b71c42c3f5c5f2e389945afcb810f31b13110378eb35ca179990f8f
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -1430,11 +1427,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f,d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793903298~exp=1793906898~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=3b2f80f55b64f1472762dada34cbb4a190ce04db3dcf88cd26f01e306226d7d5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1793906807~exp=1793910407~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=35161518378fde05b4ef13be3b93301bbe84890c755b17afbe76e6bca6bc4332
 #EXTVLCOPT:http-user-agent=Virat
 #EXTVLCOPT:http-referrer=https://www.jiotv.com/
-#EXTVLCOPT:http-cookie=__hdnea__=st=1793903298~exp=1793906898~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=3b2f80f55b64f1472762dada34cbb4a190ce04db3dcf88cd26f01e306226d7d5
-#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793903298~exp=1793906898~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=3b2f80f55b64f1472762dada34cbb4a190ce04db3dcf88cd26f01e306226d7d5"}
+#EXTVLCOPT:http-cookie=__hdnea__=st=1793906807~exp=1793910407~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=35161518378fde05b4ef13be3b93301bbe84890c755b17afbe76e6bca6bc4332
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1793906807~exp=1793910407~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=35161518378fde05b4ef13be3b93301bbe84890c755b17afbe76e6bca6bc4332"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Movies | Sportlink",B4U Movies
