@@ -13,6 +13,10 @@ https://dai-fancode.pages.dev/mumbai/4250565_english_hls_acd6c8cd9352595_1ta-di_
 #EXTINF:-1 tvg-id="4250598" tvg-name="Day 2 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 2
 https://dai-fancode.pages.dev/mumbai/4250598_english_hls_1a566b3e7984479_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#===== SonyLIV | Sportlink (1 channels) =====
+#EXTINF:-1 tvg-name="3rd Unofficial Test - Day 1 - 7 Nov 2026 [ENG] - India A Tour of New Zealand @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 3rd Unofficial Test - Day 1 - 7 Nov 2026 [ENG] - India A Tour of New Zealand
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794044447~acl=/*~id=83275997026512380162817285161129~hmac=25a986c14991cb25cb8407f1c2fa0c26cfb4e2f75545b983cdf9b345e7d4d37e
+
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
 #LAST_UPDATE:03:32 AM 07-11-2026
@@ -2018,7 +2022,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/9XJalwa/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=648632d8a99d59ef86fd651405ffb587:027c47023b8eb258db20ac6ae7ba46a8
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1793996887~exp=1794000487~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=eca1314fca3eb4aca4fb5a574d680c14a1675592d7df7cd91e029515f0b25ff8"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794000487~exp=1794004087~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=29c26fd41a382f5a3e7545ab6a3ca37a8d1f381c51b3a44d196d3926503d9cda"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZing_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="587" tvg-name="9XM @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xm.png" group-title="Music | Sportlink", 9XM
@@ -2216,7 +2220,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/IBC24_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58,ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1793997192~exp=1794000792~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=e7cd91a35c60490260c3156cfa65d32a2bee71d8bd2a23f4e166d71d16ab078b"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794000793~exp=1794004393~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=2b1ead15e2d3a9239a87a786aa7278a4bae5e7bd18662357a784ddaf1776479e"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_News_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="510" tvg-name="VIP News @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png" group-title="News | Sportlink", VIP News
@@ -5360,7 +5364,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ac1976053b563b8e157ab2f07a3f6e:38c1412cc587b31a7ee53df457497884,10f476c8ae905d08abc013d975f9aa8c:2429df9c32e89252b2870b05c7a71c1a
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1793996887~exp=1794000487~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=823e89627b60b51f991e62f0819e793ad4fe59bada852ac4fb3d66be0d04125b"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794000488~exp=1794004088~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=9df3e0ea27712ece2b339df2b30517a8b7d0862211a48d96d9f2cc3a9f13fcac"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1338" tvg-name="RT India @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="English | Sportlink", RT India
