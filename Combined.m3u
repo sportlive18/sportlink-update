@@ -28,7 +28,7 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:32 PM 06-11-2026
+#LAST_UPDATE:08:02 PM 06-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -39,7 +39,7 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf6092dc6444b182d9ef6fde4152ff7d:2a868d1944e597930dde32f183a0c6bf
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd
 
 #===== Prime Video | Sportlink (1 channels) =====
 #DATE:- 28-10-2026 00:15
@@ -1545,7 +1545,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexHD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1793969285~exp=1793972885~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=449e873c7fda4cfc120327f0c8b570f2034eb0dc5a26b13b6e0ed2cdfc94b887"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793972886~exp=1793976486~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=e3c9d3caea96e87215c14ada1f86b23050fe5c17d41acb4d139ed75b92da2e6e"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1691" tvg-name="Zee Classic @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeClassicSD.png" group-title="Movies | Sportlink", Zee Classic
@@ -9078,7 +9078,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sakshi_tv_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6240ba332285a53a2bb222a6aae85a0:98edf5ea9ede46133e3c710cba89a872,a6240ba332285a53a2bb222a6aae85a0:98edf5ea9ede46133e3c710cba89a872
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1793968394~exp=1793971994~acl=/bpk-tv/ZeeTelugu_BTS/WDVLive/*~hmac=b5f0b3d8ab5696b82e2dbc36225c84c4262d9fd052511cc5e8b518a411443e9a"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793973186~exp=1793976786~acl=/bpk-tv/ZeeTelugu_BTS/WDVLive/*~hmac=ad4ee2d2e0403bc2778cf5ff61fa603726b43c397653cf462a0b78e786715709"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTelugu_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="646" tvg-name="NTV @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="Telugu | Sportlink", NTV
