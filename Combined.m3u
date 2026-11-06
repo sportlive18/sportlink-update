@@ -1,11 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (3 channels) =====
+#===== Fancode | Sportlink (2 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 7 November 2026 at 1:07:28 am
-
-#EXTINF:-1 tvg-id="4250564" tvg-name="Court 1 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Court 1
-https://dai-fancode.pages.dev/mumbai/4250564_english_hls_bebd41166254849_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Saturday, 7 November 2026 at 1:14:30 am
 
 #EXTINF:-1 tvg-id="4250565" tvg-name="Fritz Vs Alcaraz @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Taylor-Fritz-vs-Carlos-Alcaraz_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Fritz Vs Alcaraz
 https://dai-fancode.pages.dev/mumbai/4250565_english_hls_acd6c8cd9352595_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -2015,7 +2012,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/9XJalwa/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=648632d8a99d59ef86fd651405ffb587:027c47023b8eb258db20ac6ae7ba46a8
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1793989687~exp=1793993287~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=ca36699374906b667325a587d5d0938eabdd69e24292f7d9395a110333160e18"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793993285~exp=1793996885~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=36ceee2e015e91afe50d2025b7ffeed9f4547f4825bf9e2f735186cae74049be"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZing_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="587" tvg-name="9XM @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xm.png" group-title="Music | Sportlink", 9XM
@@ -2213,7 +2210,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/IBC24_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58,ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1793989985~exp=1793993585~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=1f28897cef6d631c3ccebef853f0dea9e134784b51bc64fce81b006af120d3bc"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793993593~exp=1793997193~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=19deb024840aab2adbb893b6707575e586345c0b861ff26e345e1a7c5bd26f1d"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_News_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="510" tvg-name="VIP News @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png" group-title="News | Sportlink", VIP News
@@ -5357,7 +5354,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ac1976053b563b8e157ab2f07a3f6e:38c1412cc587b31a7ee53df457497884,10f476c8ae905d08abc013d975f9aa8c:2429df9c32e89252b2870b05c7a71c1a
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1793989688~exp=1793993288~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=35687a26a8b62dd32ba9e819f813653102678524eed6d8c5679906978e276daf"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1793993222~exp=1793996822~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=c47d456585d009fb1b32976f752a89ace1b7f6798b3ea8e205e3944137160488"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1338" tvg-name="RT India @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="English | Sportlink", RT India
