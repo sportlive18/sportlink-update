@@ -17,6 +17,11 @@ REFERER = "https://www.jiotv.com/"
 ORIGIN = "https://www.jiotv.com/"
 UPLOAD_TO_GITHUB = True
 
+HEADER_LINE = (
+    '#EXTM3U url-tvg="https://avkb.short.gy/jioepg.xml.gz" '
+    'tvg-url="https://avkb.short.gy/jioepg.xml.gz" refresh="3600"'
+)
+
 
 def to_base64(text: str) -> str:
     return base64.b64encode(text.encode("utf-8")).decode("ascii")
@@ -178,40 +183,33 @@ def create_channel_entry(channel: Dict[str, Any],
                          sports_cookies: Dict[str, str] = {}) -> str:
     name = channel.get("name", "")
     logo = channel.get("logo", "")
-
-    raw_group = channel.get("group") or channel.get("category") or "Other"
-    group = raw_group
-
+    group = channel.get("group") or channel.get("category") or "Other"
     url = channel.get("url", "")
     channel_id = str(channel.get("id", ""))
 
     lines = []
     lines.append(
         f'#EXTINF:-1 tvg-id="{channel_id}" tvg-name="{name}" '
-        f'tvg-logo="{logo}" group-title="{group}",{name}'
+        f'tvg-logo="{logo}" group-title="{group}", {name}'
     )
 
     is_mpd = (channel.get("type") == "dash") or (".mpd" in url.lower())
 
     if is_mpd:
-        lines.append("#KODIPROP:inputstream=inputstream.adaptive")
         lines.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
 
-        # Clearkey handling (ALL pairs on a single comma-separated line)
         clearkey_entries = _collect_clearkey_entries(channel)
         if clearkey_entries:
             lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
             pairs = ",".join(f"{kid}:{key}" for kid, key in clearkey_entries)
-            lines.append(
-                f"#KODIPROP:inputstream.adaptive.license_key={pairs}"
-            )
+            lines.append(f"#KODIPROP:inputstream.adaptive.license_key={pairs}")
         elif channel.get("license_url"):
             lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
             lines.append(
                 f"#KODIPROP:inputstream.adaptive.license_key={channel['license_url']}"
             )
 
-    # Resolve final URL
+    # Resolve final URL (sports override → normal cookie → plain url)
     sports_url = sports_cookies.get(channel_id)
     if sports_url:
         final_url_with_query = sports_url
@@ -222,35 +220,16 @@ def create_channel_entry(channel: Dict[str, Any],
         else:
             final_url_with_query = url
 
+    # Strip query from URL — cookie lives only in #EXTHTTP
     base_url, cookie_query = split_url_query(final_url_with_query)
 
-    # KODIPROP stream_headers
-    if cookie_query:
-        stream_headers = (
-            f"User-Agent={USER_AGENT}"
-            f"&Referer={REFERER}"
-            f"&Origin={ORIGIN}"
-            f"&Cookie={cookie_query}"
-        )
-        lines.append(
-            "#KODIPROP:inputstream.adaptive.stream_headers=" + stream_headers
-        )
-
-    # VLC-style options
+    # Only the user-agent VLC option is kept
     lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
-    lines.append(f"#EXTVLCOPT:http-referrer={REFERER}")
-    if cookie_query:
-        lines.append(f"#EXTVLCOPT:http-cookie={cookie_query}")
 
-    # EXTHTTP JSON blob
+    # Minimal EXTHTTP — lowercase "cookie" key, compact JSON
     if cookie_query:
-        exthttp = {
-            "User-Agent": USER_AGENT,
-            "Referer": REFERER,
-            "Origin": ORIGIN,
-            "Cookie": cookie_query,
-        }
-        lines.append(f"#EXTHTTP:{json.dumps(exthttp)}")
+        exthttp = {"cookie": cookie_query}
+        lines.append("#EXTHTTP:" + json.dumps(exthttp, separators=(",", ":")))
 
     lines.append(base_url)
     return "\n".join(lines)
@@ -280,7 +259,7 @@ def generate_m3u() -> str:
         entries.append(create_channel_entry(ch, normal_cookie, sports_data["sportsCookies"]))
 
     print(f"Channels generated: {len(entries)}")
-    return "#EXTM3U\n\n" + "\n\n".join(entries)
+    return HEADER_LINE + "\n\n" + "\n\n".join(entries)
 
 
 def upload_to_github(content: str) -> bool:
