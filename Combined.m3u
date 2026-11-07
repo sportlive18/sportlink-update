@@ -1,14 +1,17 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (11 channels) =====
+#===== Fancode | Sportlink (12 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 7 November 2026 at 9:00:26 pm
+#DATE:- Saturday, 7 November 2026 at 9:56:15 pm
 
 #EXTINF:-1 tvg-id="4250527" tvg-name="West Indies Vs Bangladesh @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | West Indies Vs Bangladesh
 https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250010" tvg-name="Birmingham City F.c. Vs Swansea City A.f.c. @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250010_52993_BIR_SWA_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Birmingham City F.c. Vs Swansea City A.f.c.
 https://dai-fancode.pages.dev/mumbai/4250010_english_hls_c3f077e86624414_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4247681" tvg-name="Rcd Espanyol Vs Deportivo De La Coruna @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247681_53004_ESL_COR_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Rcd Espanyol Vs Deportivo De La Coruna
+https://dai-fancode.pages.dev/mumbai/4247681_english_hls_b7d117239a48343_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250264" tvg-name="Melbourne City Women Vs Beijing Jingtan Fc Women @virat10" tvg-logo="https://images.fancode.com/aig/match/v1793533399053/4250264_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Melbourne City Women Vs Beijing Jingtan Fc Women
 https://dai-fancode.pages.dev/mumbai/4250264_english_hls_c96fe8968375144_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -1604,7 +1607,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_MOB/WDVLive/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d495d29b3e754748389f04dab476c89:2509aac0c21ca795b28d3e3ed3ad96df
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064385~exp=1794067985~acl=/bpk-tv/AndPictures_BTS/WDVLive/*~hmac=b56c0473cbdf847d5a9e789ea89514dcc2f4a1c932a5e0fc29415b97ce30ddf0"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794067985~exp=1794071585~acl=/bpk-tv/AndPictures_BTS/WDVLive/*~hmac=957339e76632b1ef6e39876aa24e3df275fdd26b88ef6e001c8ad0d83dd6e3f7"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndPictures_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2 @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" group-title="Movies | Sportlink", Zee Anmol Cinema 2
@@ -1612,7 +1615,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/AndPictures_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90ec950a8375508ab41dfc6e8ca814bb:a37776912b51a5dc60fd21394cdab317,90ec950a8375508ab41dfc6e8ca814bb:a37776912b51a5dc60fd21394cdab317
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064387~exp=1794067987~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=ed21933ca9778c2fb0471f5e51496afc0adad27a3bb2eda8a336f8a7afc45a2f"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794067985~exp=1794071585~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=e6d7e5f349c5ea49317a8ab55f16f09bb6e17381b6b0879330a60173eeef7b7b"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3060" tvg-name="Hiff Movies @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hiff_Movies.png" group-title="Movies | Sportlink", Hiff Movies
@@ -6836,7 +6839,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Movies_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd1bb73211195ef5a02d9f1acd796a89:12b843dbd649f3e41036ee5be88785b3,dd1bb73211195ef5a02d9f1acd796a89:12b843dbd649f3e41036ee5be88785b3
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064387~exp=1794067987~acl=/bpk-tv/ZeeKannada_BTS/WDVLive/*~hmac=73f56352b8eaf700e34c8b52b6e16e5dbc60ca1bce51712eec224cd5e9fd5c34"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794067985~exp=1794071585~acl=/bpk-tv/ZeeKannada_BTS/WDVLive/*~hmac=93928c47d28d89d84483f0cf5f7480ead73fb64fc0361e1fe2ca5de4cda1ce82"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKannada_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="713" tvg-name="DD9 chandana (kannada) @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="Kannada | Sportlink", DD9 chandana (kannada)
@@ -7612,7 +7615,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYMal_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=509216860f8e594aaf7e921296f53851:536df1e35e2bb055be0117b51db8139c,509216860f8e594aaf7e921296f53851:536df1e35e2bb055be0117b51db8139c
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064179~exp=1794067779~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=2886777fcc5b66121d14c8a2dc76c1d465eb196f226623f2610037256ce7ab34"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794067685~exp=1794071285~acl=/bpk-tv/ZeeTalkies_BTS/WDVLive/*~hmac=92a7ec86d20cbd359f3332b220ebae1147719379fd21aca2586414ffd89c31b5"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkies_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="232" tvg-name="News18 Marathi @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News18Lokmat.png" group-title="Marathi | Sportlink", News18 Marathi
@@ -7636,7 +7639,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69,fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064085~exp=1794067685~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=862ad8281b42915bbfec4aabafd41f2d0501b2015ac2bbabfd0303fb0273f022"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794067685~exp=1794071285~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=3a35030d902c16f90b3082aad9fe8c17848514c89ab6e079bb5a0b8d50be6ee2"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xjhakaas.png" group-title="Marathi | Sportlink", 9x Jhakaas
@@ -7761,7 +7764,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a,784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064387~exp=1794067987~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=49b33b2b9fef223613d5fd6cfa48e46ee7bf4fea3f9c905f2dfa5431364613a9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794067985~exp=1794071585~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=03c9ad1d0947d32b9b17e1e4d1aa2d36aad717187700de74a665e40ef678c21f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="Marathi | Sportlink", Zee Marathi HD
