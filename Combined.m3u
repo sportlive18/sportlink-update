@@ -2,7 +2,7 @@
 #===== Fancode | Sportlink (12 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 7 November 2026 at 9:56:15 pm
+#DATE:- Saturday, 7 November 2026 at 10:00:15 pm
 
 #EXTINF:-1 tvg-id="4250527" tvg-name="West Indies Vs Bangladesh @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | West Indies Vs Bangladesh
 https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -10,8 +10,15 @@ https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458425280_1ta-di_
 #EXTINF:-1 tvg-id="4250010" tvg-name="Birmingham City F.c. Vs Swansea City A.f.c. @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250010_52993_BIR_SWA_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Birmingham City F.c. Vs Swansea City A.f.c.
 https://dai-fancode.pages.dev/mumbai/4250010_english_hls_c3f077e86624414_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#EXTINF:-1 tvg-id="4247681" tvg-name="Rcd Espanyol Vs Deportivo De La Coruna @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247681_53004_ESL_COR_FC-Web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Rcd Espanyol Vs Deportivo De La Coruna
-https://dai-fancode.pages.dev/mumbai/4247681_english_hls_b7d117239a48343_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4247681" tvg-name="Rcd Espanyol Vs Deportivo De La Coruna @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247681_53004_ESL_COR_FC-Web.png" group-title="Fancode | Sportlink",[DRM] ENG | Rcd Espanyol Vs Deportivo De La Coruna
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"yop8kldvavuJSQZRq8b5mA","kid":"mwe9p9q0Qt2Lyb1WG90CWg","kty":"oct"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
+https://in-mc-flive.fancode.com/mumbai/4247681_english_dash_48343_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="4250264" tvg-name="Melbourne City Women Vs Beijing Jingtan Fc Women @virat10" tvg-logo="https://images.fancode.com/aig/match/v1793533399053/4250264_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Melbourne City Women Vs Beijing Jingtan Fc Women
 https://dai-fancode.pages.dev/mumbai/4250264_english_hls_c96fe8968375144_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -39,31 +46,24 @@ https://dai-fancode.pages.dev/mumbai/4250569_english_hls_a212cda0e532405_1ta-di_
 
 #===== SonyLIV | Sportlink (4 channels) =====
 #EXTINF:-1 tvg-name="Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [ENG] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [ENG] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794110842~acl=/*~id=59210459414639928844191777046329~hmac=b0bbd6bea26e954d37170994590ccf8ccd61ceb6c98d100c775552d66e0cf87e
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794112054~acl=/*~id=32863515875274861701848716893812~hmac=8df54f687fcd423af5ead6d0b764f198a6607fa1441990b01a656dce973e5c36
 
 #EXTINF:-1 tvg-name="Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [HIN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [HIN] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794110842~acl=/*~id=59210459414639928844191777046329~hmac=b0bbd6bea26e954d37170994590ccf8ccd61ceb6c98d100c775552d66e0cf87e
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794112054~acl=/*~id=32863515875274861701848716893812~hmac=8df54f687fcd423af5ead6d0b764f198a6607fa1441990b01a656dce973e5c36
 
 #EXTINF:-1 tvg-name="Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [TAM] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [TAM] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794110842~acl=/*~id=59210459414639928844191777046329~hmac=b0bbd6bea26e954d37170994590ccf8ccd61ceb6c98d100c775552d66e0cf87e
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794112054~acl=/*~id=32863515875274861701848716893812~hmac=8df54f687fcd423af5ead6d0b764f198a6607fa1441990b01a656dce973e5c36
 
 #EXTINF:-1 tvg-name="Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [BEN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [BEN] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794110842~acl=/*~id=59210459414639928844191777046329~hmac=b0bbd6bea26e954d37170994590ccf8ccd61ceb6c98d100c775552d66e0cf87e
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794112054~acl=/*~id=32863515875274861701848716893812~hmac=8df54f687fcd423af5ead6d0b764f198a6607fa1441990b01a656dce973e5c36
 
-#===== Willow | Sportlink (4 channels) =====
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 PM 07-11-2026
+#LAST_UPDATE:10:32 PM 07-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:17
-
-#EXTINF:-1 tvg-id="B0HPFJ3JMZ" tvg-name="Abu Dhabi T10 League 2026 - 2nd Match - Royal Desert Champions vs Emirates Eagles @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38e81458-77af-4d0a-a979-a53aeb36308c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 2nd Match - Royal Desert Champions vs Emirates Eagles
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83ab9dc8f48a1c573c35fb8eca23423:4b67016b2e7b226d62d8e4d73694a598
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/coy53ws6dj/out/v1/9ba1d975d80f4df2ac113ce80fa47f22/cenc.mpd
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HLZW9JHH" tvg-name="USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6fb485ce-1efe-4bda-b3c6-9fed335ffe6e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1461,7 +1461,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f,d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064985~exp=1794068585~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=1be8758a6618e048bf1b86cee239a4996d86d6405af42b7b0b0836a6d15fe844"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794068585~exp=1794072185~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=214ad3179f968b050691c3565ae350b421fbdaef7b99b507c7307cc892d083c3"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Movies | Sportlink", B4U Movies
@@ -1474,7 +1474,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09187bccb7ec59428352a31b4b321ce0:25b08b1c7a004e43ef92c239f93e6613
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064685~exp=1794068285~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=9e390c67bf4ab67c7cb402f864885c0b9d6f7585bb5ae2cc711aea860b5a3f83"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794068169~exp=1794071769~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=8ff82657c5039e4ab0640c7885c3f27fbd19a1c58811e467876a69917f50d2d0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndPicturesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png" group-title="Movies | Sportlink", Zee Anmol Cinema
@@ -1631,7 +1631,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Hiff_Movies_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064985~exp=1794068585~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=85a985ed3ec12a095eb162ba7666153d559a280dbdce76837060db282122d411"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794068585~exp=1794072185~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=6755065331aba46239e923424543f9a82ac4ab3d781ecd8e3c42cde712aa0175"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Movies | Sportlink", Star Gold Romance
@@ -2069,7 +2069,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/9XJalwa/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=648632d8a99d59ef86fd651405ffb587:027c47023b8eb258db20ac6ae7ba46a8
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794065285~exp=1794068885~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=5c79a10b162fc6633d4bb93b902a6f813c5cf45e57a62b55804b0f0cb59b6ab4"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794068885~exp=1794072485~acl=/bpk-tv/ZeeZing_BTS/WDVLive/*~hmac=3f0ad5a009e846ceaa8639faf84daa3ce426ae789e618050e1d6c0b47d9086db"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZing_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="587" tvg-name="9XM @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xm.png" group-title="Music | Sportlink", 9XM
@@ -5403,7 +5403,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_SD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d76aa217a4575df5bce80ee0ff6b2121:a7292878f520073ea2826959c21ecdfa,a78b3f56bd0151e0861458c275cea361:875f1430d208e9354eb80ee25e70cc88
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064985~exp=1794068585~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=4856e003244cb582f767648e4681c711c205beb58020164a28fa2ada553174c9"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794068584~exp=1794072184~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=ef15a062c4bbd699002c661c55bd41e5b307c4b19b27b9fb54e252f7f567b33f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1335" tvg-name="National Geographic HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="English | Sportlink", National Geographic HD
@@ -5411,7 +5411,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ac1976053b563b8e157ab2f07a3f6e:38c1412cc587b31a7ee53df457497884,10f476c8ae905d08abc013d975f9aa8c:2429df9c32e89252b2870b05c7a71c1a
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794065285~exp=1794068885~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=253a6ab2b260ac619802445dac6f092d2721bc702fc24f45bc3cbc3c949ef974"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794068885~exp=1794072485~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=dddb8b4e4ee7836ac83f56c37927ef31d9c66cb55bce639f68c6ad2f30d67397"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1338" tvg-name="RT India @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="English | Sportlink", RT India
@@ -9428,7 +9428,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Studio_One_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca,817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794064985~exp=1794068585~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=9a151d5d1620d266d726ad073cc476fcbc069721c1770ebfc361920625ed0c8d"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794068585~exp=1794072185~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=0f7ff313755e4e3c9fd286626b3c4deb5aafeee988cff56055623c5b1f6a2ca8"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1363" tvg-name="Zee Cinemalu HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" group-title="Telugu | Sportlink", Zee Cinemalu HD
