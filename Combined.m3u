@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (11 channels) =====
+#===== Fancode | Sportlink (12 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 7 November 2026 at 6:28:20 pm
-
-#EXTINF:-1 tvg-id="4249772" tvg-name="Zimbabwe Vs Afghanistan @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Zimbabwe Vs Afghanistan
-https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83418752_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Saturday, 7 November 2026 at 6:49:20 pm
 
 #EXTINF:-1 tvg-id="4250372" tvg-name="Kathmandu Gurkhas Vs Lumbini Lions @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250372_53124_KMG_LBL_fc-Web_1793616701587.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Kathmandu Gurkhas Vs Lumbini Lions
 https://dai-fancode.pages.dev/mumbai/4250372_english_hls_a1dc1fd74a86882_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250527" tvg-name="West Indies Vs Bangladesh @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | West Indies Vs Bangladesh
 https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458425280_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249772" tvg-name="Zimbabwe Vs Afghanistan @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Zimbabwe Vs Afghanistan
+https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83418752_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250745" tvg-name="Paratus Jets Vs Pupkewitz Wildcats @virat10" tvg-logo="https://images.fancode.com/aig/match/v1793949413006/4250745_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Paratus Jets Vs Pupkewitz Wildcats
 https://dai-fancode.pages.dev/mumbai/4250745_english_hls_b417730c511101_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -34,27 +34,30 @@ https://dai-fancode.pages.dev/mumbai/139934_english_hls_22c610ecab9000_1ta-di_h2
 #EXTINF:-1 tvg-id="4250570" tvg-name="Court Central @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Court Central
 https://dai-fancode.pages.dev/mumbai/4250570_english_hls_f720fe25b588128_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4250569" tvg-name="World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | World Feed
+https://dai-fancode.pages.dev/mumbai/4250569_english_hls_a212cda0e532405_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (7 channels) =====
 #EXTINF:-1 tvg-name="Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [ENG] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [ENG] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794100526~acl=/*~id=43083341869807279982787114039999~hmac=e1029cbf7125c2b8fcc71d9fdbb3bf950455fe6a48e877ecaed370bd45b7b0b9
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a
 
 #EXTINF:-1 tvg-name="Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [HIN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [HIN] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794100526~acl=/*~id=43083341869807279982787114039999~hmac=e1029cbf7125c2b8fcc71d9fdbb3bf950455fe6a48e877ecaed370bd45b7b0b9
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a
 
 #EXTINF:-1 tvg-name="Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [TAM] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [TAM] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794100526~acl=/*~id=43083341869807279982787114039999~hmac=e1029cbf7125c2b8fcc71d9fdbb3bf950455fe6a48e877ecaed370bd45b7b0b9
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a
 
 #EXTINF:-1 tvg-name="Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [BEN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs East Bengal FC - 7 Nov 2026 [BEN] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794100526~acl=/*~id=43083341869807279982787114039999~hmac=e1029cbf7125c2b8fcc71d9fdbb3bf950455fe6a48e877ecaed370bd45b7b0b9
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a
 
 #EXTINF:-1 tvg-name="Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [ENG] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [ENG] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794100526~acl=/*~id=43083341869807279982787114039999~hmac=e1029cbf7125c2b8fcc71d9fdbb3bf950455fe6a48e877ecaed370bd45b7b0b9
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a
 
 #EXTINF:-1 tvg-name="Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [HIN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [HIN] - MG Indian Super League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794100526~acl=/*~id=43083341869807279982787114039999~hmac=e1029cbf7125c2b8fcc71d9fdbb3bf950455fe6a48e877ecaed370bd45b7b0b9
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a
 
 #EXTINF:-1 tvg-name="Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995267058198_ACC_MensU19_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794100526~acl=/*~id=43083341869807279982787114039999~hmac=e1029cbf7125c2b8fcc71d9fdbb3bf950455fe6a48e877ecaed370bd45b7b0b9
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a
 
 #===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -1613,7 +1616,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_MOB/WDVLive/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d495d29b3e754748389f04dab476c89:2509aac0c21ca795b28d3e3ed3ad96df
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794053586~exp=1794057186~acl=/bpk-tv/AndPictures_BTS/WDVLive/*~hmac=1d7bc91196fcb244a2e94522ecbfc841711e287555adce2cef699b5555b8f4e2"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794057185~exp=1794060785~acl=/bpk-tv/AndPictures_BTS/WDVLive/*~hmac=7611e848f7833db2893d392345e454858dfefee0b9354132975144a5c79f28e8"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndPictures_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2 @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" group-title="Movies | Sportlink", Zee Anmol Cinema 2
@@ -1621,7 +1624,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/AndPictures_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90ec950a8375508ab41dfc6e8ca814bb:a37776912b51a5dc60fd21394cdab317,90ec950a8375508ab41dfc6e8ca814bb:a37776912b51a5dc60fd21394cdab317
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794053593~exp=1794057193~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=ccac4d72b27c2c85582dbc162f79e387da1fcd49411e95a9eeb8438f7765eaed"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794057186~exp=1794060786~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=e2ad320f19bf73bfbbcf22d991e8d3ba109632f5d699d4a71c39ceddd41724e1"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3060" tvg-name="Hiff Movies @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hiff_Movies.png" group-title="Movies | Sportlink", Hiff Movies
@@ -3577,7 +3580,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/WDVLive/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7af2add2968a56309519ac2680c18f25:f992a14e0def17ccdfe16f58c4ce56c5,c1912ef5d59d6294c3fb320a3055a4af:955c74eb562982ceeffc783b596b53a1,3e21bd6fbe7df4ca1c424268070ab851:6d8b3b875f13799209d7654a86782313,e538f2cc72114d7785b4b5303441a31d:87bee8c558864951f82e5c6caa0282fa,bf4131c5bb8701ebb100635aaaa7bb80:451169b3ed1b9e0adeba5ecd487682fe
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794023360~exp=1794044960~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=5e8b159b0a5ecb8c204d812a9a4dbda6ecb9c4a0e927b41fba6a60552cb7d748"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794056413~exp=1794078013~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=a1fc3e09b85d737833a1e8e7233e3e6d55c0b887550bb63ede86ea8ae9001056"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3273" tvg-name="Star Sports 2 Tamil HD @virat10" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" group-title="Sports | Sportlink", Star Sports 2 Tamil HD
@@ -3593,7 +3596,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a0ad7fdf02955d483496e5d5ad41b64:cc1d01a4ccfd47da4f5ff62e20686505,dc4c605a752d535e8c0e31b9a5deae16:21cb8bd7a0606e2dd9fb190ff719f126,a9f12248bf2a5da99366dd6ce07ff0e5:e87623a2552185d5fbe2f227354c2b15,bfb4dda563535486a380c44fecc92015:27bbe04fb5447de6f3286e1030c7b179,b9fae8a03b2750a4b0db12f0f6b65f15:3b1ab225fb8e08c9b59cfd6ededaddc8
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794023410~exp=1794045010~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=a60a756814a5e1f881c1cb3461c052f2815d4666e800c76b756fc899a0a19003"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794056415~exp=1794078015~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=5c84e6ad2af4c8f2c5ec9954160464317a560c3d630cf4762efd512d277a8922"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3274" tvg-name="Star Sports 2 Telugu HD @virat10" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg" group-title="Sports | Sportlink", Star Sports 2 Telugu HD
@@ -6845,7 +6848,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Movies_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd1bb73211195ef5a02d9f1acd796a89:12b843dbd649f3e41036ee5be88785b3,dd1bb73211195ef5a02d9f1acd796a89:12b843dbd649f3e41036ee5be88785b3
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794053593~exp=1794057193~acl=/bpk-tv/ZeeKannada_BTS/WDVLive/*~hmac=8b08b0b10ded85efe58b241e878ae85276c55ef053ee1c5aa70f0a8a75c991ac"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794057186~exp=1794060786~acl=/bpk-tv/ZeeKannada_BTS/WDVLive/*~hmac=30b503ff23c0777d0714dd69b3ea2773655e17a0c4a01bd7dd1d28a66d800f95"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKannada_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="713" tvg-name="DD9 chandana (kannada) @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="Kannada | Sportlink", DD9 chandana (kannada)
@@ -7645,7 +7648,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69,fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794053292~exp=1794056892~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=db2f7f5c5a423b7e7ec75800b614ff807024abe0c7ac67251cfeeaf3e0f40fa5"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794056885~exp=1794060485~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=0a266fc3153a682e6d372bc11a761d0e55bada5a89afadebf65b63b87c1718e0"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xjhakaas.png" group-title="Marathi | Sportlink", 9x Jhakaas
@@ -7770,7 +7773,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a,784cfecc212a5a8e94c18041bd895d87:b8e2a35b093029f203d11285ce07598a
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794053592~exp=1794057192~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=5b29478aea0a24bc78da62af4fa23cb8b650570bf4a9ee5ebc1e8898891965cb"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794057186~exp=1794060786~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=f8395710392676fc91b5808bf8a00addf2ec6b39aed1f8dca765456b791e4f27"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1360" tvg-name="Zee Marathi HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeMarathiHD.png" group-title="Marathi | Sportlink", Zee Marathi HD
