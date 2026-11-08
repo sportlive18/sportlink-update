@@ -1,14 +1,17 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (6 channels) =====
+#===== Fancode | Sportlink (7 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 8 November 2026 at 10:21:13 am
+#DATE:- Sunday, 8 November 2026 at 11:14:09 am
 
 #EXTINF:-1 tvg-id="4250527" tvg-name="West Indies Vs Bangladesh @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | West Indies Vs Bangladesh
 https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458464083_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250401" tvg-name="Sydney Sixers Women Vs Sydney Thunder Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250401_53125_SS-W_ST-W_fc-web_1793352701343.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Sydney Sixers Women Vs Sydney Thunder Women
 https://dai-fancode.pages.dev/mumbai/4250401_english_hls_7eb45b4c9589621_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249772" tvg-name="Zimbabwe Vs Afghanistan @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Zimbabwe Vs Afghanistan
+https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf8341075_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250606" tvg-name="Final @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Final
 https://dai-fancode.pages.dev/mumbai/4250606_english_hls_9e7397d9ef72237_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -19,27 +22,21 @@ https://dai-fancode.pages.dev/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_
 #EXTINF:-1 tvg-id="4250611" tvg-name="Day 4 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aramco-China-Championship_Web-match-card.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 4
 https://dai-fancode.pages.dev/mumbai/4250611_english_hls_9992c87b7356882_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (7 channels) =====
+#===== SonyLIV | Sportlink (5 channels) =====
 #EXTINF:-1 tvg-name="India vs Pakistan - 8 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Pakistan - 8 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794159307~acl=/*~id=71033872300100206726940490970145~hmac=00107106dc9635b82e5dc417479d2a6f0fc2bb35be6e8a48e827db745f89cd3c
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794159923~acl=/*~id=42651271533813154964640012276399~hmac=0caed63a6eefb3c7d1b1838e28e9a2b96127fb45ee248d968c98b4e694a5d335
 
 #EXTINF:-1 tvg-name="India vs Pakistan - 8 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Pakistan - 8 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794159307~acl=/*~id=71033872300100206726940490970145~hmac=00107106dc9635b82e5dc417479d2a6f0fc2bb35be6e8a48e827db745f89cd3c
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794159923~acl=/*~id=42651271533813154964640012276399~hmac=0caed63a6eefb3c7d1b1838e28e9a2b96127fb45ee248d968c98b4e694a5d335
 
 #EXTINF:-1 tvg-name="India vs Pakistan - 8 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Pakistan - 8 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794159307~acl=/*~id=71033872300100206726940490970145~hmac=00107106dc9635b82e5dc417479d2a6f0fc2bb35be6e8a48e827db745f89cd3c
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794159923~acl=/*~id=42651271533813154964640012276399~hmac=0caed63a6eefb3c7d1b1838e28e9a2b96127fb45ee248d968c98b4e694a5d335
 
 #EXTINF:-1 tvg-name="India vs Pakistan - 8 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Pakistan - 8 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794159307~acl=/*~id=71033872300100206726940490970145~hmac=00107106dc9635b82e5dc417479d2a6f0fc2bb35be6e8a48e827db745f89cd3c
-
-#EXTINF:-1 tvg-name="India vs Pakistan - 8 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs Pakistan - 8 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794159307~acl=/*~id=71033872300100206726940490970145~hmac=00107106dc9635b82e5dc417479d2a6f0fc2bb35be6e8a48e827db745f89cd3c
-
-#EXTINF:-1 tvg-name="3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG] - India A Tour of New Zealand @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG] - India A Tour of New Zealand
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794159307~acl=/*~id=71033872300100206726940490970145~hmac=00107106dc9635b82e5dc417479d2a6f0fc2bb35be6e8a48e827db745f89cd3c
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794159923~acl=/*~id=42651271533813154964640012276399~hmac=0caed63a6eefb3c7d1b1838e28e9a2b96127fb45ee248d968c98b4e694a5d335
 
 #EXTINF:-1 tvg-name="UAE vs Nepal - 8 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028499/1793997230899948_ACC_MensU19_UAE_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", UAE vs Nepal - 8 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794159307~acl=/*~id=71033872300100206726940490970145~hmac=00107106dc9635b82e5dc417479d2a6f0fc2bb35be6e8a48e827db745f89cd3c
+https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794159923~acl=/*~id=42651271533813154964640012276399~hmac=0caed63a6eefb3c7d1b1838e28e9a2b96127fb45ee248d968c98b4e694a5d335
 
 #===== Willow | Sportlink (5 channels) =====
 #PLAYLIST:Willow Cricket Event Info
