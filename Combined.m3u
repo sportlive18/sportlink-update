@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (10 channels) =====
+#===== Fancode | Sportlink (9 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 8 November 2026 at 10:07:27 pm
+#DATE:- Sunday, 8 November 2026 at 10:14:26 pm
 
 #EXTINF:-1 tvg-id="4247684" tvg-name="Real Sociedad Vs Rayo Vallecano @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247684_53004_RS_RVL_FC-Web.png" group-title="Fancode | Sportlink",[DRM] ENG | Real Sociedad Vs Rayo Vallecano
 #KODIPROP:inputstream=inputstream.adaptive
@@ -13,9 +13,6 @@
 #EXTVLCOPT:http-referrer=https://fancode.com/
 #EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
 https://in-mc-flive.fancode.com/mumbai/4247684_english_dash_32042_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="4250760" tvg-name="Tottenham Hotspur Women Vs Brighton And Hove Albion Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Tottenham Hotspur Women Vs Brighton And Hove Albion Women
-https://dai-fancode.pages.dev/mumbai/4250760_english_hls_564a4c162b63350_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250761" tvg-name="London City Lionesses Vs Birmingham City F.c. Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | London City Lionesses Vs Birmingham City F.c. Women
 https://dai-fancode.pages.dev/mumbai/4250761_english_hls_489d3c012f81241_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -1480,7 +1477,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/b4u_movies/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09187bccb7ec59428352a31b4b321ce0:25b08b1c7a004e43ef92c239f93e6613
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794151944~exp=1794155544~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=0151188440a7ce6c8140568edd770f8fb0c23390109491b18a6add3f20878018"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794155486~exp=1794159086~acl=/bpk-tv/AndPicturesHD_BTS/WDVLive/*~hmac=94efd3761575de7a6503bcf00182ce1f6a3d22e86edafdb8cf81aac0a3335476"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndPicturesHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png" group-title="Movies | Sportlink", Zee Anmol Cinema
@@ -1613,7 +1610,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_MOB/WDVLive/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d495d29b3e754748389f04dab476c89:2509aac0c21ca795b28d3e3ed3ad96df
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794150766~exp=1794154366~acl=/bpk-tv/AndPictures_BTS/WDVLive/*~hmac=a44d6acca0b63415b06e94a6b64605f5b06e5b80ce160e9bb67544b391ce31c5"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794155542~exp=1794159142~acl=/bpk-tv/AndPictures_BTS/WDVLive/*~hmac=6e9a43a6271cd58962b54e3c513ff29924ab007630c6ca21fab0571a72a8c472"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndPictures_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2761" tvg-name="Zee Anmol Cinema 2 @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeAnmolCinema2.png" group-title="Movies | Sportlink", Zee Anmol Cinema 2
@@ -1637,7 +1634,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Hiff_Movies_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794132619~exp=1794154219~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=2938545be04cebad1ab714ed8d4b18bde95ff58c39733efce810d466768ca7e2"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794155553~exp=1794159153~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=5423ca7ce31a79a7d57c9d4f6b0fe7b756e7ecc1ff1b50a0837c8a91d7a3b281"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3097" tvg-name="Star Gold Romance @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Movies | Sportlink", Star Gold Romance
