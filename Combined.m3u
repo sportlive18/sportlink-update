@@ -20,20 +20,27 @@ https://dai-fancode.pages.dev/mumbai/4249856_english_hls_7a8447ae0257481_1ta-di_
 #EXTINF:-1 tvg-name="3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG] - India A Tour of New Zealand @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG] - India A Tour of New Zealand
 https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794155040~acl=/*~id=42428275284961946449488854898652~hmac=64bebbf96f35d6f61ff6aa715593541cb3d1a327e32782e0db953814c601d4bc
 
-#===== Willow | Sportlink (2 channels) =====
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 AM 08-11-2026
+#LAST_UPDATE:10:39 AM 08-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HN95FFRR" tvg-name="USA Seniors Cricket NPL 2026 - 12th Match - Chicago Cavaliers vs Seattle Moose @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d3a32644-1806-4929-99fb-e6e05d0105ba/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",USA Seniors Cricket NPL 2026 - 12th Match - Chicago Cavaliers vs Seattle Moose
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6d04005acba2bec7402b5fc55afae78:3875902a3a3571958792c959adf4752f
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3rj2taoisb/out/v1/a60c22c8b1b247418d56e9ae5f46601f/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3rj2taoisb/out/v1/a60c22c8b1b247418d56e9ae5f46601f/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HFX9Z692" tvg-name="Womens Big Bash League 2026 - 15th Match - Sydney Sixers Women vs Sydney Thunder Women @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d415ed82-2301-4764-93cd-269d5685d551/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 15th Match - Sydney Sixers Women vs Sydney Thunder Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd35b1d5d52fa3407fe1e6730691c148:21222db5e5b30d5d7c84b06df43703b9
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o3azghs1ah/out/v1/f62c188265b84823b697ceacbf2386ad/cenc.mpd
 
 #===== Prime Video | Sportlink (1 channels) =====
 #DATE:- 28-10-2026 00:15
@@ -3551,7 +3558,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01fc3874f21058dcbf8204f07616ce81:8ba560fb1fcdfeaddfc254965e3a42f6,5515e7889d225404939f53765feba2ea:56fa91e2ee09e5a989c630cb3b2df13d
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794088882~exp=1794110482~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=fccabff5df356d631cfa2bd62467a3282345ebacebd231b0a9f29a601d802260"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794111022~exp=1794132622~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=2c0a723ce50b709be945fe88fb342dfb447017e51c90715dbb721ee5450438f8"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2852" tvg-name="Star Sports 2 Telugu @virat10" tvg-logo="https://img.media.jio.com/tvpimages/63/39/304029_1759237887443_l_medium.jpg" group-title="Sports | Sportlink", Star Sports 2 Telugu
@@ -6703,7 +6710,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Kisan_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc,f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794106688~exp=1794110288~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=96565c6dba3f149f5d56ec16b4302a22f7aaa8e48b5d9f73db494bb9dbefab6a"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794111790~exp=1794115390~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=4f6f4535cf691d26c6b5d9fad9f2ba4dcb8b2744941a0b7799b1ed6bb4a3afc9"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Infotainment | Sportlink", Jio Events HD
@@ -6795,7 +6802,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Movies_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd1bb73211195ef5a02d9f1acd796a89:12b843dbd649f3e41036ee5be88785b3,dd1bb73211195ef5a02d9f1acd796a89:12b843dbd649f3e41036ee5be88785b3
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794108190~exp=1794111790~acl=/bpk-tv/ZeeKannada_BTS/WDVLive/*~hmac=d40eebca12cbdfa896c35c8fb9169d67cacb8e24bfd5bdfdcb8fe9f12c8c9031"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794111791~exp=1794115391~acl=/bpk-tv/ZeeKannada_BTS/WDVLive/*~hmac=bed5dc416db29f1b20bef2d98ad5dce1f515ddf278437db638df7259eb431631"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKannada_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="713" tvg-name="DD9 chandana (kannada) @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="Kannada | Sportlink", DD9 chandana (kannada)
@@ -7595,7 +7602,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69,fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794107890~exp=1794111490~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=161b2110a5a18b39ac0b0fda8cba8bbf4dbdd7d8c31f1b0b2fd33f7dda2c5cfa"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794111528~exp=1794115128~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=e09b9b08642b58dee92ba680f89919297ac0f22fa592c5ae4a84b086a523576c"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xjhakaas.png" group-title="Marathi | Sportlink", 9x Jhakaas
