@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (3 channels) =====
+#===== Fancode | Sportlink (4 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Monday, 9 November 2026 at 11:21:11 am
+#DATE:- Monday, 9 November 2026 at 12:07:20 pm
 
 #EXTINF:-1 tvg-id="4250527" tvg-name="West Indies Vs Bangladesh @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | West Indies Vs Bangladesh
 https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -10,16 +10,19 @@ https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458446842_1ta-di_
 #EXTINF:-1 tvg-id="4249772" tvg-name="Zimbabwe Vs Afghanistan @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Zimbabwe Vs Afghanistan
 https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4250373" tvg-name="Pokhara Avengers Vs Karnali Yaks @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250373_53124_PKA_KNY_fc-Web_1793616702356.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Pokhara Avengers Vs Karnali Yaks
+https://dai-fancode.pages.dev/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="Sri Lanka vs Afghanistan - 9 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028502/1793999538076640_ACC_MensU19_Sri_Lanka_vs_Afghanistan_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka vs Afghanistan - 9 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794248592~acl=/*~id=03050187345526941669514763548395~hmac=a7ad7cacbea1ede4a21211c8862007f03713ed9d9ef06972cdb24293d9b90c3d
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794249198~acl=/*~id=61967399163532527677707922814252~hmac=d55fb8de5b59de923511172bcb2820485849ba8793612316295279d62c7108bd
 
 #EXTINF:-1 tvg-name="Bangladesh vs Malaysia - 9 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028501/1793998959168722_ACC_MensU19_Bangladesh_vs_Malaysia_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Bangladesh vs Malaysia - 9 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794248592~acl=/*~id=03050187345526941669514763548395~hmac=a7ad7cacbea1ede4a21211c8862007f03713ed9d9ef06972cdb24293d9b90c3d
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794249198~acl=/*~id=61967399163532527677707922814252~hmac=d55fb8de5b59de923511172bcb2820485849ba8793612316295279d62c7108bd
 
 #===== Willow | Sportlink (5 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:02 PM 09-11-2026
+#LAST_UPDATE:12:32 PM 09-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -30,21 +33,21 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73de12852269196bb475042be070e659:2d30fe5b6f743afc0e6b0babb86ac70d
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8l6lc0zuve/out/v1/5b23f028b90e4fbf814631f09270f05a/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HPPTT7SW" tvg-name="ACC Mens U19 Asia Cup 2026 - 10th Match - Sri Lanka U19 vs Afghanistan U19 @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84a74748-70b4-4634-85f9-4d2a1c7e1622/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens U19 Asia Cup 2026 - 10th Match - Sri Lanka U19 vs Afghanistan U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94c450ba03f839dd6175a412dfefde4c:4a374f703bfce7300320f01e4791f432
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q5afcrq6oe/out/v1/ccf0ad53296643e48040812e43b2b48f/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLVY22CY" tvg-name="Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c65dfbd7-e120-4b1a-ac5c-60c3981498b0/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71de63b5c5236b41d3289458a0d3612e:91e5a59da86b054fef6a06ab6da82935
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/11/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
