@@ -6,22 +6,29 @@
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="3rd Unofficial Test - Day 3 - 9 Nov 2026 [ENG] - India A Tour of New Zealand @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956566466809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day3_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 3rd Unofficial Test - Day 3 - 9 Nov 2026 [ENG] - India A Tour of New Zealand
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794226192~acl=/*~id=52559458129282236504396273943011~hmac=9d96e72d8af86b3591b9a1a9c07b0623472855b7def28618813df01a394cc404
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794227402~acl=/*~id=36774531582530991269650907728590~hmac=948ac0651cc536e77dc20c2385f12ee6ff898bfd605dcca8c09aaaf67221cbcb
 
-#===== Willow | Sportlink (2 channels) =====
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:02 AM 09-11-2026
+#LAST_UPDATE:06:32 AM 09-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HMKWVW1W" tvg-name="USA Seniors Cricket NPL 2026 - Semi-Final 2 - Mighty Dallas vs Austin Hunters @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bb6ee4b1-dfc9-41ec-9fc0-78f82f13ffcc/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",USA Seniors Cricket NPL 2026 - Semi-Final 2 - Mighty Dallas vs Austin Hunters
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=353d40acc20c736279d2d02ec760aed0:01e6af2e734174bcd93c8f92f073ee1e
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ccvyd4np4y/out/v1/9f17bdba92094f4fabb94e26520f3cea/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ccvyd4np4y/out/v1/9f17bdba92094f4fabb94e26520f3cea/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HQRL8916" tvg-name="USA Seniors Cricket NPL 2026 - Final - Washington Eagles vs Austin Hunters @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fe82486f-c82d-4394-8cf3-a1c2502713ab/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",USA Seniors Cricket NPL 2026 - Final - Washington Eagles vs Austin Hunters
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd036a56727c3d94f2baeb8a338483f5:dc991f1c73cb6d1c5694889cafcac434
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1ov85gjlem/out/v1/4f8e34db6efe48f5927d851ae4304045/cenc.mpd
 
 #===== Prime Video | Sportlink (1 channels) =====
 #DATE:- 28-10-2026 00:15
@@ -4084,7 +4091,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Tribe_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7966a083736c5ff6b449767da10897bc:a11dff4dfcc5ebaff4640b8a5b2bd71e,7966a083736c5ff6b449767da10897bc:a11dff4dfcc5ebaff4640b8a5b2bd71e
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794179892~exp=1794183492~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=d0c6a17b9f21f4543f0d43af750ea3ea2745073d9ade282c597d8c8f1039565b"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794183489~exp=1794187089~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=9eee63d686260756fa62f5dca554f96bc6e75f89a3c515291dd06a284378c1e5"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2027" tvg-name="Raatdin Bangla @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="Bengali | Sportlink", Raatdin Bangla
@@ -6939,7 +6946,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Aastha_Kannada_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02f4cfad19cf547da40f77c29bd303b2:a3ba2f7a824f232d7162f7452fe97a60,02f4cfad19cf547da40f77c29bd303b2:a3ba2f7a824f232d7162f7452fe97a60
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794179890~exp=1794183490~acl=/bpk-tv/ZeeKannadaHD_BTS/WDVLive/*~hmac=91815fc399b1da010e6e34da2c9254a85eeb075eeffd58860f7deb4114e77ef1"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794183490~exp=1794187090~acl=/bpk-tv/ZeeKannadaHD_BTS/WDVLive/*~hmac=2f20b64bc208ce4c36cd5293b67751d6db9da0734fcc504972afd6616bbb1aad"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKannadaHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1370" tvg-name="Colors Kannada SD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_SD.png" group-title="Kannada | Sportlink", Colors Kannada SD
@@ -7168,7 +7175,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Food_Food_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=835037f9e2065f40be9a4eafcbea4ed7:1f304d141f3695fa06cae57a44788bf9,c0270543358b5238816359df6c7d2907:6da0259c9cdf4916bed003e1b30a92ae
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794179891~exp=1794183491~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=f20dc0dfde5cac48e611380f351541902432c07a133b46785f7fa8c63fda0390"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794183491~exp=1794187091~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=437ab6188a8e34408bb799c744488ca0e2ba220a85d876f7279610046038a32c"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="571" tvg-name="TLC Hindi @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLCHindi.png" group-title="Lifestyle | Sportlink", TLC Hindi
