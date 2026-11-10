@@ -1,15 +1,18 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (1 channels) =====
+#===== Fancode | Sportlink (2 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-# Last Checked: Tuesday, 10 November 2026 at 6:56:12 am
+#DATE:- Tuesday, 10 November 2026 at 1:28:15 pm
+
+#EXTINF:-1 tvg-id="4250403" tvg-name="Hobart Hurricanes Women Vs Adelaide Strikers Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250403_53125_HB-W_AS-W_fc-web_1793352702149.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Hobart Hurricanes Women Vs Adelaide Strikers Women
+https://dai-fancode.pages.dev/mumbai/4250403_english_hls_b0215c9e3e35714_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="India vs UAE - 10 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs UAE - 10 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794339657~acl=/*~id=85771203960183711549150251956263~hmac=8e2e990f1156f8c7926ac99db81ad2dd4ff127ed1824e87fa28f331294f6aff9
+https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/master.m3u8?hdnea=exp=1794340268~acl=/*~id=50558844565603905890455429662055~hmac=d6d926ca59818f2c3d522eb4340d5b3bb8d6d1457aee1907200b6659b5432428
 
 #EXTINF:-1 tvg-name="Pakistan vs Nepal - 10 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Pakistan vs Nepal - 10 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794339657~acl=/*~id=85771203960183711549150251956263~hmac=8e2e990f1156f8c7926ac99db81ad2dd4ff127ed1824e87fa28f331294f6aff9
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794340268~acl=/*~id=50558844565603905890455429662055~hmac=d6d926ca59818f2c3d522eb4340d5b3bb8d6d1457aee1907200b6659b5432428
 
 #===== Willow | Sportlink (5 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -5383,7 +5386,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ac1976053b563b8e157ab2f07a3f6e:38c1412cc587b31a7ee53df457497884,10f476c8ae905d08abc013d975f9aa8c:2429df9c32e89252b2870b05c7a71c1a
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794289697~exp=1794293297~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=25f398a30d444aaf279f4ee121c848f207c9eeb8920396b5a7a00ca657db120c"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794296144~exp=1794299744~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=1f68f8fb599c8b095fd7ed550214e2899533b071a6a28a8132396c474b98ba09"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1338" tvg-name="RT India @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="English | Sportlink", RT India
@@ -9400,7 +9403,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Studio_One_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca,817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794292848~exp=1794296448~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=eb50e13446e2ea969265cfd4d2779f028cf000e5bd758593314bc8d8a4cb3b8e"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794296429~exp=1794300029~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=b17d0120dedc68856cf57ed2b4709cefb1598f3de50d966deff533fa87ef4b47"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1363" tvg-name="Zee Cinemalu HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png" group-title="Telugu | Sportlink", Zee Cinemalu HD
