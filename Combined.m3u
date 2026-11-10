@@ -7,20 +7,13 @@
 #EXTINF:-1 tvg-id="4250583" tvg-name="World Feed @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | World Feed
 https://dai-fancode.pages.dev/mumbai/4250583_english_hls_cdcd2d875963060_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== Willow | Sportlink (3 channels) =====
+#===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 PM 10-11-2026
+#LAST_UPDATE:10:32 PM 10-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
-
-#EXTINF:-1 tvg-id="B0HHQKGLKL" tvg-name="Abu Dhabi T10 League 2026 - 9th Match - Yas Lions vs United Tigers @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b128d7c9-e3b4-4af4-9de8-33cd2dc1e986/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 9th Match - Yas Lions vs United Tigers
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e36b3be8845c0685c6e1a7ce8b3a3e0:d0a6469a598e7159d22717e229e8c18d
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iv5d90mbif/out/v1/46534ce74ed246389eb9909c8ee1cc2a/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
 
 #EXTINF:-1 tvg-id="B0H25HFLVN" tvg-name="Abu Dhabi T10 League 2026 - 10th Match - UAE Bulls vs Yas Lions @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6897cda4-c4da-4686-af74-5c100639d904/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 10th Match - UAE Bulls vs Yas Lions
 #KODIPROP:inputstream=inputstream.adaptive
@@ -6789,7 +6782,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Udaya_Movies_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd1bb73211195ef5a02d9f1acd796a89:12b843dbd649f3e41036ee5be88785b3,dd1bb73211195ef5a02d9f1acd796a89:12b843dbd649f3e41036ee5be88785b3
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794322784~exp=1794326384~acl=/bpk-tv/ZeeKannada_BTS/WDVLive/*~hmac=1033f7a8aa1ac3fed2dc0ef829fe9d5bc62a4687ad8d4b14c560b1e4f5699109"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794327494~exp=1794331094~acl=/bpk-tv/ZeeKannada_BTS/WDVLive/*~hmac=5541829da61c8a632d8fa177808b9119f06976737ede86008196a977f408e766"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKannada_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="713" tvg-name="DD9 chandana (kannada) @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="Kannada | Sportlink", DD9 chandana (kannada)
@@ -7589,7 +7582,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69,fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794323964~exp=1794327564~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=e92836b8777202d35fafcecfd75714a2239bad2366ed7d54c7d05ce7b4da3c39"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794327512~exp=1794331112~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=31aa476f89c1c85f03375b249bb0a161b99acfbea13bdc67ddf6ad67922be0cd"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="441" tvg-name="9x Jhakaas @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9xjhakaas.png" group-title="Marathi | Sportlink", 9x Jhakaas
