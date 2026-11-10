@@ -9,46 +9,53 @@ https://dai-fancode.pages.dev/mumbai/4250403_english_hls_b0215c9e3e35714_1ta-di_
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="India vs UAE - 10 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", India vs UAE - 10 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/master.m3u8?hdnea=exp=1794340268~acl=/*~id=50558844565603905890455429662055~hmac=d6d926ca59818f2c3d522eb4340d5b3bb8d6d1457aee1907200b6659b5432428
+https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794340874~acl=/*~id=63584141163455308890230371258218~hmac=77785d5f40b2a0d0e17a5bfd20f2b3ff20a28ae21759feb25318e20b565aff70
 
 #EXTINF:-1 tvg-name="Pakistan vs Nepal - 10 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Pakistan vs Nepal - 10 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794340268~acl=/*~id=50558844565603905890455429662055~hmac=d6d926ca59818f2c3d522eb4340d5b3bb8d6d1457aee1907200b6659b5432428
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794340874~acl=/*~id=63584141163455308890230371258218~hmac=77785d5f40b2a0d0e17a5bfd20f2b3ff20a28ae21759feb25318e20b565aff70
 
-#===== Willow | Sportlink (5 channels) =====
+#===== Willow | Sportlink (6 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:32 PM 10-11-2026
+#LAST_UPDATE:02:02 PM 10-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
-#UPCOMING_COUNT:16
+#LIVE_COUNT:5
+#UPCOMING_COUNT:15
 
 #EXTINF:-1 tvg-id="B0HLTL9QVY" tvg-name="India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1eb04179-dfb1-4e4a-992b-c30607ed3a3b/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",India tour of New Zealand 2026 - 3rd ODI - New Zealand vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HLVY22CY" tvg-name="Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c65dfbd7-e120-4b1a-ac5c-60c3981498b0/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a796c5da314d0f3f0eb841277c5fc1e:a33c04fb553da43641676c70cdf9a7f5
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5qwnjfwfw8/out/v1/737ac6878c464e80871e32a15843a112/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HKJV3KJQ" tvg-name="ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19 @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.82ee6ea6-b151-42f2-b95d-5a9c299fee43/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens U19 Asia Cup 2026 - 11th Match - India U19 vs United Arab Emirates U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pujers2ihc/out/v1/cd417b73a773492ba79df2f9bb89a9f7/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HQDBVP3R" tvg-name="ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19 @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a706cc75-2ccd-438b-90b4-e96fb22d94cd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens U19 Asia Cup 2026 - 12th Match - Pakistan U19 vs Nepal U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uj57vzxrnc/out/v1/d6a60198058d40fab0967a5eff0049e6/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HMWXH8YF" tvg-name="Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.081eac8c-03af-410a-8305-e286be59f79c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 17th Match - Hobart Hurricanes Women vs Adelaide Strikers Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a1682a8f89aa5ff24dce0370f43ef40:dc9bc4cfccf500ee22395bb3ffeff882
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zp0ggg1zl5/out/v1/b0f6f0e625a445049079e175b42ad70e/cenc.mpd
 
 #===== Prime Video | Sportlink (1 channels) =====
 #DATE:- 28-10-2026 00:15
@@ -1436,7 +1443,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f,d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794293638~exp=1794297238~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=e02f2a07be84c6b7c48873b91adac16576475bab37a115295bb95d051fbf4961"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794297295~exp=1794318895~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=b7a475383fefa37345ed43fb6630af83eeb601e9093610641990d1dabe5e2468"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="182" tvg-name="B4U Movies @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/b4u_movies.png" group-title="Movies | Sportlink", B4U Movies
@@ -1590,7 +1597,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/AndPictures_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90ec950a8375508ab41dfc6e8ca814bb:a37776912b51a5dc60fd21394cdab317,90ec950a8375508ab41dfc6e8ca814bb:a37776912b51a5dc60fd21394cdab317
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794293290~exp=1794296890~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=e2cebe489ae5c78cc7c29f81d168080458dd6d95c4bbe46b73b608ddaa3674c8"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794297190~exp=1794300790~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=380f072280a549c0e4ada2556d5ae984d4f64cbfad625b2ea97c3239f2b9daa9"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3060" tvg-name="Hiff Movies @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hiff_Movies.png" group-title="Movies | Sportlink", Hiff Movies
@@ -2242,7 +2249,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/IBC24_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58,ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794292508~exp=1794296108~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=0e551de26cbc2d18879f6902ca51c94e937f2ca09c36303ddf663cbe794ff651"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794297309~exp=1794318909~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=790a4e5b728ef4b38d2f23d52d35b4f1196f0e0e77787e69b852799022b36d00"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_News_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="510" tvg-name="VIP News @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VIP_News.png" group-title="News | Sportlink", VIP News
@@ -3482,7 +3489,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e48435ba038548299ee73fef998535d:b89d18e54ad2b5576c27c3259db19a3e,5b50f11a09a15275b5742ef2d6e001e0:9b9ce35c8d91340939031aba5e433991
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794272412~exp=1794294012~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=f940fa84151c6aef0b3f3259e6e16476e689e748e37e3b6af64ba6799c235ad3"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794295228~exp=1794316828~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=b36014bd68c4324891c317d07ef19300e5d36f5af03a2c7c9d9bd3f06947b38a"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1985" tvg-name="Star Sports 2 Hindi @virat10" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1760690003311_l_medium.jpg" group-title="Sports | Sportlink", Star Sports 2 Hindi
@@ -3570,7 +3577,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01fc3874f21058dcbf8204f07616ce81:8ba560fb1fcdfeaddfc254965e3a42f6,5515e7889d225404939f53765feba2ea:56fa91e2ee09e5a989c630cb3b2df13d
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794272412~exp=1794294012~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=c905fcad0e564b703e6df824272172c08a85b2931499f8f2a8f780236c52f90d"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794294624~exp=1794316224~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=d7617092c5048fb5b1f118d9754a907255740fc91bb1a38420ac12fa2552bfb4"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2852" tvg-name="Star Sports 2 Telugu @virat10" tvg-logo="https://img.media.jio.com/tvpimages/63/39/304029_1759237887443_l_medium.jpg" group-title="Sports | Sportlink", Star Sports 2 Telugu
@@ -3906,7 +3913,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Ben_MOB/WDVLive/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fad89ecbae1c5b819e77020cbd209913:4dec9d39fea54d2f38610274bcf3536a,fad89ecbae1c5b819e77020cbd209913:4dec9d39fea54d2f38610274bcf3536a
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794271818~exp=1794293418~acl=/bpk-tv/ZeeBangla_BTS/WDVLive/*~hmac=d0dfc3f43a40658b69c19d55cbfec4c51174c5b6411888f70fc3e458e31cfe47"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794294501~exp=1794298101~acl=/bpk-tv/ZeeBangla_BTS/WDVLive/*~hmac=b92211bd6cdaf27d4ef6b6decd95b53574c9d4a4f25751233fc0fa798a8e7e5f"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBangla_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="672" tvg-name="ABP Ananda @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="Bengali | Sportlink", ABP Ananda
@@ -6722,7 +6729,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Kisan_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc,f45e69507f0f5aa1a6e82374efb0af25:f84348219837769feb5a26a7b1cd31dc
 #EXTVLCOPT:http-user-agent=Virat
-#EXTHTTP:{"cookie":"__hdnea__=st=1794293290~exp=1794296890~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=96e23a8ea60cbdfe1eb1e31f0f900b2f03f0b59c4764eeacd01259a651ae81bd"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1794296898~exp=1794300498~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=ddbe955f5477fbd180ac924489e98272f9df5e0922e35f5978feee457b06664b"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD @virat10" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Infotainment | Sportlink", Jio Events HD
