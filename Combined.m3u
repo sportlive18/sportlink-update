@@ -6,29 +6,22 @@
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="Moldova vs Kazakhstan - 13 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793258155606871_UNL26_MD5_Moldova-vs-Kazakhstan_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Moldova vs Kazakhstan - 13 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794630361~acl=/*~id=29281024628665723715919917940190~hmac=042a7f72b08ef1bc44d6dc91eef332d9e5a18737fabb2cfe6685958d3d0c79c0
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794630967~acl=/*~id=64909460492505697796182451554311~hmac=83bfd5da5ea681108ba675ca3bd287d7bc8dfb0da9df05353fe94e56e2430c0f
 
-#===== Willow | Sportlink (3 channels) =====
+#===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:10:02 PM 13-11-2026
+#LAST_UPDATE:10:32 PM 13-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:33
-
-#EXTINF:-1 tvg-id="B0HPKLKWF7" tvg-name="Abu Dhabi T10 League 2026 - 14th Match - Royal Desert Champions vs Yas Lions @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7c51015d-e7e5-4138-8baa-620916d3ce58/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 14th Match - Royal Desert Champions vs Yas Lions
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2764047e84649b6654bdde1b3a11bacf:de670189df371c5a846531de6c70b8d5
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoet76t7t0/out/v1/42febfe8a5424aa1b545cb1199709a04/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:34
 
 #EXTINF:-1 tvg-id="B0HPGKGG72" tvg-name="Abu Dhabi T10 League 2026 - 15th Match - Arabian Aces vs UAE Bulls @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b801d005-fcdb-46c5-b8cf-28f5d424d666/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 15th Match - Arabian Aces vs UAE Bulls
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f5dd13b8a8e3359a73e223b88369060:876bbda3e69865498248ea092dce4c9e
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/delyeuco8c/out/v1/1f09875985524291b4fc55f67ababfb5/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/delyeuco8c/out/v1/1f09875985524291b4fc55f67ababfb5/cenc.mpd
 
 #===== Prime Video | Sportlink (1 channels) =====
 #DATE:- 28-10-2026 00:15
