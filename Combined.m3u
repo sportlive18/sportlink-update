@@ -6,7 +6,7 @@
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="Kosovo vs Israel - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793268731743871_UNL26_MD5_Kosovo-vs-Israel_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Kosovo vs Israel - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794712456~acl=/*~id=13010040927133921121622013833912~hmac=5d1f4cc2bdaf37f05b966e208d028999cd26f77eee4695d29c8bba2455dbe1b9
+https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794713062~acl=/*~id=94425692146030532474348722725391~hmac=e1a26c1e3f43e6f46d8015c2263fde38299b2f4de736df7a8465429c6eceaa38
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -23,8 +23,8 @@ https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh
 #KODIPROP:inputstream.adaptive.license_key=c9416419990931400d04e62d657c0cc8:7aa33c302380249e86295685656c2a97
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd
 
-#===== Prime Video | Sportlink (4 channels) =====
-#DATE:- 14-11-2026 20:45
+#===== Prime Video | Sportlink (5 channels) =====
+#DATE:- 14-11-2026 21:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 
@@ -37,7 +37,7 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/k5yg
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kabkhoznwf/out/v1/3b0562366ec344c9968047f58433e681/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/kabkhoznwf/out/v1/3b0562366ec344c9968047f58433e681/cenc.mpd
 
 #EXTINF:-1 tvg-name="HIN | Indian Idol - Legends Return @virat10" tvg-id="amzn1.dv.gti.2fda5cd1-0a37-49cf-9303-93d4dd523749" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2fda5cd1-0a37-49cf-9303-93d4dd523749/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | Indian Idol - Legends Return
 #KODIPROP:inputstream=inputstream.adaptive
@@ -48,7 +48,7 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ixq7b7vb6k/out/v1/0f2756a79892473b9869131b07422e99/cenc.mpd
+https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ixq7b7vb6k/out/v1/0f2756a79892473b9869131b07422e99/cenc.mpd
 
 #EXTINF:-1 tvg-name="MAR | Kon Honaar Crorepati @virat10" tvg-id="amzn1.dv.gti.42a1a1a9-c462-4df5-91f2-c54eb72f403b" tvg-lang="MARATHI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42a1a1a9-c462-4df5-91f2-c54eb72f403b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",MAR | Kon Honaar Crorepati
 #KODIPROP:inputstream=inputstream.adaptive
@@ -59,7 +59,18 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ixq7b7vb
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/4mdzjewvgw/out/v1/5896226d6754406a98f166d2b7afec81/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/4mdzjewvgw/out/v1/5896226d6754406a98f166d2b7afec81/cenc.mpd
+
+#EXTINF:-1 tvg-name="HIN | Family Full House With Rohit Sharma @virat10" tvg-id="amzn1.dv.gti.869ffa73-4d54-4323-afdd-a21797ea275b" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.869ffa73-4d54-4323-afdd-a21797ea275b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | Family Full House With Rohit Sharma
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QRVWtT01APTJzmNhE8_XHA","k":"arLbjZbs2OdK467U_4cF2Q"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/xifbprfint/out/v1/3d8160c8e9bc4666b384fd0db663f330/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
