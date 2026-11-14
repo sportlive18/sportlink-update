@@ -4,40 +4,32 @@
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #DATE:- Wednesday, 11 November 2026 at 6:05:32 pm
 
-#===== SonyLIV | Sportlink (1 channels) =====
-#EXTINF:-1 tvg-name="Kosovo vs Israel - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793268731743871_UNL26_MD5_Kosovo-vs-Israel_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Kosovo vs Israel - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794714878~acl=/*~id=58676787278066344356899475788306~hmac=cf356b8dcd07e1515121263c0c54820f8916f50f61399b24c0c80110da2ea3f9
-
-#===== Willow | Sportlink (2 channels) =====
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:02 PM 14-11-2026
+#LAST_UPDATE:10:02 PM 14-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:34
+#LIVE_COUNT:2
+#UPCOMING_COUNT:33
 
 #EXTINF:-1 tvg-id="B0HQRP5RVS" tvg-name="Abu Dhabi T10 League 2026 - 17th Match - Arabian Aces vs Emirates Eagles @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0d7e5fab-ee2f-4d29-8448-318763861454/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 17th Match - Arabian Aces vs Emirates Eagles
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9416419990931400d04e62d657c0cc8:7aa33c302380249e86295685656c2a97
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd
 
-#===== Prime Video | Sportlink (5 channels) =====
-#DATE:- 14-11-2026 21:00
-# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-
-#EXTINF:-1 tvg-name="ENG | Kosovo vs. Israel @virat10" tvg-id="amzn1.dv.gti.140c7723-ac93-4362-b883-2a1cf43d7666" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.140c7723-ac93-4362-b883-2a1cf43d7666/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png" group-title="Prime Video | Sportlink",ENG | Kosovo vs. Israel
+#EXTINF:-1 tvg-id="B0HPTP8XSC" tvg-name="Abu Dhabi T10 League 2026 - 18th Match - Yas Lions vs UAE Bulls @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2815926-0840-49ba-b2e5-7b08229525a0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 18th Match - Yas Lions vs UAE Bulls
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6P0aLUz3mfn4OQzpQhcXZQ","k":"EP0Dmz3r5gxjZKRmxsc-QA"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/kabkhoznwf/out/v1/3b0562366ec344c9968047f58433e681/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab5b5cecc72d2468a6bb0cb095549adf:498bea5d3276c0fdbb38e8b10703c44c
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0py89u35kf/out/v1/f438820f38824212b6107dfd880773e6/cenc.mpd
+
+#===== Prime Video | Sportlink (4 channels) =====
+#DATE:- 14-11-2026 21:30
+# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
 
 #EXTINF:-1 tvg-name="HIN | Indian Idol - Legends Return @virat10" tvg-id="amzn1.dv.gti.2fda5cd1-0a37-49cf-9303-93d4dd523749" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2fda5cd1-0a37-49cf-9303-93d4dd523749/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | Indian Idol - Legends Return
 #KODIPROP:inputstream=inputstream.adaptive
@@ -48,7 +40,7 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/kabk
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ixq7b7vb6k/out/v1/0f2756a79892473b9869131b07422e99/cenc.mpd
+https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ixq7b7vb6k/out/v1/0f2756a79892473b9869131b07422e99/cenc.mpd
 
 #EXTINF:-1 tvg-name="MAR | Kon Honaar Crorepati @virat10" tvg-id="amzn1.dv.gti.42a1a1a9-c462-4df5-91f2-c54eb72f403b" tvg-lang="MARATHI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.42a1a1a9-c462-4df5-91f2-c54eb72f403b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",MAR | Kon Honaar Crorepati
 #KODIPROP:inputstream=inputstream.adaptive
@@ -59,7 +51,7 @@ https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/c
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/4mdzjewvgw/out/v1/5896226d6754406a98f166d2b7afec81/cenc.mpd
+https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/4mdzjewvgw/out/v1/5896226d6754406a98f166d2b7afec81/cenc.mpd
 
 #EXTINF:-1 tvg-name="HIN | Family Full House With Rohit Sharma @virat10" tvg-id="amzn1.dv.gti.869ffa73-4d54-4323-afdd-a21797ea275b" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.869ffa73-4d54-4323-afdd-a21797ea275b/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | Family Full House With Rohit Sharma
 #KODIPROP:inputstream=inputstream.adaptive
@@ -70,7 +62,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/4mdzjewv
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/xifbprfint/out/v1/3d8160c8e9bc4666b384fd0db663f330/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xifbprfint/out/v1/3d8160c8e9bc4666b384fd0db663f330/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
