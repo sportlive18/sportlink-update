@@ -6,10 +6,10 @@
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="Finland vs San Marino - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027773/1793249866500892_UNL26_MD6_Finland_vs_San_Marino_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Finland vs San Marino - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794810980~acl=/*~id=29958046728786264417688566028742~hmac=34f4f0e90a76b03a04f5adf25046ca10655621e2280ca039834226be7432712c
+https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794811585~acl=/*~id=42645016605006642976563761577616~hmac=92bc188191f0f51aeb0d3da1a2e3696dd0af7272785ea527c99855de62d7c904
 
 #EXTINF:-1 tvg-name="Belarus vs Albania - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027747/1793250451231217_UNL26_MD6_Belarus_vs_Albania_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Belarus vs Albania - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794810980~acl=/*~id=29958046728786264417688566028742~hmac=34f4f0e90a76b03a04f5adf25046ca10655621e2280ca039834226be7432712c
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794811585~acl=/*~id=42645016605006642976563761577616~hmac=92bc188191f0f51aeb0d3da1a2e3696dd0af7272785ea527c99855de62d7c904
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -26,21 +26,10 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1511/ENG/std_lrh
 #KODIPROP:inputstream.adaptive.license_key=160ab6fd511b22c2d9cae43f7e2d44d6:e68f37a955c76b640f9f158cb35fcce6
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r1ic5dmtdq/out/v1/0f83fcd8375647beb2cb53661e99f35f/cenc.mpd
 
-#===== Prime Video | Sportlink (7 channels) =====
-#DATE:- 16-11-2026 00:03
+#===== Prime Video | Sportlink (5 channels) =====
+#DATE:- 16-11-2026 00:18
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-
-#EXTINF:-1 tvg-name="HIN | Indian Idol - Legends Return @virat10" tvg-id="amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | Indian Idol - Legends Return
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Zqo6L4lIuWJcPXsg1UMUqA","k":"HLVoPTOmLpTsH96Ar_Fbyg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ydnixxoceg/out/v1/da9cc0952f80440a9ad51a19c53998e5/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | Belarus vs. Albania @virat10" tvg-id="amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6a0638c5-0590-49f2-9846-67e7e17d0d30/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png" group-title="Prime Video | Sportlink",ENG | Belarus vs. Albania
 #KODIPROP:inputstream=inputstream.adaptive
@@ -51,7 +40,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ydnixxoceg/
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xvbmu1sghe/out/v1/e0ce7e0171f84bb8b623b22479c44697/cenc.mpd
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/xvbmu1sghe/out/v1/e0ce7e0171f84bb8b623b22479c44697/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | Finland vs. San Marino @virat10" tvg-id="amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png" group-title="Prime Video | Sportlink",ENG | Finland vs. San Marino
 #KODIPROP:inputstream=inputstream.adaptive
@@ -62,18 +51,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xvbmu1sg
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9xfmoxo78e/out/v1/c09ad451a5574e88985a5cada5beeaa7/cenc.mpd
-
-#EXTINF:-1 tvg-name="HIN | SonyLIV Live Event @virat10" tvg-id="amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",HIN | SonyLIV Live Event
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Zqo6L4lIuWJcPXsg1UMUqA","k":"HLVoPTOmLpTsH96Ar_Fbyg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/8cwqoxerbj/out/v1/771669b1f2134421b542a0ea5baa4be2/cenc.mpd
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9xfmoxo78e/out/v1/c09ad451a5574e88985a5cada5beeaa7/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | Belarus vs Albania - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.efcb0f0d-9f33-474a-9c53-d9e968e4a7b3/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",ENG | Belarus vs Albania - 15 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
@@ -84,7 +62,7 @@ https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/c
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/cmwuhp1hws/out/v1/c715377d57874eb498c1cb2275af2fff/cenc.mpd
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/cmwuhp1hws/out/v1/c715377d57874eb498c1cb2275af2fff/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | Finland vs. San Marino @virat10" tvg-id="amzn1.dv.gti.f5fdcd46-f4f0-4425-9be4-d2a33d5524f7" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a4617d33-58a6-48e3-bf0e-0d219bac11ed/2/BOXART-16X9/en-GB/1920x1080.png" group-title="Prime Video | Sportlink",ENG | Finland vs. San Marino
 #KODIPROP:inputstream=inputstream.adaptive
@@ -95,7 +73,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/cmw
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wiewmp0an4/out/v1/df5bc6a21d954b95ad8b9608359d2359/cenc.mpd
+https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/wiewmp0an4/out/v1/df5bc6a21d954b95ad8b9608359d2359/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (127 channels) =====
 #DATE:- 07-10-2026 23:25
