@@ -25,8 +25,8 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1511/ENG/std_lrh
 #LIVE_COUNT:0
 #UPCOMING_COUNT:35
 
-#===== Prime Video | Sportlink (9 channels) =====
-#DATE:- 16-11-2026 01:18
+#===== Prime Video | Sportlink (7 channels) =====
+#DATE:- 16-11-2026 03:18
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 
@@ -39,7 +39,7 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1511/ENG/std_lrh
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pfnsqfomlx/out/v1/f7e44627d00044f5a6d3bdaf6a279e19/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/pfnsqfomlx/out/v1/f7e44627d00044f5a6d3bdaf6a279e19/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | France vs Türkiye - 16 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",ENG | France vs Türkiye - 16 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
@@ -50,7 +50,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pfnsqfomlx/out/v1
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/i4spoaubjz/out/v1/e375d615f9df4faa9f678038f05c50af/cenc.mpd
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/i4spoaubjz/out/v1/e375d615f9df4faa9f678038f05c50af/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | Belgium vs Italy - 16 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",ENG | Belgium vs Italy - 16 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
@@ -61,18 +61,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/i4spoaubjz/
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/bebouklpnn/out/v1/afd41b1a05f541729c4e8a8f671a6a3b/cenc.mpd
-
-#EXTINF:-1 tvg-name="ENG | Croatia vs Czechia - 16 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",ENG | Croatia vs Czechia - 16 Nov 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7dg2vAgk7L6UK-STpghDuA","k":"l4g0DQNRS1mphsrcG2y06Q"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/gnd9oocy4s/out/v1/a152c6906ca647b4a2e10571a64e3cfe/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bebouklpnn/out/v1/afd41b1a05f541729c4e8a8f671a6a3b/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | Spain vs England - 16 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.c1fac598-e12f-4850-b31c-104c3c63ca43" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c1fac598-e12f-4850-b31c-104c3c63ca43/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",ENG | Spain vs England - 16 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
@@ -85,17 +74,6 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/gnd9
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/frwx8p7c15/out/v1/86a4469ea1224451a69939489f840d7e/cenc.mpd
 
-#EXTINF:-1 tvg-name="ENG | Croatia vs Czechia - 16 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.5c9763f3-86ad-4326-b23a-cd867b256eec" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e9840b35-c823-45a2-a020-9986c0d84aef/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",ENG | Croatia vs Czechia - 16 Nov 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7dg2vAgk7L6UK-STpghDuA","k":"l4g0DQNRS1mphsrcG2y06Q"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jl5ausniat/out/v1/2cef55ba14124120af25d697c91fe486/cenc.mpd
-
 #EXTINF:-1 tvg-name="ENG | Belgium vs Italy - 16 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.6089fbc3-7218-4c0c-8f08-ea694477252c" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a83740d4-c1e6-4c11-ab30-43897a7d2a30/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",ENG | Belgium vs Italy - 16 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -105,7 +83,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/jl5
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/svvhlayrha/out/v1/8c9fc12fa210490fae57d906136e8462/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/svvhlayrha/out/v1/8c9fc12fa210490fae57d906136e8462/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | France vs Türkiye - 16 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.8978b6c5-dcff-4d2b-81ea-a28832b8362a" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3ab89f09-2715-4d07-b27c-f1c6803f1fe2/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",ENG | France vs Türkiye - 16 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
@@ -116,7 +94,7 @@ https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/svvhl
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7yrxcll7ms/out/v1/dbd120f7d0e849c0a6fa3062b148db73/cenc.mpd
+https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/7yrxcll7ms/out/v1/dbd120f7d0e849c0a6fa3062b148db73/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (127 channels) =====
 #DATE:- 07-10-2026 23:25
