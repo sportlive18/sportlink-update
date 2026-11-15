@@ -6,32 +6,25 @@
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="Latvia vs Armenia - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Latvia vs Armenia - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794795825~acl=/*~id=37091963934970458202449843844657~hmac=86d93d483621fecd8bd629d723accf3583eb025dd4c6d48465be389380ec6f50
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794796431~acl=/*~id=86011612770197708793031331500105~hmac=533b7dcf9bbdcad869493d81d7f393a71ae0a1f2e2ef0459b1fac4db80007e84
 
 #EXTINF:-1 tvg-name="Cyprus vs Montenegro - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Cyprus vs Montenegro - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794795825~acl=/*~id=37091963934970458202449843844657~hmac=86d93d483621fecd8bd629d723accf3583eb025dd4c6d48465be389380ec6f50
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794796431~acl=/*~id=86011612770197708793031331500105~hmac=533b7dcf9bbdcad869493d81d7f393a71ae0a1f2e2ef0459b1fac4db80007e84
 
-#===== Willow | Sportlink (5 channels) =====
+#===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:02 PM 15-11-2026
+#LAST_UPDATE:08:32 PM 15-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
-#UPCOMING_COUNT:31
-
-#EXTINF:-1 tvg-id="B0HP83ZWBB" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c946453d-7025-4e95-9564-d2a336954242/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c58e89e55b6ca6b7155cc78c8e2300d:949c2c45b7bbfab1d09f7c9bb96e2e4c
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd
+#LIVE_COUNT:3
+#UPCOMING_COUNT:32
 
 #EXTINF:-1 tvg-id="B0HRNBGJB1" tvg-name="Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HR6MYBFS" tvg-name="Abu Dhabi T10 League 2026 - 19th Match - Royal Desert Champions vs Arabian Aces @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2fa8532-ed32-4459-8849-5ec16d4c6371/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 19th Match - Royal Desert Champions vs Arabian Aces
 #KODIPROP:inputstream=inputstream.adaptive
