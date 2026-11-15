@@ -6,18 +6,18 @@
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="Latvia vs Armenia - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Latvia vs Armenia - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794799462~acl=/*~id=35053111584787188072070763361866~hmac=b95c98ab5b6253fdb0c7e83a31a2a7a99945f8373aff3fd953f0c878a4194f59
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800069~acl=/*~id=29465163329967844804533043333798~hmac=8586b574e1b1d46c4c322bdf01d6605ad2360b6d6f54f705b65d2ee987e4cf4a
 
 #EXTINF:-1 tvg-name="Cyprus vs Montenegro - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Cyprus vs Montenegro - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794799462~acl=/*~id=35053111584787188072070763361866~hmac=b95c98ab5b6253fdb0c7e83a31a2a7a99945f8373aff3fd953f0c878a4194f59
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800069~acl=/*~id=29465163329967844804533043333798~hmac=8586b574e1b1d46c4c322bdf01d6605ad2360b6d6f54f705b65d2ee987e4cf4a
 
-#===== Willow | Sportlink (4 channels) =====
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:32 PM 15-11-2026
+#LAST_UPDATE:09:32 PM 15-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
-#UPCOMING_COUNT:32
+#LIVE_COUNT:2
+#UPCOMING_COUNT:33
 
 #EXTINF:-1 tvg-id="B0HRNBGJB1" tvg-name="Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
@@ -26,22 +26,15 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh
 #KODIPROP:inputstream.adaptive.license_key=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HR6MYBFS" tvg-name="Abu Dhabi T10 League 2026 - 19th Match - Royal Desert Champions vs Arabian Aces @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2fa8532-ed32-4459-8849-5ec16d4c6371/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 19th Match - Royal Desert Champions vs Arabian Aces
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0746588cbf8ac03b65207fb487d8a65d:01db21ef36ef2c010efc6c32b9ccf412
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HQTZCC6D" tvg-name="Abu Dhabi T10 League 2026 - 20th Match - Emirates Eagles vs UAE Bulls @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d679535-1ce0-4996-b27d-7fb3358bc7bc/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 20th Match - Emirates Eagles vs UAE Bulls
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61b5aed045f5f30c90cbbdd368b2abaf:7f9159dd162612a77f4c770199b27671
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gbxtruggg2/out/v1/b8172045e5c9414c8cb5e70a909585ac/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gbxtruggg2/out/v1/b8172045e5c9414c8cb5e70a909585ac/cenc.mpd
 
-#===== Prime Video | Sportlink (6 channels) =====
-#DATE:- 15-11-2026 19:45
+#===== Prime Video | Sportlink (7 channels) =====
+#DATE:- 15-11-2026 21:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 
@@ -54,7 +47,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/gbxtrugg
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/tsxjckrusd/out/v1/348b41a553f2424ab15d9ede15b3b1bb/cenc.mpd
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/tsxjckrusd/out/v1/348b41a553f2424ab15d9ede15b3b1bb/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | Cyprus vs. Montenegro @virat10" tvg-id="amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bf26173f-f82e-4a65-b7ce-e53d7e3dd310/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png" group-title="Prime Video | Sportlink",ENG | Cyprus vs. Montenegro
 #KODIPROP:inputstream=inputstream.adaptive
@@ -65,7 +58,7 @@ https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/c
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/aghlyfvogt/out/v1/4d5a657a11624b12856887453a15b612/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/aghlyfvogt/out/v1/4d5a657a11624b12856887453a15b612/cenc.mpd
 
 #EXTINF:-1 tvg-name="HIN | Indian Idol - Legends Return @virat10" tvg-id="amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | Indian Idol - Legends Return
 #KODIPROP:inputstream=inputstream.adaptive
@@ -76,7 +69,18 @@ https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/c
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ydnixxoceg/out/v1/da9cc0952f80440a9ad51a19c53998e5/cenc.mpd
+https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ydnixxoceg/out/v1/da9cc0952f80440a9ad51a19c53998e5/cenc.mpd
+
+#EXTINF:-1 tvg-name="HIN | Family Full House With Rohit Sharma @virat10" tvg-id="amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.46f60790-b996-44e3-8f52-7891bd968bdc/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | Family Full House With Rohit Sharma
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Cb3TdtpeMdog1aj8ECyxjA","k":"N9fxeM1qiJUB5TBd9KcTKQ"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/f12yoz3kiv/out/v1/41cbb9e739b444139ec0838f91d0e7c5/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | Latvia vs Armenia - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.29c0ba15-411f-4fe0-8c10-655e0282d858" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.29c0ba15-411f-4fe0-8c10-655e0282d858/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",ENG | Latvia vs Armenia - 15 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
@@ -87,7 +91,7 @@ https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ydnixxoceg
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/te0xlcvi8o/out/v1/d5cd6d7f35c9452bbf7f2b88cf1f50fa/cenc.mpd
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/te0xlcvi8o/out/v1/d5cd6d7f35c9452bbf7f2b88cf1f50fa/cenc.mpd
 
 #EXTINF:-1 tvg-name="HIN | Indian Idol - Legends Return @virat10" tvg-id="amzn1.dv.gti.7bdb94d8-4334-4bc6-857d-629e7f2ee05d" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.546f325a-76d8-4284-b499-d53f4d380646/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",HIN | Indian Idol - Legends Return
 #KODIPROP:inputstream=inputstream.adaptive
@@ -98,7 +102,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/te0xlcvi8o/
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8cwqoxerbj/out/v1/771669b1f2134421b542a0ea5baa4be2/cenc.mpd
+https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/8cwqoxerbj/out/v1/771669b1f2134421b542a0ea5baa4be2/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (127 channels) =====
 #DATE:- 07-10-2026 23:25
