@@ -6,7 +6,7 @@
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="Dubai - Day 4 - 15 Nov 2026 [ENG] - DP World Tour @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026 [ENG] - DP World Tour
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794783665~acl=/*~id=07814092607593376015170524742336~hmac=a08377bfe2b2cdd6b2b951f28af3a1c52e0e9522716220f8a7b03b8e9f4fcd57
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794784329~acl=/*~id=86039804629708565076189635325297~hmac=41bd59ac56893bab730647bef5b15f95cb4ea412a90ed2c5830ecd8791a41143
 
 #===== Willow | Sportlink (5 channels) =====
 #PLAYLIST:Willow Cricket Event Info
@@ -44,21 +44,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksi
 #KODIPROP:inputstream.adaptive.license_key=0746588cbf8ac03b65207fb487d8a65d:01db21ef36ef2c010efc6c32b9ccf412
 https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd
 
-#===== Prime Video | Sportlink (9 channels) =====
-#DATE:- 15-11-2026 16:00
+#===== Prime Video | Sportlink (3 channels) =====
+#DATE:- 15-11-2026 16:45
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-
-#EXTINF:-1 tvg-name="ENG | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.293420f6-b5a5-443e-94e0-9160a3b67d70/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",ENG | 5th ODI - 15 Nov 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0sxXEdNoj6S2Oa-cfQ8R8Q","k":"39b671SNJcjk6L0MgeEMrg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/st0lunmqpp/out/v1/97859f82bc164b63b65256e1962e8b92/cenc.mpd
 
 #EXTINF:-1 tvg-name="HIN | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e4e9e56-6d2a-46fb-a6e3-aa1a140b87fd/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | 5th ODI - 15 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
@@ -69,9 +58,9 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/st0lunmq
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd
 
-#EXTINF:-1 tvg-name="Dubai - Day 4 - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.92bded40-e834-4cbc-9efb-653f46a0b037" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92bded40-e834-4cbc-9efb-653f46a0b037/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",ENG | DP World Tour Champinship, Dubai - Day 4 - 15 Nov 2026
+#EXTINF:-1 tvg-name="Dubai - Day 4 - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.92bded40-e834-4cbc-9efb-653f46a0b037" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.92bded40-e834-4cbc-9efb-653f46a0b037/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",ENG | DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -80,62 +69,7 @@ https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/urcc
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/qtnjk570ue/out/v1/edde82c329c5435799ed2bde287862d8/cenc.mpd
-
-#EXTINF:-1 tvg-name="ENG | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0f2fd6e2-8332-4b19-8e6f-2c25c7486c5f/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",ENG | 5th ODI - 15 Nov 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0sxXEdNoj6S2Oa-cfQ8R8Q","k":"39b671SNJcjk6L0MgeEMrg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd
-
-#EXTINF:-1 tvg-name="TEL | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.02359833-01e2-4a50-8e31-7586af12e382" tvg-lang="TELUGU" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.02359833-01e2-4a50-8e31-7586af12e382/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",TEL | 5th ODI - 15 Nov 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0aP6mEx2_bZWjOmzCq2hUw","k":"NhIb5xmI2hYB3bVIB2sLaQ"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zq1p2wg2v4/out/v1/d20147fb10ca4585b1d383987281d95a/cenc.mpd
-
-#EXTINF:-1 tvg-name="TAM | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.5aeeda78-f92a-44ba-806a-3770185c4c65" tvg-lang="TAMIL" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5aeeda78-f92a-44ba-806a-3770185c4c65/2/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",TAM | 5th ODI - 15 Nov 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-gX2BsIPdVI8vGjfsfRZBQ","k":"FAsiEZvmANqqK67-SmfpTA"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/hzntefvmqf/out/v1/dda005f8228144568e58bbc6afa34e9f/cenc.mpd
-
-#EXTINF:-1 tvg-name="HIN | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.be8d0eef-dc60-495e-9fbd-e1715a8bd43a" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be8d0eef-dc60-495e-9fbd-e1715a8bd43a/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",HIN | 5th ODI - 15 Nov 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Z4HYbyLvDrxxq9DuJfxMwA","k":"gTFkt5FqjFMcc_ASl-q_Hg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ys1y6xzhhq/out/v1/b90986bc005e4cc0967c34171788dbe4/cenc.mpd
-
-#EXTINF:-1 tvg-name="KAN | 5th ODI - 15 Nov 2026 @virat10" tvg-id="amzn1.dv.gti.c2535ae1-c139-4eab-b16a-9b7b0a6fc096" tvg-lang="KANNADA" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2535ae1-c139-4eab-b16a-9b7b0a6fc096/2/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",KAN | 5th ODI - 15 Nov 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ZfEXd13khmmzgfMr-ATN8Q","k":"s8pa-xHgOlXxWK4nf3DMaw"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-origin=https://www.primevideo.com
-#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/v1hfzfoiij/out/v1/dfebc3fe859a4999b0c20d123549063a/cenc.mpd
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/qtnjk570ue/out/v1/edde82c329c5435799ed2bde287862d8/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (126 channels) =====
 #EXTINF:-1 tvg-name="Bigboss 24/7 live-HINDI @virat10" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/2305/1788708712305-h.jpg" group-title="Jio Hotstar | Sportlink", Bigboss 24/7 live-HINDI
