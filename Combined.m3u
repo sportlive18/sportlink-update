@@ -6,14 +6,14 @@
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="Faroe Islands vs Moldova - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027772/1793257474667102_UNL26_MD6_Faroe_Islands_vs_Moldova_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Faroe Islands vs Moldova - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794884274~acl=/*~id=18594273750723746557959125783970~hmac=7d53fc69d1c7bf71fe7479d93d7a7275521943c34dd31fa7aa6c5d845a956041
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794884882~acl=/*~id=58859333978106414213279920453561~hmac=af7bc332a60a824336f76136a3f70e0f0613130d1bcf6521e477957884dcf553
 
 #EXTINF:-1 tvg-name="Kazakhstan vs Slovakia - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027833/179325832303640_UNL26_MD6_Kazakhstan_vs_Slovakia_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Kazakhstan vs Slovakia - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794884274~acl=/*~id=18594273750723746557959125783970~hmac=7d53fc69d1c7bf71fe7479d93d7a7275521943c34dd31fa7aa6c5d845a956041
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794884882~acl=/*~id=58859333978106414213279920453561~hmac=af7bc332a60a824336f76136a3f70e0f0613130d1bcf6521e477957884dcf553
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:08:32 PM 16-11-2026
+#LAST_UPDATE:09:02 PM 16-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -24,7 +24,7 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HQSL9QP7" tvg-name="Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b13f3c3-fa67-4adc-b372-1bb215603e05/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers
 #KODIPROP:inputstream=inputstream.adaptive
@@ -33,9 +33,76 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjb
 #KODIPROP:inputstream.adaptive.license_key=8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd
 
-#===== Prime Video | Sportlink (1 channels) =====
-#DATE:- 16-11-2026 03:33
+#===== Prime Video | Sportlink (7 channels) =====
+#DATE:- 16-11-2026 20:33
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+
+#EXTINF:-1 tvg-name="ENG | Kazakhstan vs. Slovakia @virat10" tvg-id="amzn1.dv.gti.3cce7433-aeeb-4094-b896-5c09e1f7ab43" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3cce7433-aeeb-4094-b896-5c09e1f7ab43/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png" group-title="Prime Video | Sportlink",ENG | Kazakhstan vs. Slovakia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RjLcleE-vdA-mTvKPcryZg","k":"BZzn-sCSv45Uuv6o2dyulQ"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/sugtqcy65h/out/v1/1689aef6f0fe4bbf898e29fb2a82fef4/cenc.mpd
+
+#EXTINF:-1 tvg-name="ENG | Faroe Islands vs. Moldova @virat10" tvg-id="amzn1.dv.gti.671126ba-b1a6-4f31-98ac-8ff9bd8f3394" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.671126ba-b1a6-4f31-98ac-8ff9bd8f3394/2/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png" group-title="Prime Video | Sportlink",ENG | Faroe Islands vs. Moldova
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vaajNyCWNMlIpBCR3dpvyg","k":"mdlu8z4DK55KbLHmvEQAAw"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/odovuuqyfq/out/v1/955789626c5f4f1d9716a7714be6a14e/cenc.mpd
+
+#EXTINF:-1 tvg-name="MAR | Kon Honaar Crorepati @virat10" tvg-id="amzn1.dv.gti.527a7304-6288-41b2-91aa-142cf4c5e3c7" tvg-lang="MARATHI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.527a7304-6288-41b2-91aa-142cf4c5e3c7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",MAR | Kon Honaar Crorepati
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VfsQQd8eu06OCgHEz0tLPw","k":"xBnB9bwsoV6hZubTFjpDvg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qh5sdnuhf1/out/v1/4ec0dfd989544f98ad5a6c7a911cef51/cenc.mpd
+
+#EXTINF:-1 tvg-name="HIN | Kaun Banega Crorepati @virat10" tvg-id="amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",HIN | Kaun Banega Crorepati
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mM9b1t2rUKqL3gz5R11Lxw","k":"kcyFH1C9hO1-6ztdxflLtQ"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/boilpxp5kn/out/v1/2f00331dfeaa4bd2b1211b0589321866/cenc.mpd
+
+#EXTINF:-1 tvg-name="MAR | Kon Honaar Crorepati @virat10" tvg-id="amzn1.dv.gti.2df49002-0687-47f3-af12-7f8e903efe21" tvg-lang="MARATHI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.527a7304-6288-41b2-91aa-142cf4c5e3c7/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",MAR | Kon Honaar Crorepati
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"VfsQQd8eu06OCgHEz0tLPw","k":"xBnB9bwsoV6hZubTFjpDvg"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/ivjx6njaxf/out/v1/49bc1fd8de5342cd81364135384061db/cenc.mpd
+
+#EXTINF:-1 tvg-name="HIN | Kaun Banega Crorepati @virat10" tvg-id="amzn1.dv.gti.43db4edc-819d-4d5d-97c8-5bc7bf576d24" tvg-lang="HINDI" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5716133d-56a4-43e9-8f89-8ec4899e8be0/1/BOXART-16X9/en-US.jpeg" group-title="Prime Video | Sportlink",HIN | Kaun Banega Crorepati
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mM9b1t2rUKqL3gz5R11Lxw","k":"kcyFH1C9hO1-6ztdxflLtQ"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2sgthddbun/out/v1/3dd41b9f88bf41d4abea63d3a1c22cce/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (127 channels) =====
 #DATE:- 07-10-2026 23:25
