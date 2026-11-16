@@ -6,32 +6,39 @@
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="Faroe Islands vs Moldova - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027772/1793257474667102_UNL26_MD6_Faroe_Islands_vs_Moldova_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Faroe Islands vs Moldova - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794887916~acl=/*~id=63732600520053422771068027519052~hmac=161760b51e688842b79583ad7145326746e1e89bbaef713f74776cdaae5777b2
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794888522~acl=/*~id=07029871813967882470824441413643~hmac=f05c750a0577d4946176eef110a0b417e3a5e7f487c7e57ffca5c904db4825bb
 
 #EXTINF:-1 tvg-name="Kazakhstan vs Slovakia - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027833/179325832303640_UNL26_MD6_Kazakhstan_vs_Slovakia_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Kazakhstan vs Slovakia - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794887916~acl=/*~id=63732600520053422771068027519052~hmac=161760b51e688842b79583ad7145326746e1e89bbaef713f74776cdaae5777b2
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794888522~acl=/*~id=07029871813967882470824441413643~hmac=f05c750a0577d4946176eef110a0b417e3a5e7f487c7e57ffca5c904db4825bb
 
-#===== Willow | Sportlink (3 channels) =====
+#===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:32 PM 16-11-2026
+#LAST_UPDATE:10:02 PM 16-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:33
+#LIVE_COUNT:3
+#UPCOMING_COUNT:32
 
 #EXTINF:-1 tvg-id="B0HRNBGJB1" tvg-name="Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HQSL9QP7" tvg-name="Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b13f3c3-fa67-4adc-b372-1bb215603e05/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 22nd Match - Arabian Aces vs United Tigers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HQSGBK9J" tvg-name="Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e2e954f3-3151-4583-a435-dac57c0925d1/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 23rd Match - Emirates Eagles vs Royal Desert Champions
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d3jglp2mqj/out/v1/fe574848f09044c3af297388c40efcac/cenc.mpd
 
 #===== Prime Video | Sportlink (5 channels) =====
 #DATE:- 16-11-2026 21:09
