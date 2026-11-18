@@ -6,25 +6,25 @@
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:32 PM 18-11-2026
+#LAST_UPDATE:10:02 PM 18-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
 #UPCOMING_COUNT:33
-
-#EXTINF:-1 tvg-id="B0HRNBGJB1" tvg-name="Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HR1NL3KS" tvg-name="Abu Dhabi T10 League 2026 - 26th Match - UAE Bulls vs United Tigers @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b967b4c-2193-476e-a71b-1c1f84f4d357/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 26th Match - UAE Bulls vs United Tigers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d847b9651a3ac01b953fbfc68752074:c989999872b1859ca9609d9ee6552ec5
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o5raaf1w01/out/v1/5327ed7dbb71426fb7d1ab8f15df4abc/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o5raaf1w01/out/v1/5327ed7dbb71426fb7d1ab8f15df4abc/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HQPH9SCQ" tvg-name="Abu Dhabi T10 League 2026 - 27th Match - Emirates Eagles vs Yas Lions @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.41798816-8335-46cc-b6df-c65a776bea29/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 27th Match - Emirates Eagles vs Yas Lions
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f57608d741bd9eeb53fee59e054a318d:9ff99be42923aa8fbe6dcadbc399f3a1
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0l2pj0gnuu/out/v1/5cdb31bc933d4e81aeb2c2f1e7c88fcb/cenc.mpd
 
 #===== Prime Video | Sportlink (6 channels) =====
 #DATE:- 18-11-2026 20:32
