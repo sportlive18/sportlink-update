@@ -4,11 +4,13 @@ import json
 import re
 
 # ---------- CONFIG ----------
-COOKIE_URL = "https://raw.githubusercontent.com/alex4528y/m3u/refs/heads/main/jstar.m3u"
 JSON_URL   = "https://sportlink-jtv.pages.dev/hstar.json"
 OUTPUT     = "tstar.m3u"
 
-USER_AGENT = "Virat Kohli"
+
+COOKIE     = "hdntl=exp=1795196281~acl=%2f*~id=29bc3440f25af2fac4cf927f103af589~data=hdntl~hmac=ccc04824e7315e0561789da9d9071977341dc16151e9523d34d083613ff09688"
+
+USER_AGENT = "Virat"
 REFERER    = "https://www.hotstar.com/"
 ORIGIN     = "https://www.hotstar.com"
 TIMEOUT    = 15
@@ -28,28 +30,6 @@ def http_get(url, headers=None, timeout=TIMEOUT):
     )
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode("utf-8", errors="ignore")
-
-
-def fetch_cookie(url):
-    text = http_get(url, headers={"User-Agent": "OTT Navigator"})
-
-    m = re.search(r"#EXTVLCOPT:http-cookie=([^\s\r\n]+)", text)
-    if m:
-        return m.group(1).strip()
-
-    m = re.search(r"(hdntl=[^\s\r\n&\"']+)", text)
-    if m:
-        return m.group(1).strip()
-
-    m = re.search(r"Cookie:\s*([^\r\n]+)", text, re.IGNORECASE)
-    if m:
-        return m.group(1).strip()
-
-    stripped = text.strip()
-    if stripped and "=" in stripped and len(stripped) < 4000:
-        return stripped
-
-    raise RuntimeError("Cookie not found in response")
 
 
 def fetch_json(url):
@@ -116,7 +96,12 @@ def sort_items(items):
 
 def generate_m3u(items, cookie, out_file):
     items = sort_items(items)
-    lines = ["#EXTM3U"]
+    lines = [
+        "#EXTM3U",
+        "#DATE:- 07-10-2026 23:25",
+        "# Written and Directed by sayan",
+        "# Join us on Telegram: t.me/sportlink10",
+    ]
     written = 0
 
     for item in items:
@@ -174,9 +159,8 @@ def generate_m3u(items, cookie, out_file):
 
 def main():
     try:
-        print("-> Fetching cookie ...")
-        cookie = fetch_cookie(COOKIE_URL)
-        print(f"   OK ({len(cookie)} chars)")
+        cookie = COOKIE
+        print(f"-> Using hardcoded cookie ({len(cookie)} chars)")
 
         print("-> Fetching JSON ...")
         data = fetch_json(JSON_URL)
