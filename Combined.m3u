@@ -6,32 +6,39 @@
 
 #===== SonyLIV | Sportlink (2 channels) =====
 #EXTINF:-1 tvg-name="Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029388/1795079673412862_ACRS26_SLvsAFG_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795132203~acl=/*~id=02073957494957921397823288240667~hmac=01bd5d42081fa846413326e522532d550aa0a7a57b789b91420d414f89327ddc
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795133417~acl=/*~id=33457897643299653229595843945465~hmac=49344c29d1a3f809777dbdef6f88d10086eb980a4b89ac4deb447c36de193cfc
 
 #EXTINF:-1 tvg-name="China - 19 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029365/1795067857037235_ACRS26_BANvsHKC_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Bangladesh A vs Hong Kong, China - 19 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795132203~acl=/*~id=02073957494957921397823288240667~hmac=01bd5d42081fa846413326e522532d550aa0a7a57b789b91420d414f89327ddc
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795133417~acl=/*~id=33457897643299653229595843945465~hmac=49344c29d1a3f809777dbdef6f88d10086eb980a4b89ac4deb447c36de193cfc
 
-#===== Willow | Sportlink (3 channels) =====
+#===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:32 PM 19-11-2026
+#LAST_UPDATE:06:02 PM 19-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:33
+#LIVE_COUNT:3
+#UPCOMING_COUNT:32
 
 #EXTINF:-1 tvg-id="B0HKZY847Z" tvg-name="Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5d1b6f08-0201-4db4-96bd-f867f7348b30/7/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15bb136e7ac737c7f35172fe6703b695:8fa933ee92c1e8d1f5d2855152d784f2
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/i4j35tc3ub/out/v1/3bf2e223260f4d74ad57635eb14fd068/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HQ8BWTDG" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 2nd Match - Sri Lanka A vs Afghanistan A @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8109aef6-9965-41fd-8dd0-3c2289b8cda8/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens Asia Cup Rising Stars 2026 - 2nd Match - Sri Lanka A vs Afghanistan A
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=964c4b09d34aec26004af58468df3f63:33241077e9b7604e876d6b23c1fcf8ac
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cix65j0fhp/out/v1/40e83e3831354f46aa6c4f7f33b22606/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HQNL2P2K" tvg-name="Abu Dhabi T10 League 2026 - 28th Match  - UAE Bulls vs Arabian Aces @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.69a230be-4b99-4376-aeb2-5bcb4a081c3f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Abu Dhabi T10 League 2026 - 28th Match  - UAE Bulls vs Arabian Aces
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b51f981b4a44e1b874a7958276b765d6:bc42638f3ec4d015524143a6d40ebfd5
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oxdfwbm9bd/out/v1/58ee6ff8cf414cd0ac3bf08b8859d811/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oxdfwbm9bd/out/v1/58ee6ff8cf414cd0ac3bf08b8859d811/cenc.mpd
 
 #===== Prime Video | Sportlink (6 channels) =====
 #DATE:- 19-11-2026 15:54
