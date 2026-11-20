@@ -34,7 +34,7 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh
 
 #===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:05:02 PM 20-11-2026
+#LAST_UPDATE:05:32 PM 20-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -45,14 +45,14 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c180edac009ec2b3ddc9822f3ae814c3:b94d327fd81dd7a5a43a0a7bd737dd8a
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yiibkf8ifo/out/v1/4f2e6d2fb906490e910c22a4dfbfbd82/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HHDC1FDW" tvg-name="Womens Big Bash League 2026 - 28th Match - Adelaide Strikers Women vs Melbourne Renegades Women @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c9c55325-fbd3-4749-9736-333bfc5825af/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 28th Match - Adelaide Strikers Women vs Melbourne Renegades Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4db2612086ed985ae029fe71a3b56439:a7e45930ba4fbcf51cb12522ac433ca1
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa/out/v1/c2fd1d13622f41d89738e5e52fa874df/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HHN8W74B" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5ae8f596-1a68-4215-9ca8-ae5fd1d94925/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens Asia Cup Rising Stars 2026 - 4th Match - India A vs Nepal
 #KODIPROP:inputstream=inputstream.adaptive
@@ -61,8 +61,8 @@ https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/7swiykissa
 #KODIPROP:inputstream.adaptive.license_key=91ffd985da527c7d77ecc801128d11cc:3bb5d51b2fef3b50c43d0cc12455eaf7
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnueo/out/v1/31f5a50cbd8041308c560355044e0b03/cenc.mpd
 
-#===== Prime Video | Sportlink (5 channels) =====
-#DATE:- 20-11-2026 16:17
+#===== Prime Video | Sportlink (6 channels) =====
+#DATE:- 20-11-2026 17:02
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 
@@ -75,7 +75,18 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/myvotpnu
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w38waynbjz/out/v1/c8d5a418fc14440eb143b6add6b0af66/cenc.mpd
+
+#EXTINF:-1 tvg-name="ENG | EBFC vs Sporting Club Delhi - 20 Nov 2026 ENG HIN BEN @virat10" tvg-id="amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7" tvg-lang="ENGLISH" tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dcb6fabf-72f8-4a0d-93f7-810e14d3b9b7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Prime Video | Sportlink",ENG | EBFC vs Sporting Club Delhi - 20 Nov 2026 ENG HIN BEN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_RisJ70WRCJDl6nOlcsrng","k":"ATmdO38L9jIZngGcyOjUJw"},{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"}]}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+#EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
+https://ABN7NIVAAAAAAAAMLZR65EAI5T3FS.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/36ylt0qqh1/out/v1/730927e7d8c54776b7c5f3ffc8d39fea/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | NBA TV International: WNBL Full Court @virat10" tvg-id="amzn1.dv.gti.b4ba0efc-9084-47ad-90b4-557daef738b8" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/71g5eWgEdLL.jpg" group-title="Prime Video | Sportlink",ENG | NBA TV International: WNBL Full Court
 #KODIPROP:inputstream=inputstream.adaptive
@@ -86,9 +97,9 @@ https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w38waynbjz
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd
+https://a100live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/3scrwqe5gd/out/v1/acb74fc290c049139fa54cac4bc6c1b5/cenc.mpd
 
-#EXTINF:-1 tvg-name="ENG | FanCode 2: Afghanistan tour of Ireland @virat10" tvg-id="amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/B1DmoSgZLLL.jpg" group-title="Prime Video | Sportlink",ENG | FanCode 2: Afghanistan tour of Ireland
+#EXTINF:-1 tvg-name="ENG | FanCode 2: Zimbabwe's tour of Ireland - One-off @virat10" tvg-id="amzn1.dv.gti.0a5edca3-abc6-4a35-893d-2a9749426588" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/I/A16BQTg4IHL.jpg" group-title="Prime Video | Sportlink",ENG | FanCode 2: Zimbabwe's tour of Ireland - One-off
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
@@ -97,7 +108,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/3sc
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/twcny8iyym/out/v1/83184682abbf4c7fbc78b64266100dbd/cenc.mpd
 
 #EXTINF:-1 tvg-name="ENG | FanCode 1: REPSOL GRAND PRIX OF PORTUGAL 2026 : Day 1 @virat10" tvg-id="amzn1.dv.gti.bdbce98b-62eb-44c7-b647-c1818b86ef6c" tvg-lang="ENGLISH" tvg-logo="https://m.media-amazon.com/images/S/combee-overridden-images/5/2/2/522ec5b84a3b603d58f719782fb934d0.jpg" group-title="Prime Video | Sportlink",ENG | FanCode 1: REPSOL GRAND PRIX OF PORTUGAL 2026 : Day 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -108,7 +119,7 @@ https://abn7ylpaaaaaaaame77ehqq2geew7.ta.bia-cf.live.pv-cdn.net/bom-nitro/live/c
 #EXTVLCOPT:http-referrer=https://www.primevideo.com/
 #EXTVLCOPT:http-origin=https://www.primevideo.com
 #EXTHTTP:{"referer":"https://www.primevideo.com/","origin":"https://www.primevideo.com"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
+https://a38live-pv-ta-amazon.akamaized.net/bom-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
 
 #===== Jio Hotstar | Sportlink (127 channels) =====
 #DATE:- 07-10-2026 23:25
