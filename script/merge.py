@@ -15,7 +15,7 @@ PLAYLISTS = [
     {"name": "ZEE",         "icon": "📺", "url": ""},
     {"name": "SONY",        "icon": "📺", "url": "https://vk-playlist.pages.dev/sony.m3u"},
     {"name": "SUN",         "icon": "☀️", "url": "https://vk-playlist.pages.dev/sun.m3u"},
-    {"name": "Jio Hotstar", "icon": "⭐", "url": "https://sportlink-playlist.pages.dev/tstar.m3u"},
+    {"name": "Jio Hotstar", "icon": "⭐", "url": "https://sportlink-tv10.pages.dev/tstar.m3u"},
 ]
 
 OUTPUT_FILE = "Combined.m3u"
