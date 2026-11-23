@@ -6,22 +6,15 @@
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="China - 23 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795356619179765_ACRS26_AFG_VS_HKC_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Afghanistan A vs Hong Kong, China - 23 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795457971~acl=/*~id=66922736095991277338977867015248~hmac=a548fabd1c74817fd81ba5250fe184e4e9e9bc0024139add4fbcadbb45b2a291
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795458578~acl=/*~id=02584828300599568425489758975538~hmac=90a30db2f177ad454610ee04e0abb298627b78b05415d0791e42caf870626b19
 
-#===== Willow | Sportlink (3 channels) =====
+#===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:12:02 PM 23-11-2026
+#LAST_UPDATE:12:32 PM 23-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:33
-
-#EXTINF:-1 tvg-id="B0HM4ZHT1F" tvg-name="India tour of New Zealand 2026 - 1st Test - New Zealand vs India @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/13/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",India tour of New Zealand 2026 - 1st Test - New Zealand vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd
+#LIVE_COUNT:1
+#UPCOMING_COUNT:34
 
 #EXTINF:-1 tvg-id="B0HQZ9PFTK" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 9th Match - Afghanistan A vs Hong Kong, China @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.321c7056-5818-4d33-a26f-bff5d75c8799/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens Asia Cup Rising Stars 2026 - 9th Match - Afghanistan A vs Hong Kong, China
 #KODIPROP:inputstream=inputstream.adaptive
