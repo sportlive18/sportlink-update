@@ -8,13 +8,27 @@
 #EXTINF:-1 tvg-name="Pakistan A vs Nepal - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Pakistan A vs Nepal - 24 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795568352~acl=/*~id=85818479762458115279357031737009~hmac=3aa0357e9454c996efa45f2d90fd0572841a53dc1091236d2cce5a2de0127844
 
-#===== Willow | Sportlink (1 channels) =====
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:32 PM 24-11-2026
+#LAST_UPDATE:07:02 PM 24-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:0
+#LIVE_COUNT:2
+#UPCOMING_COUNT:33
+
+#EXTINF:-1 tvg-id="B0HQPR4M9Q" tvg-name="Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.97eae418-93c7-40e2-b2d6-6a81327b83bc/5/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Bangladesh tour of South Africa 2026 - 2nd Test - South Africa vs Bangladesh
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HQSF5H26" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 12th Match - Pakistan A vs Nepal @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6809d671-91b4-4588-8ca5-e7338d98cf95/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens Asia Cup Rising Stars 2026 - 12th Match - Pakistan A vs Nepal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac685b471a4e1d6c4be3fe7429595d9d:db72f4347277225954d7170f0ec6992f
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1zdpsgfa6p/out/v1/0be3672943164ddc9df8372d522c3842/cenc.mpd
 
 #===== Prime Video | Sportlink (4 channels) =====
 #DATE:- 21-11-2026 13:38
