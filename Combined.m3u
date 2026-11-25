@@ -1,19 +1,22 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (2 channels) =====
+#===== Fancode | Sportlink (3 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Wednesday, 25 November 2026 at 6:44:35 pm
+#DATE:- Wednesday, 25 November 2026 at 7:09:40 pm
 
 #EXTINF:-1 tvg-id="4249026" tvg-name="Persib Bandung Vs Seoul @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249026_53057_PER_SE_fc-web_1789025066265.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Persib Bandung Vs Seoul
 https://in-mc-vod.fancode.com/mumbai/4249026_english_hls_3445d7439d80501_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4249017" tvg-name="Pfc Nasaf Vs Al Khaldiya Sc @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249017_53057_NAS_ALK_fc-web_1789025066869.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Pfc Nasaf Vs Al Khaldiya Sc
+https://in-mc-vod.fancode.com/mumbai/4249017_english_hls_842772da4880049_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="Sporting CP vs Manchester United - 25 Nov 2026 [ENG] - UEFA Youth League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029562/1795243348812330_UYL26_MD5_Sporting_CP_vs_ManUnited_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sporting CP vs Manchester United - 25 Nov 2026 [ENG] - UEFA Youth League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795656222~acl=/*~id=14556099844386453673484570634029~hmac=05542447d5957bcabb9daa644764b4ecb1eb49e39f324523b8250bd444fe2f2a
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795656830~acl=/*~id=54580525332449956328218595756401~hmac=d35e2db7dbd01e3da0c733f4fca78c1f7c414b4d273da1b6dcecce5dd3173393
 
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:07:02 PM 25-11-2026
+#LAST_UPDATE:07:32 PM 25-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -24,7 +27,7 @@ https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/std_lrh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
 
 #===== Prime Video | Sportlink (4 channels) =====
 #DATE:- 21-11-2026 13:38
