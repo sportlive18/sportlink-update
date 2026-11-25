@@ -8,6 +8,7 @@ on:
       - main
     paths:
       - 'script/jtvplus7.py'
+
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
@@ -21,33 +22,28 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Configure Git
         run: |
           git config --global user.name "sportlive18"
           git config --global user.email "271363488+sportlive18@users.noreply.github.com"
 
-      - name: Fetch and Reset to Remote
-        run: |
-          git fetch origin main
-          git reset --hard origin/main
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.11"
 
       - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests pytz
+        run: pip install requests pytz
 
       - name: Run Script
         env:
           TZ: Asia/Kolkata
-        run: |
-          python script/jtvplus7.py
+          GITHUB_OWNER: ${{ github.repository_owner }}
+          GITHUB_REPO: ${{ github.event.repository.name }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python script/jtvplus7.py
 
       - name: Commit and Push Changes
         run: |
@@ -63,8 +59,7 @@ jobs:
           max_retries=5
           attempt=1
 
-          until [ $attempt -gt $max_retries ]
-          do
+          until [ $attempt -gt $max_retries ]; do
             echo "Push attempt $attempt..."
             git fetch origin main
             git rebase origin/main
@@ -72,12 +67,12 @@ jobs:
             if git push origin main; then
               echo "Push succeeded."
               exit 0
-            else
-              echo "Push failed, retrying ($attempt/$max_retries)..."
-              attempt=$((attempt+1))
-              sleep $((RANDOM % 5 + 1))
             fi
+
+            echo "Push failed, retrying ($attempt/$max_retries)..."
+            attempt=$((attempt+1))
+            sleep $((RANDOM % 5 + 1))
           done
 
-          echo "Push failed"
+          echo "❌ All push attempts failed."
           exit 1
