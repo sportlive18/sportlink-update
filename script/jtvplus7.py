@@ -9,8 +9,8 @@ from urllib.parse import urlparse, parse_qs, urlunparse
 
 
 CHANNELS_URL = "https://sportlink-jtv.pages.dev/ztv.json"
-COOKIE_URL = ""
-SPORTS_COOKIE_URL = ""
+COOKIE_URL = "https://sportlink-tv11.pages.dev/cookie.json"
+SPORTS_COOKIE_URL = "https://sportlink-tv11.pages.dev/cookie2.json"
 
 USER_AGENT = "Virat"
 REFERER = "https://www.jiotv.com/"
@@ -28,14 +28,6 @@ def to_base64(text: str) -> str:
 
 
 def _try_repair_json(text: str) -> str:
-    """
-    Lightweight repair for the most common malformed-JSON cases:
-      1. Missing comma between '}' and '{'
-      2. Missing comma between ']' and '{'
-      3. Missing comma between '}' and '"'
-      4. Trailing commas before '}' or ']'
-    Does NOT fix truncation or unescaped control chars.
-    """
     text = re.sub(r'}(\s*){', r'},\2{', text)
     text = re.sub(r'](\s*){', r'],\2{', text)
     text = re.sub(r'}(\s*)"', r'},\2"', text)
@@ -44,6 +36,8 @@ def _try_repair_json(text: str) -> str:
 
 
 def get_json(url: str, repair: bool = True) -> Any:
+    if not url:
+        return None
     cache_buster = f"{'&' if '?' in url else '?'}t={int(datetime.now().timestamp() * 1000)}"
     fresh_url = url + cache_buster
     headers = {"Cache-Control": "no-cache", "Pragma": "no-cache"}
@@ -52,7 +46,6 @@ def get_json(url: str, repair: bool = True) -> Any:
 
     text = resp.text
 
-    # Truncation check (server cut the response short)
     cl = resp.headers.get("Content-Length")
     if cl is not None:
         try:
@@ -79,7 +72,7 @@ def get_json(url: str, repair: bool = True) -> Any:
         repaired = _try_repair_json(text)
         try:
             data = json.loads(repaired)
-            print("✅ JSON repaired successfully (missing/trailing commas fixed).")
+            print("✅ JSON repaired successfully.")
             return data
         except json.JSONDecodeError as e2:
             print(f"❌ Repair failed: {e2}")
@@ -102,33 +95,81 @@ def get_normal_cookie() -> str:
 
     if isinstance(data, str):
         return data
+
     if isinstance(data, list):
         for item in data:
             if isinstance(item, dict) and "cookie" in item:
                 return item["cookie"]
         return ""
+
     if isinstance(data, dict):
-        return data.get("cookie", "")
+        # Old format: {"cookie": "__hdnea__=..."}
+        if "cookie" in data:
+            return data["cookie"]
+        # New format: {"__hdnea__": "__hdnea__=st=...~exp=...~acl=...~hmac=..."}
+        for val in data.values():
+            if isinstance(val, str) and val.startswith("__hdnea__"):
+                return val
+        return ""
+
     return ""
 
 
-def get_sports_data() -> Dict[str, Any]:
+# ---------------------------------------------------------------------------
+# cookie2.json is a dict keyed by channel name, value is the __hdnea__ token.
+# We need to map it to channel_id using the channel list fetched separately.
+# Strategy: build a name→token lookup, then match against channel names.
+# ---------------------------------------------------------------------------
+
+def _normalize_name(name: str) -> str:
+    """Lowercase, replace non-alphanumeric runs with a single space, strip."""
+    return re.sub(r'[^a-z0-9]+', ' ', name.lower()).strip()
+
+
+def get_sports_data(channels: List[Dict[str, Any]]) -> Dict[str, Any]:
+    """
+    Fetches cookie2.json and maps its per-channel tokens to channel IDs.
+
+    cookie2.json can be in two shapes:
+      A) Old shape — list of result dicts with channel_id + final_url/error_details.
+      B) New shape — plain dict keyed by channel name, value is the __hdnea__ token string.
+    """
+    if not SPORTS_COOKIE_URL:
+        return {"sportsIds": set(), "sportsCookies": {}}
+
     try:
         data = get_json(SPORTS_COOKIE_URL)
     except Exception as e:
         print(f"⚠️  Could not fetch sports data: {e}")
         return {"sportsIds": set(), "sportsCookies": {}}
 
-    sports_cookies = {}
+    sports_cookies: Dict[str, str] = {}
 
-    # Handle both list and dict shapes defensively
+    # --- Shape A: list (old format) or dict with successful_results/failed_results ---
     if isinstance(data, list):
         results = data
-    elif isinstance(data, dict):
-        results = data.get("successful_results", []) + data.get("failed_results", [])
-    else:
-        results = []
+        _parse_results_list(results, sports_cookies)
 
+    elif isinstance(data, dict):
+        # Check if it looks like shape A (has result-list keys)
+        if "successful_results" in data or "failed_results" in data:
+            results = data.get("successful_results", []) + data.get("failed_results", [])
+            _parse_results_list(results, sports_cookies)
+
+        else:
+            # Shape B: {"Channel_Name": "__hdnea__=st=...~exp=..."}
+            # Build a lookup from channel_id to token using the channel list
+            _parse_name_token_dict(data, channels, sports_cookies)
+
+    print(f"Sports-specific cookies loaded: {len(sports_cookies)}")
+    return {
+        "sportsIds": set(sports_cookies.keys()),
+        "sportsCookies": sports_cookies,
+    }
+
+
+def _parse_results_list(results: list, out: Dict[str, str]) -> None:
+    """Shape A parser — populates out dict with channel_id → full URL."""
     for item in results:
         if not isinstance(item, dict):
             continue
@@ -139,37 +180,80 @@ def get_sports_data() -> Dict[str, Any]:
         if not final_url:
             continue
         modified_url = final_url.replace("/output/", "/WDVLive/")
-        sports_cookies[str(channel_id)] = modified_url
+        out[str(channel_id)] = modified_url
 
-    return {
-        "sportsIds": set(sports_cookies.keys()),
-        "sportsCookies": sports_cookies,
-    }
+
+def _build_url_from_token(channel_url: str, token: str) -> str:
+    """
+    Given a channel's base .mpd URL and a __hdnea__ token string, return
+    the full URL with the token appended as a query parameter.
+    e.g.  https://.../index.mpd  +  __hdnea__=st=...  →  https://.../index.mpd?__hdnea__=st=...
+    """
+    sep = "&" if "?" in channel_url else "?"
+    return f"{channel_url}{sep}{token}"
+
+
+def _parse_name_token_dict(
+    data: Dict[str, str],
+    channels: List[Dict[str, Any]],
+    out: Dict[str, str],
+) -> None:
+    """
+    Shape B parser.
+    data  = {"Star_Sports_1_HD": "__hdnea__=st=...", ...}
+    Match each key to a channel by normalised name, then build the full URL.
+    """
+    # Build normalised-name → (channel_id, channel_url) map
+    name_to_channel: Dict[str, tuple] = {}
+    for ch in channels:
+        ch_id = str(ch.get("id", ""))
+        ch_name = ch.get("name", "")
+        ch_url = ch.get("url", "")
+        if ch_id and ch_name:
+            norm = _normalize_name(ch_name)
+            name_to_channel[norm] = (ch_id, ch_url)
+
+    unmatched = []
+    for key, token in data.items():
+        if not isinstance(token, str) or not token.startswith("__hdnea__"):
+            continue
+
+        norm_key = _normalize_name(key)
+        match = name_to_channel.get(norm_key)
+
+        if match:
+            ch_id, ch_url = match
+            out[ch_id] = _build_url_from_token(ch_url, token)
+        else:
+            # Try partial / fuzzy match: key words all present in channel name
+            key_words = set(norm_key.split())
+            best = None
+            for norm_ch, (ch_id, ch_url) in name_to_channel.items():
+                ch_words = set(norm_ch.split())
+                if key_words and key_words.issubset(ch_words):
+                    best = (ch_id, ch_url)
+                    break
+            if best:
+                out[best[0]] = _build_url_from_token(best[1], token)
+            else:
+                unmatched.append(key)
+
+    if unmatched:
+        print(f"⚠️  {len(unmatched)} cookie2 keys had no channel match: {unmatched[:10]}")
 
 
 def _collect_clearkey_entries(channel: Dict[str, Any]) -> List[tuple]:
-    """
-    Returns an ordered list of (keyId, key) tuples.
-    Handles:
-      - single top-level keyId + key
-      - keys: [ {keyId, key}, ... ]   (multiple pairs)
-      - clearkey: { "kid": "key", ... }
-    NOTE: Does NOT deduplicate — duplicates are kept as-is.
-    """
     entries: List[tuple] = []
 
-    # 1. Top-level keyId + key
     if channel.get("keyId") and channel.get("key"):
         entries.append((str(channel["keyId"]), str(channel["key"])))
 
-    # 2. keys array (multiple pairs) — keep all entries including duplicates
     keys_arr = channel.get("keys")
     if isinstance(keys_arr, list):
         for k in keys_arr:
             if isinstance(k, dict) and k.get("keyId") and k.get("key"):
                 entries.append((str(k["keyId"]), str(k["key"])))
 
-    # 3. clearkey dict fallback
     ck = channel.get("clearkey")
     if isinstance(ck, dict):
         for kid, key in ck.items():
@@ -209,7 +293,7 @@ def create_channel_entry(channel: Dict[str, Any],
                 f"#KODIPROP:inputstream.adaptive.license_key={channel['license_url']}"
             )
 
-    # Resolve final URL (sports override → normal cookie → plain url)
+    # Resolve final URL: sports override → normal cookie → plain url
     sports_url = sports_cookies.get(channel_id)
     if sports_url:
         final_url_with_query = sports_url
@@ -220,13 +304,10 @@ def create_channel_entry(channel: Dict[str, Any],
         else:
             final_url_with_query = url
 
-    # Strip query from URL — cookie lives only in #EXTHTTP
     base_url, cookie_query = split_url_query(final_url_with_query)
 
-    # Only the user-agent VLC option is kept
     lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
 
-    # Minimal EXTHTTP — lowercase "cookie" key, compact JSON
     if cookie_query:
         exthttp = {"cookie": cookie_query}
         lines.append("#EXTHTTP:" + json.dumps(exthttp, separators=(",", ":")))
@@ -246,7 +327,10 @@ def generate_m3u() -> str:
         raise ValueError(f"Expected list of channels, got {type(channels).__name__}")
 
     normal_cookie = get_normal_cookie()
-    sports_data = get_sports_data()
+    print(f"Normal cookie loaded: {'yes' if normal_cookie else 'NO - missing!'}")
+
+    # Pass channels to get_sports_data so it can do name→id matching (shape B)
+    sports_data = get_sports_data(channels)
 
     print(f"Channels loaded: {len(channels)}")
     print(f"Sports-specific URLs loaded: {len(sports_data['sportsIds'])}")
