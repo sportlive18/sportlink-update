@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (6 channels) =====
+#===== Fancode | Sportlink (9 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 26 November 2026 at 4:59:29 pm
+#DATE:- Thursday, 26 November 2026 at 5:39:36 pm
 
 #EXTINF:-1 tvg-id="4250421" tvg-name="Melbourne Stars Women Vs Sydney Sixers Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250421_53125_SS-W_MS-W_fc-web_1793352701240.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Melbourne Stars Women Vs Sydney Sixers Women
 https://in-mc-vod.fancode.com/mumbai/4250421_english_hls_c58bc13b0511119_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -19,21 +19,30 @@ https://in-mc-vod.fancode.com/mumbai/4249031_english_hls_eca20e0fdd32083_1ta-di_
 #EXTINF:-1 tvg-id="4249032" tvg-name="Kuching City Fc Vs Phnom Penh Crown @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249032_53057_KFC_PPC_fc-web_1789025065868.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Kuching City Fc Vs Phnom Penh Crown
 https://in-mc-vod.fancode.com/mumbai/4249032_english_hls_a51be743a28523_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#EXTINF:-1 tvg-id="4249027" tvg-name="Bg Pathum United Vs Lion City Sailors @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249027_53057_PNU_LIO_fc-web_1789025065671.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Bg Pathum United Vs Lion City Sailors
+https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249028" tvg-name="Tai Po Fc Vs Adelaide United @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249028_53057_WTP_ADL_fc-web_1789025066041.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Tai Po Fc Vs Adelaide United
+https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4249030" tvg-name="Preah Khan Reach Svay Rieng Fc Vs Machida Zelvia @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249030_53057_PRK_MZ_fc-web_1789025065494.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Preah Khan Reach Svay Rieng Fc Vs Machida Zelvia
+https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
 #===== SonyLIV | Sportlink (5 channels) =====
 #EXTINF:-1 tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795736946~acl=/*~id=49244621280662493669766727435627~hmac=7f513097e1e4be6a40cc0b2c2b4033a2f6774406fc5d61f5a4612638c963b8fa
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795737554~acl=/*~id=00549913943424637848339794882446~hmac=f13c66488dc887d4186a5ad8497a2f75ca4d444c1ea5670d08316070e9ee27a6
 
 #EXTINF:-1 tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795736946~acl=/*~id=49244621280662493669766727435627~hmac=7f513097e1e4be6a40cc0b2c2b4033a2f6774406fc5d61f5a4612638c963b8fa
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795737554~acl=/*~id=00549913943424637848339794882446~hmac=f13c66488dc887d4186a5ad8497a2f75ca4d444c1ea5670d08316070e9ee27a6
 
 #EXTINF:-1 tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795736946~acl=/*~id=49244621280662493669766727435627~hmac=7f513097e1e4be6a40cc0b2c2b4033a2f6774406fc5d61f5a4612638c963b8fa
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795737554~acl=/*~id=00549913943424637848339794882446~hmac=f13c66488dc887d4186a5ad8497a2f75ca4d444c1ea5670d08316070e9ee27a6
 
 #EXTINF:-1 tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795736946~acl=/*~id=49244621280662493669766727435627~hmac=7f513097e1e4be6a40cc0b2c2b4033a2f6774406fc5d61f5a4612638c963b8fa
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795737554~acl=/*~id=00549913943424637848339794882446~hmac=f13c66488dc887d4186a5ad8497a2f75ca4d444c1ea5670d08316070e9ee27a6
 
 #EXTINF:-1 tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795736946~acl=/*~id=49244621280662493669766727435627~hmac=7f513097e1e4be6a40cc0b2c2b4033a2f6774406fc5d61f5a4612638c963b8fa
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795737554~acl=/*~id=00549913943424637848339794882446~hmac=f13c66488dc887d4186a5ad8497a2f75ca4d444c1ea5670d08316070e9ee27a6
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
