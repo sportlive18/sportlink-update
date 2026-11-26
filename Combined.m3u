@@ -1,14 +1,11 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (6 channels) =====
+#===== Fancode | Sportlink (5 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Thursday, 26 November 2026 at 3:24:37 pm
+#DATE:- Thursday, 26 November 2026 at 3:39:30 pm
 
 #EXTINF:-1 tvg-id="4250421" tvg-name="Melbourne Stars Women Vs Sydney Sixers Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250421_53125_SS-W_MS-W_fc-web_1793352701240.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Melbourne Stars Women Vs Sydney Sixers Women
 https://in-mc-vod.fancode.com/mumbai/4250421_english_hls_c58bc13b0511119_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4251085" tvg-name="Muscat Thunderers Vs Majees Titans @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251085_53163_MUT_MAT_fc-App.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Muscat Thunderers Vs Majees Titans
-https://in-mc-vod.fancode.com/mumbai/4251085_english_hls_18f4f1c77374411_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4249029" tvg-name="Tampines Rovers Fc Vs Shanghai Shenhua @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249029_53057_TAM_SHN_fc-web_1789025066882.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Tampines Rovers Fc Vs Shanghai Shenhua
 https://in-mc-vod.fancode.com/mumbai/4249029_english_hls_816990053c11501_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -35,20 +32,27 @@ https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh
 #EXTINF:-1 tvg-name="Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795730238~acl=/*~id=27624583139607373247078417379324~hmac=3227cf0902b3ae075c53dd825b6c4bb1ac980de572f9b0dd29f57d37893d7457
 
-#===== Willow | Sportlink (2 channels) =====
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 PM 26-11-2026
+#LAST_UPDATE:04:02 PM 26-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HMKWT91B" tvg-name="Womens Big Bash League 2026 - 35th Match - Sydney Sixers Women vs Melbourne Stars Women @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.09e078a8-cd93-4ee2-8f3f-8ca0b46247ac/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 35th Match - Sydney Sixers Women vs Melbourne Stars Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41901192b980eddd911c8cd7e5c516df:fabf22ee583ee08d1638dc18578d5174
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/teiohs2xmz/out/v1/3369f17367944191984b7d95012548e8/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/teiohs2xmz/out/v1/3369f17367944191984b7d95012548e8/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HQTF8G33" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7e40d3e7-4438-4ed4-bd7a-fa6405891d29/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd
 
 #===== Prime Video | Sportlink (4 channels) =====
 #DATE:- 21-11-2026 13:38
