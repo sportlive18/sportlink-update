@@ -7,9 +7,24 @@
 #EXTINF:-1 tvg-id="4251203" tvg-name="Doncaster Rovers F.c. Vs Huddersfield Town A.f.c. @virat10" tvg-logo="https://images.fancode.com/aig/match/v1795506739477/4251203_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Doncaster Rovers F.c. Vs Huddersfield Town A.f.c.
 https://in-mc-vod.fancode.com/mumbai/4251203_english_hls_009971867012513_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (1 channels) =====
+#===== SonyLIV | Sportlink (6 channels) =====
+#EXTINF:-1 tvg-name="2nd Test - Day 1 - 27 Nov 2026 [ENG] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Test - Day 1 - 27 Nov 2026 [ENG] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283
+
+#EXTINF:-1 tvg-name="2nd Test - Day 1 - 27 Nov 2026 [HIN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Test - Day 1 - 27 Nov 2026 [HIN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283
+
+#EXTINF:-1 tvg-name="2nd Test - Day 1 - 27 Nov 2026 [TAM] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Test - Day 1 - 27 Nov 2026 [TAM] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283
+
+#EXTINF:-1 tvg-name="2nd Test - Day 1 - 27 Nov 2026 [TEL] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Test - Day 1 - 27 Nov 2026 [TEL] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283
+
+#EXTINF:-1 tvg-name="2nd Test - Day 1 - 27 Nov 2026 [KAN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Test - Day 1 - 27 Nov 2026 [KAN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283
+
 #EXTINF:-1 tvg-name="Juventus vs Omonia FC - 27 Nov 2026 [ENG] - UEFA Europa League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028403/1793613197482623_UEL26_MD5_Juventus-vs-Omonia-FC_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Juventus vs Omonia FC - 27 Nov 2026 [ENG] - UEFA Europa League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2022320/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795769201~acl=/*~id=71381196252114145487946854354501~hmac=2e4067dec9e17b1637c5b391ab374463c8bc1a931a9429233210e7d63fcc42dd
+https://sonyeventsglobal.akamaized.net/hls/live/2022320/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283
 
 #===== Willow | Sportlink (1 channels) =====
 #PLAYLIST:Willow Cricket Event Info
