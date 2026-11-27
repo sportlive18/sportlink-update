@@ -21,29 +21,36 @@ https://in-mc-vod.fancode.com/mumbai/4249863_english_hls_eb299d9e9a55254_1ta-di_
 
 #===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795816651~acl=/*~id=53101705299102911319828417449211~hmac=dd50ee5fb7c602dd07b32ce98aea5d60b122b1b60750db93bc577b7806641d7e
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795817256~acl=/*~id=04158415813741115504572713250659~hmac=66e022613b05c9d269c3c7a1492e189c5e283ae37ae5b14af003e6fcfee57c9c
 
-#===== Willow | Sportlink (3 channels) =====
+#===== Willow | Sportlink (4 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:03:32 PM 27-11-2026
+#LAST_UPDATE:04:02 PM 27-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
-#UPCOMING_COUNT:18
+#LIVE_COUNT:3
+#UPCOMING_COUNT:17
 
 #EXTINF:-1 tvg-id="B0HJBQ33QT" tvg-name="England tour of Australia 2026 - 3rd T20I - Australia vs England @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ddbe8abb-af5d-461b-b53d-2777ef05c33d/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",England tour of Australia 2026 - 3rd T20I - Australia vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HF8SZPDP" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 2nd Semi-Final - Pakistan A vs Bangladesh A @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a47e043e-afc3-4407-8de2-d093b5d5a7e9/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens Asia Cup Rising Stars 2026 - 2nd Semi-Final - Pakistan A vs Bangladesh A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HHNTM81F" tvg-name="Womens Big Bash League 2026 - 36th Match - Perth Scorchers Women vs Hobart Hurricanes Women @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c11668b-875a-41bc-bfa0-2a719f259d6e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 36th Match - Perth Scorchers Women vs Hobart Hurricanes Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mlgenumfso/out/v1/f0833d9b7f834f9ea749036c5d4cf6bf/cenc.mpd
 
 #===== Prime Video | Sportlink (4 channels) =====
 #DATE:- 21-11-2026 13:38
