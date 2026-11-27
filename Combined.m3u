@@ -1,11 +1,14 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (5 channels) =====
+#===== Fancode | Sportlink (6 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 27 November 2026 at 1:59:32 pm
+#DATE:- Friday, 27 November 2026 at 3:29:32 pm
 
 #EXTINF:-1 tvg-id="4250645" tvg-name="Australia Vs England @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/wevb.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Australia Vs England
 https://in-mc-vod.fancode.com/mumbai/4250645_english_hls_388d64605956269_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250422" tvg-name="Perth Scorchers Women Vs Hobart Hurricanes Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250422_53125_PS-W_HB-W_fc-web_1793352701259.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Perth Scorchers Women Vs Hobart Hurricanes Women
+https://in-mc-vod.fancode.com/mumbai/4250422_english_hls_67b5a84f4627685_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250957" tvg-name="Sub Saharan Africa Vs Europe @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Sub Saharan Africa Vs Europe
 https://in-mc-vod.fancode.com/mumbai/4250957_english_hls_2c0a75389979817_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -16,12 +19,9 @@ https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h2
 #EXTINF:-1 tvg-id="4249863" tvg-name="Macarthur Vs Melbourne City @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Macarthur Vs Melbourne City
 https://in-mc-vod.fancode.com/mumbai/4249863_english_hls_eb299d9e9a55254_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (2 channels) =====
+#===== SonyLIV | Sportlink (1 channels) =====
 #EXTINF:-1 tvg-name="Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795816046~acl=/*~id=20723742361426238784894684349112~hmac=635a5fc7b20eed1f7db4301562129f810d88787d75931312144c184d500aa982
-
-#EXTINF:-1 tvg-name="Men's & Women's Doubles - Final - 27 Nov 2026 [ENG] - AO Asia Pacific Wildcard Playoffs 2027 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694828696427_AO_wildcard_playoffs_2027_Womens_and_Mens_Doubles_Final_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Men's & Women's Doubles - Final - 27 Nov 2026 [ENG] - AO Asia Pacific Wildcard Playoffs 2027
-https://sonyeventsglobal.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795816046~acl=/*~id=20723742361426238784894684349112~hmac=635a5fc7b20eed1f7db4301562129f810d88787d75931312144c184d500aa982
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795816651~acl=/*~id=53101705299102911319828417449211~hmac=dd50ee5fb7c602dd07b32ce98aea5d60b122b1b60750db93bc577b7806641d7e
 
 #===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
