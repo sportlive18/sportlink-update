@@ -16,24 +16,34 @@ https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h2
 #EXTINF:-1 tvg-id="4249863" tvg-name="Macarthur Vs Melbourne City @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249863_53101_MAC_MLC_fc-Web_1792223292524.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Macarthur Vs Melbourne City
 https://in-mc-vod.fancode.com/mumbai/4249863_english_hls_eb299d9e9a55254_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
-#===== SonyLIV | Sportlink (1 channels) =====
-#EXTINF:-1 tvg-name="Men's & Women's Doubles - Final - 27 Nov 2026 [ENG] - AO Asia Pacific Wildcard Playoffs 2027 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694828696427_AO_wildcard_playoffs_2027_Womens_and_Mens_Doubles_Final_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Men's & Women's Doubles - Final - 27 Nov 2026 [ENG] - AO Asia Pacific Wildcard Playoffs 2027
-https://sonyeventsglobal.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795814228~acl=/*~id=41592536484502923226143533307734~hmac=eda26f2a3e22368939219b169a5b6225617b02adf17206bc1f786d33e13d36d7
+#===== SonyLIV | Sportlink (2 channels) =====
+#EXTINF:-1 tvg-name="Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795815439~acl=/*~id=31635402932097427138266839508040~hmac=de8e13c7f36b98c53c151b12a7138ced1c2a4b4fc427053586e36f1eedc9218b
 
-#===== Willow | Sportlink (2 channels) =====
+#EXTINF:-1 tvg-name="Men's & Women's Doubles - Final - 27 Nov 2026 [ENG] - AO Asia Pacific Wildcard Playoffs 2027 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694828696427_AO_wildcard_playoffs_2027_Womens_and_Mens_Doubles_Final_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Men's & Women's Doubles - Final - 27 Nov 2026 [ENG] - AO Asia Pacific Wildcard Playoffs 2027
+https://sonyeventsglobal.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795815439~acl=/*~id=31635402932097427138266839508040~hmac=de8e13c7f36b98c53c151b12a7138ced1c2a4b4fc427053586e36f1eedc9218b
+
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:02:32 PM 27-11-2026
+#LAST_UPDATE:03:32 PM 27-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:1
-#UPCOMING_COUNT:19
+#LIVE_COUNT:2
+#UPCOMING_COUNT:18
 
 #EXTINF:-1 tvg-id="B0HJBQ33QT" tvg-name="England tour of Australia 2026 - 3rd T20I - Australia vs England @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ddbe8abb-af5d-461b-b53d-2777ef05c33d/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",England tour of Australia 2026 - 3rd T20I - Australia vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HF8SZPDP" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 2nd Semi-Final - Pakistan A vs Bangladesh A @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a47e043e-afc3-4407-8de2-d093b5d5a7e9/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",ACC Mens Asia Cup Rising Stars 2026 - 2nd Semi-Final - Pakistan A vs Bangladesh A
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd
 
 #===== Prime Video | Sportlink (4 channels) =====
 #DATE:- 21-11-2026 13:38
