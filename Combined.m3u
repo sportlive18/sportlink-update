@@ -1,14 +1,17 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (4 channels) =====
+#===== Fancode | Sportlink (5 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 27 November 2026 at 1:39:29 pm
+#DATE:- Friday, 27 November 2026 at 1:49:32 pm
 
 #EXTINF:-1 tvg-id="4250645" tvg-name="Australia Vs England @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/wevb.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Australia Vs England
 https://in-mc-vod.fancode.com/mumbai/4250645_english_hls_388d64605956269_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250910" tvg-name="Sohar Smashers Women Vs Oca Invincibles Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Sohar Smashers Women Vs Oca Invincibles Women
 https://in-mc-vod.fancode.com/mumbai/4250910_english_hls_71d6b0b4b186538_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+
+#EXTINF:-1 tvg-id="4250957" tvg-name="Sub Saharan Africa Vs Europe @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Test_Twenty_2026FC-WEB.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Sub Saharan Africa Vs Europe
+https://in-mc-vod.fancode.com/mumbai/4250957_english_hls_2c0a75389979817_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="139987" tvg-name="Day 1 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Valencia_Web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 1
 https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -17,13 +20,20 @@ https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h2
 #EXTINF:-1 tvg-name="Men's & Women's Doubles - Final - 27 Nov 2026 [ENG] - AO Asia Pacific Wildcard Playoffs 2027 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694828696427_AO_wildcard_playoffs_2027_Womens_and_Mens_Doubles_Final_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Men's & Women's Doubles - Final - 27 Nov 2026 [ENG] - AO Asia Pacific Wildcard Playoffs 2027
 https://sonyeventsglobal.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795809988~acl=/*~id=47777421806471836708339543492115~hmac=2bfed02d8d8899cd459bae98e754531d63f1a272d663400612f804e1ae7e0506
 
-#===== Willow | Sportlink (1 channels) =====
+#===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:01:32 PM 27-11-2026
+#LAST_UPDATE:02:17 PM 27-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
-#UPCOMING_COUNT:20
+#LIVE_COUNT:1
+#UPCOMING_COUNT:19
+
+#EXTINF:-1 tvg-id="B0HJBQ33QT" tvg-name="England tour of Australia 2026 - 3rd T20I - Australia vs England @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ddbe8abb-af5d-461b-b53d-2777ef05c33d/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",England tour of Australia 2026 - 3rd T20I - Australia vs England
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74042336c8b0ea8aec8cfff587323e45:a0b6920e1735c7245036a2c53067fd49
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ihqh5jfdov/out/v1/77912028521b4e1eaf700aa1f1d57cb2/cenc.mpd
 
 #===== Prime Video | Sportlink (4 channels) =====
 #DATE:- 21-11-2026 13:38
