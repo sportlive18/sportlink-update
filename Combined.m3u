@@ -32,9 +32,19 @@ https://in-mc-flive.fancode.com/out/v1/ap-south-1/4247698_english_924643/ad-drm-
 #EXTINF:-1 tvg-id="4250888" tvg-name="Day 3 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 3
 https://in-mc-vod.fancode.com/mumbai/4250888_english_hls_2b8e33f44e79993_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
+#===== SonyLIV | Sportlink (3 channels) =====
+#EXTINF:-1 tvg-name="Chennaiyin FC vs Mumbai City FC - 28 Nov 2026 [ENG] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030150/1795772821080275_ISL26_ChennaiyinFC_vs_MumbaiCityFC_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs Mumbai City FC - 28 Nov 2026 [ENG] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795914356~acl=/*~id=93815008280337134755491290710032~hmac=bb92513dc966befc4264f4e81b2f4a943db6df46bc06e9d9cd08d625286062f2
+
+#EXTINF:-1 tvg-name="Chennaiyin FC vs Mumbai City FC - 28 Nov 2026 [HIN] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030150/1795772821080275_ISL26_ChennaiyinFC_vs_MumbaiCityFC_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs Mumbai City FC - 28 Nov 2026 [HIN] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795914356~acl=/*~id=93815008280337134755491290710032~hmac=bb92513dc966befc4264f4e81b2f4a943db6df46bc06e9d9cd08d625286062f2
+
+#EXTINF:-1 tvg-name="Chennaiyin FC vs Mumbai City FC - 28 Nov 2026 [TAM] - MG Indian Super League 2026-27 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030150/1795772821080275_ISL26_ChennaiyinFC_vs_MumbaiCityFC_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", Chennaiyin FC vs Mumbai City FC - 28 Nov 2026 [TAM] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795914356~acl=/*~id=93815008280337134755491290710032~hmac=bb92513dc966befc4264f4e81b2f4a943db6df46bc06e9d9cd08d625286062f2
+
 #===== Willow | Sportlink (2 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:06:02 PM 28-11-2026
+#LAST_UPDATE:07:02 PM 28-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -45,7 +55,7 @@ https://in-mc-vod.fancode.com/mumbai/4250888_english_hls_2b8e33f44e79993_1ta-di_
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
 
 #===== Prime Video | Sportlink (4 channels) =====
 #DATE:- 21-11-2026 13:38
