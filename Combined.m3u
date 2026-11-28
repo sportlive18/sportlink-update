@@ -20,9 +20,9 @@ https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2711/TEL/std_lrh
 #EXTINF:-1 tvg-name="2nd Test - Day 2 - 28 Nov 2026 [KAN] - India Tour of New Zealand 2026 @virat10" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="SonyLIV | Sportlink", 2nd Test - Day 2 - 28 Nov 2026 [KAN] - India Tour of New Zealand 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795881584~acl=/*~id=91481192686355461257981618747968~hmac=62a6d4d7f9cb9d91d680fa60c4ade830bc00ed04e063408fc2c73508e66ae788
 
-#===== Willow | Sportlink (2 channels) =====
+#===== Willow | Sportlink (3 channels) =====
 #PLAYLIST:Willow Cricket Event Info
-#LAST_UPDATE:09:32 AM 28-11-2026
+#LAST_UPDATE:10:02 AM 28-11-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:1
@@ -33,7 +33,14 @@ https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a03ae3c3066640296a041f319d528b8:b757a6777c811bd3744a7cb4a722116b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0HL52VQCV" tvg-name="Womens Big Bash League 2026 - 37th Match - Melbourne Renegades Women vs Melbourne Stars Women @virat10" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.14fd1b72-e146-4349-a891-1771b3aad0ff/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Willow | Sportlink",Womens Big Bash League 2026 - 37th Match - Melbourne Renegades Women vs Melbourne Stars Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1cf31ab4b238c9c0bd1a653cd5d4918:a2471af5b035199c2e739085143062d4
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/29zmikjvfd/out/v1/67d74da2234e44aa9154e4d90eb2d83f/cenc.mpd
 
 #===== Prime Video | Sportlink (4 channels) =====
 #DATE:- 21-11-2026 13:38
