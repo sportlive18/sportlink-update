@@ -1,20 +1,14 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
-#===== Fancode | Sportlink (10 channels) =====
+#===== Fancode | Sportlink (7 channels) =====
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 28 November 2026 at 10:49:36 pm
-
-#EXTINF:-1 tvg-id="4251151" tvg-name="Brescia Lions Vs Rome Gladiators @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Brescia-Lions-vs-Rome-Gladiators_web.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Brescia Lions Vs Rome Gladiators
-https://in-mc-vod.fancode.com/mumbai/4251151_english_hls_acdf23ee4415372_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Saturday, 28 November 2026 at 10:59:35 pm
 
 #EXTINF:-1 tvg-id="4251058" tvg-name="Gulf Giants Vs Dubai Capitals @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251058_53162_GG_DC_FC-APP.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Gulf Giants Vs Dubai Capitals
 https://in-mc-vod.fancode.com/mumbai/4251058_english_hls_eefd7de0ee19658_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250914" tvg-name="Muscat Thunders Women Vs Oca Invincibles Women @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Muscat Thunders Women Vs Oca Invincibles Women
 https://in-mc-vod.fancode.com/mumbai/4250914_english_hls_351938102c15430_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="4250017" tvg-name="Preston North End F.c. Vs Norwich City F.c. @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250017_52993_PST_NOR_fc-web.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Preston North End F.c. Vs Norwich City F.c.
-https://in-mc-vod.fancode.com/mumbai/4250017_english_hls_0f3078357e4413_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 
 #EXTINF:-1 tvg-id="4250973" tvg-name="Al Ahli Saudi Fc Vs Al Taawoun Fc @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250973_53025_AAS_ALTW_FC-App_1795077051519.png" tvg-language="English" group-title="Fancode | Sportlink",ENG | Al Ahli Saudi Fc Vs Al Taawoun Fc
 https://in-mc-vod.fancode.com/mumbai/4250973_english_hls_357cacc57522237_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
@@ -24,16 +18,6 @@ https://in-mc-vod.fancode.com/mumbai/4251118_english_hls_b52a318e9f33808_1ta-di_
 
 #EXTINF:-1 tvg-id="4250888" tvg-name="Day 3 @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Andalucia-Costa-Del-Sol-Open-De-Espana_1080_x_810.jpg" tvg-language="English" group-title="Fancode | Sportlink",ENG | Day 3
 https://in-mc-vod.fancode.com/mumbai/4250888_english_hls_2b8e33f44e79993_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-
-#EXTINF:-1 tvg-id="139660" tvg-name="Sprint Race @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F2-QATAR_fc-web.jpg" group-title="Fancode | Sportlink",[DRM] ENG | Sprint Race
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"3G7J3B0nDnar5HE6pNmpuA","kid":"XfSOer5OS0-GrLNnSdPvbw","kty":"oct"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
-https://in-mc-flive.fancode.com/mumbai/139660_english_dash_23323_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="4247707" tvg-name="Malaga Vs Athletic Club @virat10" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247707_53004_MAG_ATH_FC-Web.png" group-title="Fancode | Sportlink",[DRM] ENG | Malaga Vs Athletic Club
 #KODIPROP:inputstream=inputstream.adaptive
